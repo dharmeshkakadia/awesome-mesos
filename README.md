@@ -39,6 +39,9 @@ awesome-mesos
 33. [Portainer](https://github.com/duedil-ltd/portainer) - builds docker images using Mesos cluster
 34. [HDFS](https://github.com/brugidou/hdfs-mesos)
 35. [Autoscaling](https://github.com/sammyas/autoscaling)
+36. [Matrix Multiplication](https://github.com/mpark/mesos-matrix-multiply)
+37. [Slurm](https://github.com/nqn/slurm-mesos) - incomplete?
+38. [Jetty](https://github.com/guenter/jetty-mesos)
 
 
 ##Language bindings
