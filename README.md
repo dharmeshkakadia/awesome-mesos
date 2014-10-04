@@ -31,6 +31,11 @@ awesome-mesos
 26. [Kubernetes](https://github.com/mesosphere/kubernetes-mesos)
 27. [Deimos](https://github.com/mesosphere/deimos)
 28. [Apache Kafka](https://github.com/stealthly/kafka-mesos)
+29. [Tryant - Distributed job scheduler in go](https://github.com/wandoulabs/tyrant)
+30. [Volt](https://github.com/VoltFramework/volt)
+31. [Myriad - Elastic YARN clusters on Mesos](https://github.com/mesos/myriad)
+32. [Gozer](https://github.com/twitter/gozer) - Prototype with low-level go API
+33. [Portainer](https://github.com/duedil-ltd/portainer) - builds docker images using Mesos cluster
 
 
 ##Language bindings
@@ -40,9 +45,11 @@ awesome-mesos
 2. Python
 3. Pure Python - [Pesos](https://github.com/wickman/pesos)
 3. [Go](https://github.com/mesos/mesos-go)
+4. [Pure Go](https://github.com/vladimirvivien/gomes)
 4. [Erlang](https://github.com/mdevilliers/erlang-mesos)
 5. [Haskell](https://github.com/iand675/hs-mesos)
 6. [Clojure](https://github.com/dgrnbrg/clj-mesos)
+7. [NodeJS](https://github.com/silas/node-mesos)
 
 ##Tools
 
@@ -53,6 +60,12 @@ awesome-mesos
 5. https://github.com/everpeace/vagrant-mesos
 6. https://github.com/ahunnargikar/vagrant-mesos
 7. Using ansible - https://github.com/Woorank/vagrant-mesos-cluster
+8. https://github.com/mhamrah/ansible-mesos-playbook
+8. Another Ansible - https://github.com/AnsibleShipyard/ansible-mesos
+9. https://github.com/AnsibleShipyard/ansible-mesos
+10. https://github.com/AnsibleShipyard/ansible-mesos-docker
+11. https://github.com/AnsibleShipyard/ansible-chronos
+12. https://github.com/AnsibleShipyard/ansible-marathon
 8. https://github.com/gavinln/mesos-marathon
 9. https://github.com/bskaggs/vagrant-deimos
 10. https://github.com/aharwood/vagrant-mesos-spark
@@ -60,6 +73,18 @@ awesome-mesos
 12. https://github.com/smarthall/packer-mesos
 13. https://github.com/antonlindstrom/mesos_playground
 14. https://github.com/liubin/mesos-marathon-deimos-vagrant
+15. [Chef Cookbook for Mesos](https://github.com/mdsol/mesos_cookbook)
+16. https://github.com/deric/mesos-deb-packaging
+17. https://github.com/nmilford/rpm-mesos
+18. https://github.com/berngp/mesos-rpm
+19. https://github.com/cashoefman/chronos
+17. Puppet based - https://github.com/deric/puppet-mesos
+18. CloudFormation - https://github.com/thefactory/cloudformation-mesos
+19. https://github.com/tillt/xcode-mesos
+20. https://github.com/redjack/docker-mesos
+21. https://github.com/thefactory/docker-marathon
+22. https://github.com/yaronr/docker-mesos
+23. https://github.com/rayrod2030/collectd-mesos
 
 ##Talks/Presentations
 
@@ -67,5 +92,16 @@ awesome-mesos
 
 1. https://github.com/kevints/mesos-framework-api
 2. https://github.com/mesosphere/sample_mesos_executor
+3. Simple Mesos "Hello world" in scala - https://gist.github.com/guenter/7471695
 3. https://github.com/CloudCredo/mesos-boshrelease
-
+4. https://github.com/cf-platform-eng/mesos-boshrelease
+4. https://github.com/riywo/sample-fluentd-on-mesos-docker
+5. https://github.com/QubitProducts/bamboo
+6. https://github.com/mesosphere/mesos-utils
+7. https://github.com/mesosphere/mesos-cli
+8. https://github.com/opentable/mesoshub
+9. https://github.com/thefactory/marathon-python
+10. https://github.com/thefactory/marathon-logger
+11. https://github.com/opencredo/mesos_service_discovery
+10. [Mesos in Hadoop](https://github.com/mesos/mih)
+11. [CDH patched for Mesos](https://github.com/mesos/cdh-mesos) - old
