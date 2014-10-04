@@ -45,9 +45,25 @@ awesome-mesos
 
 ##Tools
 
+1. https://github.com/mesosphere/mesosaurus
+2. https://github.com/mesosphere/akka-mesos
+3. https://github.com/mesosphere/playa-mesos
+4. https://github.com/mdevilliers/vagrant-mesos-development-environment
+5. https://github.com/everpeace/vagrant-mesos
+6. https://github.com/ahunnargikar/vagrant-mesos
+7. Using ansible - https://github.com/Woorank/vagrant-mesos-cluster
+8. https://github.com/gavinln/mesos-marathon
+9. https://github.com/bskaggs/vagrant-deimos
+10. https://github.com/aharwood/vagrant-mesos-spark
+11. https://github.com/gavinln/mesos-jenkins
+12. https://github.com/smarthall/packer-mesos
+13. https://github.com/antonlindstrom/mesos_playground
+14. https://github.com/liubin/mesos-marathon-deimos-vagrant
+
 ##Talks/Presentations
 
 ##Other projects
 
 1. https://github.com/kevints/mesos-framework-api
+2. https://github.com/mesosphere/sample_mesos_executor
 
