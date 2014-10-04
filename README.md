@@ -38,6 +38,7 @@ awesome-mesos
 32. [Gozer](https://github.com/twitter/gozer) - Prototype with low-level go API
 33. [Portainer](https://github.com/duedil-ltd/portainer) - builds docker images using Mesos cluster
 34. [HDFS](https://github.com/brugidou/hdfs-mesos)
+35. [Riak](https://github.com/edpaget/riak-mesos)
 35. [Autoscaling](https://github.com/sammyas/autoscaling)
 36. [Matrix Multiplication](https://github.com/mpark/mesos-matrix-multiply)
 37. [Slurm](https://github.com/nqn/slurm-mesos) - incomplete?
@@ -57,6 +58,7 @@ awesome-mesos
 6. [Clojure](https://github.com/dgrnbrg/clj-mesos)
 7. [NodeJS](https://github.com/silas/node-mesos)
 8. [Ruby](https://github.com/burke/mesos-ruby)
+9. [Perl](https://github.com/mark-5/perl-mesos)
 
 ##Tools
 
