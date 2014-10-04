@@ -11,9 +11,13 @@ awesome-mesos
 ##Language bindings
 
 1. [Java](http://mesos.apache.org/api/latest/java/)
+2. Pure java - [Jesos](https://github.com/groupon/jesos)
 2. Python
+3. Pure Python - [Pesos](https://github.com/wickman/pesos)
 3. [Go](https://github.com/mesos/mesos-go)
 4. [Erlang](https://github.com/mdevilliers/erlang-mesos)
+5. [Haskell](https://github.com/iand675/hs-mesos)
+6. [Clojure](https://github.com/dgrnbrg/clj-mesos)
 
 ##Tools
 
