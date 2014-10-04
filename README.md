@@ -30,6 +30,7 @@ awesome-mesos
 25. [RENDLER](https://github.com/mesosphere/RENDLER)
 26. [Kubernetes](https://github.com/mesosphere/kubernetes-mesos)
 27. [Deimos](https://github.com/mesosphere/deimos)
+28. [Apache Kafka](https://github.com/stealthly/kafka-mesos)
 
 
 ##Language bindings
@@ -66,4 +67,5 @@ awesome-mesos
 
 1. https://github.com/kevints/mesos-framework-api
 2. https://github.com/mesosphere/sample_mesos_executor
+3. https://github.com/CloudCredo/mesos-boshrelease
 
