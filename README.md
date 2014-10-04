@@ -27,6 +27,9 @@ awesome-mesos
 22. [Mesos-submit](https://github.com/apache/mesos/tree/master/frameworks/mesos-submit)
 23. [Deploy Jar](https://github.com/apache/mesos/tree/master/frameworks/deploy_jar)
 24. [JobServer](http://www.grandlogic.com/content/html_docs/products.shtml#jobserverprod)
+25. [RENDLER](https://github.com/mesosphere/RENDLER)
+26. [Kubernetes](https://github.com/mesosphere/kubernetes-mesos)
+27. [Deimos](https://github.com/mesosphere/deimos)
 
 
 ##Language bindings
