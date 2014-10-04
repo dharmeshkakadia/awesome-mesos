@@ -22,6 +22,7 @@ awesome-mesos
 17. [SSSP](https://github.com/mesosphere/sssp)
 18. [Singularity](https://github.com/HubSpot/Singularity)
 19. [Jenkins](https://github.com/jenkinsci/mesos-plugin)
+20. [GitLab CI](https://github.com/deric/gitlab-ci-mesos)
 20. [Torque](https://github.com/apache/mesos/tree/master/frameworks/torque)
 21. [HAProxy+Webserver](https://github.com/apache/mesos/tree/master/frameworks/deploy_jar)
 22. [Mesos-submit](https://github.com/apache/mesos/tree/master/frameworks/mesos-submit)
@@ -36,6 +37,8 @@ awesome-mesos
 31. [Myriad - Elastic YARN clusters on Mesos](https://github.com/mesos/myriad)
 32. [Gozer](https://github.com/twitter/gozer) - Prototype with low-level go API
 33. [Portainer](https://github.com/duedil-ltd/portainer) - builds docker images using Mesos cluster
+34. [HDFS](https://github.com/brugidou/hdfs-mesos)
+35. [Autoscaling](https://github.com/sammyas/autoscaling)
 
 
 ##Language bindings
@@ -45,11 +48,12 @@ awesome-mesos
 2. Python
 3. Pure Python - [Pesos](https://github.com/wickman/pesos)
 3. [Go](https://github.com/mesos/mesos-go)
-4. [Pure Go](https://github.com/vladimirvivien/gomes)
+4. Pure go - [Gomes](https://github.com/vladimirvivien/gomes)
 4. [Erlang](https://github.com/mdevilliers/erlang-mesos)
 5. [Haskell](https://github.com/iand675/hs-mesos)
 6. [Clojure](https://github.com/dgrnbrg/clj-mesos)
 7. [NodeJS](https://github.com/silas/node-mesos)
+8. [Ruby](https://github.com/burke/mesos-ruby)
 
 ##Tools
 
@@ -74,9 +78,11 @@ awesome-mesos
 13. https://github.com/antonlindstrom/mesos_playground
 14. https://github.com/liubin/mesos-marathon-deimos-vagrant
 15. [Chef Cookbook for Mesos](https://github.com/mdsol/mesos_cookbook)
+16. https://github.com/JasonGiedymin/chef-mesos
 16. https://github.com/deric/mesos-deb-packaging
 17. https://github.com/nmilford/rpm-mesos
 18. https://github.com/berngp/mesos-rpm
+19. https://github.com/preillyme/mpm
 19. https://github.com/cashoefman/chronos
 17. Puppet based - https://github.com/deric/puppet-mesos
 18. CloudFormation - https://github.com/thefactory/cloudformation-mesos
@@ -84,6 +90,10 @@ awesome-mesos
 20. https://github.com/redjack/docker-mesos
 21. https://github.com/thefactory/docker-marathon
 22. https://github.com/yaronr/docker-mesos
+23. https://github.com/breerly/fig-mesos
+24. https://github.com/veverjak/coreos-mesos-marathon
+25. https://github.com/tnolet/mesos_on_coreos
+24. https://github.com/jayusor/mesos
 23. https://github.com/rayrod2030/collectd-mesos
 
 ##Talks/Presentations
