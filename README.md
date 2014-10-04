@@ -19,6 +19,15 @@ awesome-mesos
 14. [Apache Hama](http://wiki.apache.org/hama/GettingStartedMesos)
 15. [Chapel Parallel Programming Language](https://github.com/nqn/mesos-chapel)
 16. [Chronos](https://github.com/airbnb/chronos)
+17. [SSSP](https://github.com/mesosphere/sssp)
+18. [Singularity](https://github.com/HubSpot/Singularity)
+19. [Jenkins](https://github.com/jenkinsci/mesos-plugin)
+20. [Torque](https://github.com/apache/mesos/tree/master/frameworks/torque)
+21. [HAProxy+Webserver](https://github.com/apache/mesos/tree/master/frameworks/deploy_jar)
+22. [Mesos-submit](https://github.com/apache/mesos/tree/master/frameworks/mesos-submit)
+23. [Deploy Jar](https://github.com/apache/mesos/tree/master/frameworks/deploy_jar)
+24. [JobServer](http://www.grandlogic.com/content/html_docs/products.shtml#jobserverprod)
+
 
 ##Language bindings
 
