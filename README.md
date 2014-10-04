@@ -23,3 +23,7 @@ awesome-mesos
 
 ##Talks/Presentations
 
+##Other projects
+
+1. https://github.com/kevints/mesos-framework-api
+
