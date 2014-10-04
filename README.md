@@ -1,10 +1,10 @@
 awesome-mesos
 =============
 
-#Frameworks
+##Frameworks
 
-#Language bindings
+##Language bindings
 
-#Talks/Presentations
+##Talks/Presentations
 
 
