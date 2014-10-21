@@ -119,6 +119,7 @@ awesome-mesos
 26. supervisor - https://github.com/tnn1t1s/learn-mesos-marathon
 27. NixOps - https://github.com/wmertens/nixops-mesos
 27. https://github.com/mesosphere/scala-sbt-mesos-framework.g8
+28. [2 min guide to bring-up mesos cluster with Babushka](https://github.com/parolkar/mesos-babushka)
 
 ##Talks/Presentations
 
