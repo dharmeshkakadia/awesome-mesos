@@ -121,7 +121,9 @@ awesome-mesos
 27. https://github.com/mesosphere/scala-sbt-mesos-framework.g8
 28. [2 min guide to bring-up mesos cluster with Babushka](https://github.com/parolkar/mesos-babushka)
 
-##Talks/Presentations
+##Talks/Presentations/Conferences
+
+1.) [List of Mesos related conferences & meetups](https://github.com/parolkar/awesome-mesos#related-conferences--meetups)
 
 ##Other projects
 
