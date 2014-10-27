@@ -1,71 +1,75 @@
 awesome-mesos
 =============
 
+Everything about awesome [Apache Mesos](http://mesos.apache.org/). 
+
+Share your Mesos :heart: through pull requests :)
+
 ##Frameworks
 
-1. [Apache Spark](https://spark.apache.org/docs/latest/running-on-mesos.html)
-2. [Apache Hadoop](https://github.com/mesos/hadoop)
-3. [Apache Storm](https://github.com/mesos/storm)
-4. [Apache Cassandra](https://github.com/mesosphere/cassandra-mesos)
-5. [Hypertable](https://code.google.com/p/hypertable/wiki/Mesos)
-6. [ElasticSearch](https://github.com/mesosphere/elasticsearch-mesos)
-7. [Tachyon](https://github.com/mesosphere/tachyon-mesos)
-8. [Apache Aurora](http://aurora.incubator.apache.org/)
-9. [Marathon](https://github.com/mesosphere/marathon)
-10. [distcc](https://github.com/mesos/mesos-distcc)
-11. [Exelixi](https://github.com/ceteri/exelixi)
-12. [MPI](https://github.com/mesosphere/mesos-hydra)
-13. [Dpark](https://github.com/douban/dpark)
-14. [Apache Hama](http://wiki.apache.org/hama/GettingStartedMesos)
-15. [Chapel Parallel Programming Language](https://github.com/nqn/mesos-chapel)
-16. [Chronos](https://github.com/airbnb/chronos)
-17. [SSSP](https://github.com/mesosphere/sssp)
-18. [Singularity](https://github.com/HubSpot/Singularity)
-19. [Jenkins](https://github.com/jenkinsci/mesos-plugin)
-20. [GitLab CI](https://github.com/deric/gitlab-ci-mesos)
-20. [Torque](https://github.com/apache/mesos/tree/master/frameworks/torque)
-21. [HAProxy+Webserver](https://github.com/apache/mesos/tree/master/frameworks/deploy_jar)
-22. [Mesos-submit](https://github.com/apache/mesos/tree/master/frameworks/mesos-submit)
-23. [Deploy Jar](https://github.com/apache/mesos/tree/master/frameworks/deploy_jar)
-24. [JobServer](http://www.grandlogic.com/content/html_docs/products.shtml#jobserverprod)
-25. [RENDLER](https://github.com/mesosphere/RENDLER)
-26. [Kubernetes](https://github.com/mesosphere/kubernetes-mesos)
-27. [Deimos](https://github.com/mesosphere/deimos)
-28. [Apache Kafka](https://github.com/stealthly/kafka-mesos)
-29. [Tryant - Distributed job scheduler in go](https://github.com/wandoulabs/tyrant)
-30. [Volt](https://github.com/VoltFramework/volt)
-31. [Myriad - Elastic YARN clusters on Mesos](https://github.com/mesos/myriad)
-32. [Gozer](https://github.com/twitter/gozer) - Prototype with low-level go API
-33. [Portainer](https://github.com/duedil-ltd/portainer) - builds docker images using Mesos cluster
-34. [HDFS](https://github.com/brugidou/hdfs-mesos) and [HDFS](https://github.com/brndnmtthws/hdfs)
-35. [Riak](https://github.com/edpaget/riak-mesos)
-35. [Autoscaling](https://github.com/sammyas/autoscaling)
-36. [Matrix Multiplication](https://github.com/mpark/mesos-matrix-multiply)
-37. [Slurm](https://github.com/nqn/slurm-mesos) - incomplete?
-38. [Jetty](https://github.com/guenter/jetty-mesos)
-39. [JobTree](https://github.com/kellrott/jobTree-mesos)
-40. [VilfredoMesos: a chameleon Mesos framework](https://github.com/rukletsov/vilfredomesos)
-41. [Sun Grid Engine](https://github.com/kellrott/grid-framework)
-42. [Checkswarm](https://github.com/mbabineau/checkswarm)
+* [Apache Spark](https://spark.apache.org/docs/latest/running-on-mesos.html)
+* [Apache Hadoop](https://github.com/mesos/hadoop)
+* [Apache Storm](https://github.com/mesos/storm)
+* [Apache Cassandra](https://github.com/mesosphere/cassandra-mesos)
+* [Hypertable](https://code.google.com/p/hypertable/wiki/Mesos)
+* [ElasticSearch](https://github.com/mesosphere/elasticsearch-mesos)
+* [Tachyon](https://github.com/mesosphere/tachyon-mesos)
+* [Apache Aurora](http://aurora.incubator.apache.org/)
+* [Marathon](https://github.com/mesosphere/marathon)
+* [distcc](https://github.com/mesos/mesos-distcc)
+* [Exelixi](https://github.com/ceteri/exelixi)
+* [MPI](https://github.com/mesosphere/mesos-hydra)
+* [Dpark](https://github.com/douban/dpark)
+* [Apache Hama](http://wiki.apache.org/hama/GettingStartedMesos)
+* [Chapel Parallel Programming Language](https://github.com/nqn/mesos-chapel)
+* [Chronos](https://github.com/airbnb/chronos)
+* [SSSP](https://github.com/mesosphere/sssp)
+* [Singularity](https://github.com/HubSpot/Singularity)
+* [Jenkins](https://github.com/jenkinsci/mesos-plugin)
+* [GitLab CI](https://github.com/deric/gitlab-ci-mesos)
+* [Torque](https://github.com/apache/mesos/tree/master/frameworks/torque)
+* [HAProxy+Webserver](https://github.com/apache/mesos/tree/master/frameworks/deploy_jar)
+* [Mesos-submit](https://github.com/apache/mesos/tree/master/frameworks/mesos-submit)
+* [Deploy Jar](https://github.com/apache/mesos/tree/master/frameworks/deploy_jar)
+* [JobServer](http://www.grandlogic.com/content/html_docs/products.shtml#jobserverprod)
+* [RENDLER](https://github.com/mesosphere/RENDLER)
+* [Kubernetes](https://github.com/mesosphere/kubernetes-mesos)
+* [Deimos](https://github.com/mesosphere/deimos)
+* [Apache Kafka](https://github.com/stealthly/kafka-mesos)
+* [Tryant - Distributed job scheduler in go](https://github.com/wandoulabs/tyrant)
+* [Volt](https://github.com/VoltFramework/volt)
+* [Myriad - Elastic YARN clusters on Mesos](https://github.com/mesos/myriad)
+* [Gozer](https://github.com/twitter/gozer) - Prototype with low-level go API
+* [Portainer](https://github.com/duedil-ltd/portainer) - builds docker images using Mesos cluster
+* [HDFS](https://github.com/brugidou/hdfs-mesos) and [HDFS](https://github.com/brndnmtthws/hdfs)
+* [Riak](https://github.com/edpaget/riak-mesos)
+* [Autoscaling](https://github.com/sammyas/autoscaling)
+* [Matrix Multiplication](https://github.com/mpark/mesos-matrix-multiply)
+* [Slurm](https://github.com/nqn/slurm-mesos) - incomplete?
+* [Jetty](https://github.com/guenter/jetty-mesos)
+* [JobTree](https://github.com/kellrott/jobTree-mesos)
+* [VilfredoMesos: a chameleon Mesos framework](https://github.com/rukletsov/vilfredomesos)
+* [Sun Grid Engine](https://github.com/kellrott/grid-framework)
+* [Checkswarm](https://github.com/mbabineau/checkswarm)
 
 ##Language bindings
 
-1. C/C++
-2. [Java](http://mesos.apache.org/api/latest/java/)
-2. Pure java - [Jesos](https://github.com/groupon/jesos)
-3. Pure JVM - https://github.com/kevints/mesos-framework-api
-2. Python
-3. Pure Python - [Pesos](https://github.com/wickman/pesos)
-4. Pure Python - [Pymesos](https://github.com/dangra/pymesos)
-3. [Go](https://github.com/mesos/mesos-go)
-4. Pure go - [Gomes](https://github.com/vladimirvivien/gomes)
-4. [Erlang](https://github.com/mdevilliers/erlang-mesos) with [example frmaework](https://github.com/mdevilliers/merkxx)
-5. [Haskell](https://github.com/iand675/hs-mesos)
-6. [Clojure](https://github.com/dgrnbrg/clj-mesos)
-7. [NodeJS](https://github.com/silas/node-mesos)
-8. [JS](https://github.com/topology-io/mesos-js)
-8. [Ruby](https://github.com/burke/mesos-ruby)
-9. [Perl](https://github.com/mark-5/perl-mesos)
+* C/C++
+* [Java](http://mesos.apache.org/api/latest/java/)
+* Pure java - [Jesos](https://github.com/groupon/jesos)
+* Pure JVM - https://github.com/kevints/mesos-framework-api
+* Python
+* Pure Python - [Pesos](https://github.com/wickman/pesos)
+* Pure Python - [Pymesos](https://github.com/dangra/pymesos)
+* [Go](https://github.com/mesos/mesos-go)
+* Pure go - [Gomes](https://github.com/vladimirvivien/gomes)
+* [Erlang](https://github.com/mdevilliers/erlang-mesos) with [example frmaework](https://github.com/mdevilliers/merkxx)
+* [Haskell](https://github.com/iand675/hs-mesos)
+* [Clojure](https://github.com/dgrnbrg/clj-mesos)
+* [NodeJS](https://github.com/silas/node-mesos)
+* [JS](https://github.com/topology-io/mesos-js)
+* [Ruby](https://github.com/burke/mesos-ruby)
+* [Perl](https://github.com/mark-5/perl-mesos)
 
 ##Tools
 
@@ -123,7 +127,7 @@ awesome-mesos
 
 ##Talks/Presentations/Conferences
 
-1.) [List of Mesos related conferences & meetups](https://github.com/parolkar/awesome-mesos#related-conferences--meetups)
+* [List of Mesos related conferences & meetups](https://github.com/parolkar/awesome-mesos#related-conferences--meetups)
 
 ##Other projects
 
