@@ -125,10 +125,6 @@ Share your Mesos :heart: through pull requests :)
 27. https://github.com/mesosphere/scala-sbt-mesos-framework.g8
 28. [2 min guide to bring-up mesos cluster with Babushka](https://github.com/parolkar/mesos-babushka)
 
-##Talks/Presentations/Conferences
-
-* [List of Mesos related conferences & meetups](https://github.com/parolkar/awesome-mesos#related-conferences--meetups)
-
 ##Other projects
 
 1. https://github.com/mesosphere/sample_mesos_executor
@@ -160,3 +156,11 @@ Share your Mesos :heart: through pull requests :)
 18. https://github.com/nicostratus/mesos-services
 19. https://github.com/charlescearl/VirtualMesos - old
 20. https://github.com/mohitsoni/mammoth
+
+##Where to look for more?
+
+* [MesosCon 2014 Videos](https://www.youtube.com/playlist?list=PLDVc2EaAVPg9kp8cFzjR1Yxj96I4U5EGN)
+* [Mesos User Groups](http://mesos.apache.org/community/user-groups/)
+* [Powered By Mesos](http://mesos.apache.org/documentation/latest/powered-by-mesos/)
+* [Mesos Community](http://mesos.apache.org/community/)
+* [List of Mesos related conferences & meetups](https://github.com/parolkar/awesome-mesos#related-conferences--meetups)
