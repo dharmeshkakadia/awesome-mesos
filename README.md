@@ -77,23 +77,8 @@ Share your Mesos :heart: through pull requests :)
 * https://github.com/mesosphere/mesosaurus
 * https://github.com/mesosphere/akka-mesos
 * https://github.com/drexin/akka-mesos
-* https://github.com/mesosphere/playa-mesos
 * https://github.com/mdevilliers/vagrant-mesos-development-environment
-* https://github.com/everpeace/vagrant-mesos
-* https://github.com/ahunnargikar/vagrant-mesos
-* Using ansible - https://github.com/Woorank/vagrant-mesos-cluster
-* https://github.com/mhamrah/ansible-mesos-playbook
-* https://github.com/fupelaqu/ansible-mesos
-* https://github.com/frankhinek/ansible-mesos-cluster
-* https://github.com/curtisgithub/ansible-mmd
-* Another Ansible - https://github.com/AnsibleShipyard/ansible-mesos
-* https://github.com/AnsibleShipyard/ansible-mesos
-* https://github.com/AnsibleShipyard/ansible-mesos-docker
-* https://github.com/AnsibleShipyard/ansible-chronos
-* https://github.com/AnsibleShipyard/ansible-marathon
 * https://github.com/gavinln/mesos-marathon
-* https://github.com/bskaggs/vagrant-deimos
-* https://github.com/aharwood/vagrant-mesos-spark
 * https://github.com/ptorrestr/mesos-spark
 * https://github.com/gavinln/mesos-jenkins
 * https://github.com/smarthall/packer-mesos
@@ -103,8 +88,6 @@ Share your Mesos :heart: through pull requests :)
 * https://github.com/JasonGiedymin/chef-mesos
 * https://github.com/deric/mesos-deb-packaging
 * https://github.com/mesosphere/mesos-deb-packaging
-* https://github.com/nmilford/rpm-mesos
-* https://github.com/berngp/mesos-rpm
 * https://github.com/preillyme/mpm
 * https://github.com/cashoefman/chronos
 * Puppet based - https://github.com/deric/puppet-mesos
@@ -124,6 +107,31 @@ Share your Mesos :heart: through pull requests :)
 * NixOps - https://github.com/wmertens/nixops-mesos
 * https://github.com/mesosphere/scala-sbt-mesos-framework.g8
 * [2 min guide to bring-up mesos cluster with Babushka](https://github.com/parolkar/mesos-babushka)
+
+###Vagrant based setups
+* https://github.com/everpeace/vagrant-mesos
+* https://github.com/mesosphere/playa-mesos* 
+* https://github.com/bskaggs/vagrant-deimos
+* https://github.com/aharwood/vagrant-mesos-spark
+* https://github.com/Woorank/vagrant-mesos-cluster
+* https://github.com/ahunnargikar/vagrant-mesos
+
+###Deployment 
+* https://github.com/mhamrah/ansible-mesos-playbook
+* https://github.com/fupelaqu/ansible-mesos
+* https://github.com/frankhinek/ansible-mesos-cluster
+* https://github.com/curtisgithub/ansible-mmd
+* https://github.com/AnsibleShipyard/ansible-mesos
+* https://github.com/AnsibleShipyard/ansible-mesos
+* https://github.com/AnsibleShipyard/ansible-mesos-docker
+* https://github.com/AnsibleShipyard/ansible-chronos
+* https://github.com/AnsibleShipyard/ansible-marathon
+
+###Packaging
+* https://github.com/nmilford/rpm-mesos
+* https://github.com/berngp/mesos-rpm
+
+###Monitoring
 
 ##Other projects
 
