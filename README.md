@@ -51,6 +51,7 @@ Share your Mesos :heart: through pull requests :)
 * [VilfredoMesos: a chameleon Mesos framework](https://github.com/rukletsov/vilfredomesos)
 * [Sun Grid Engine](https://github.com/kellrott/grid-framework)
 * [Checkswarm](https://github.com/mbabineau/checkswarm)
+* [gasc - Generic Mesos Gang Scheduler for HPC tooling](https://github.com/nqn/gasc)
 
 ##Language bindings
 
@@ -77,7 +78,6 @@ Share your Mesos :heart: through pull requests :)
 * https://github.com/mesosphere/akka-mesos
 * https://github.com/drexin/akka-mesos
 * https://github.com/mesosphere/playa-mesos
-* Generic Mesos Gang Scheduler for HPC tooling - https://github.com/nqn/gasc
 * https://github.com/mdevilliers/vagrant-mesos-development-environment
 * https://github.com/everpeace/vagrant-mesos
 * https://github.com/ahunnargikar/vagrant-mesos
