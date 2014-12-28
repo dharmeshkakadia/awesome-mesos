@@ -157,6 +157,13 @@ Share your Mesos :heart: through pull requests :)
 * https://github.com/charlescearl/VirtualMesos - old
 * https://github.com/mohitsoni/mammoth
 
+##Version compatibility 
+Which version of framework works with which version of Mesos?
+
+|Frmaework\Mesos | 0.21 | 0.20 | 0.19 | 0.18 | 0.17 | 0.16 |
+|----------------|:-----|:-----|:-----|:-----|:-----|:-----|
+|Spark           |      |      |      | 1.2  |      |      | 
+
 ##Where to look for more?
 
 * [MesosCon 2014 Videos](https://www.youtube.com/playlist?list=PLDVc2EaAVPg9kp8cFzjR1Yxj96I4U5EGN)
