@@ -52,6 +52,7 @@ Share your Mesos :heart: through pull requests :)
 * [Sun Grid Engine](https://github.com/kellrott/grid-framework)
 * [Checkswarm](https://github.com/mbabineau/checkswarm)
 * [gasc - Generic Mesos Gang Scheduler for HPC tooling](https://github.com/nqn/gasc)
+* [Mesosaurus](* https://github.com/mesosphere/mesosaurus)
 
 ##Language bindings
 
@@ -74,33 +75,13 @@ Share your Mesos :heart: through pull requests :)
 
 ##Tools
 
-* https://github.com/mesosphere/mesosaurus
+###Tools for Mesos Developers
+* https://github.com/tillt/xcode-mesos
+
+###Tools for Mesos Framework Developers
+* https://github.com/mesosphere/scala-sbt-mesos-framework.g8
 * https://github.com/mesosphere/akka-mesos
 * https://github.com/drexin/akka-mesos
-* https://github.com/mdevilliers/vagrant-mesos-development-environment
-* https://github.com/gavinln/mesos-marathon
-* https://github.com/ptorrestr/mesos-spark
-* https://github.com/gavinln/mesos-jenkins
-* https://github.com/smarthall/packer-mesos
-* https://github.com/antonlindstrom/mesos_playground
-* [Chef Cookbook for Mesos](https://github.com/mdsol/mesos_cookbook)
-* https://github.com/JasonGiedymin/chef-mesos
-* https://github.com/deric/mesos-deb-packaging
-* https://github.com/mesosphere/mesos-deb-packaging
-* https://github.com/preillyme/mpm
-* https://github.com/cashoefman/chronos
-* https://github.com/tillt/xcode-mesos
-* https://github.com/redjack/docker-mesos
-* https://github.com/thefactory/docker-marathon
-* https://github.com/yaronr/docker-mesos
-* https://github.com/breerly/fig-mesos
-* https://github.com/veverjak/coreos-mesos-marathon
-* https://github.com/tnolet/mesos_on_coreos
-* https://github.com/jayusor/mesos
-* https://github.com/nqn/angstrom
-* supervisor - https://github.com/tnn1t1s/learn-mesos-marathon
-* NixOps - https://github.com/wmertens/nixops-mesos
-* https://github.com/mesosphere/scala-sbt-mesos-framework.g8
 
 ###Vagrant based setups
 * https://github.com/everpeace/vagrant-mesos
@@ -110,10 +91,11 @@ Share your Mesos :heart: through pull requests :)
 * https://github.com/Woorank/vagrant-mesos-cluster
 * https://github.com/ahunnargikar/vagrant-mesos
 * https://github.com/liubin/mesos-marathon-deimos-vagrant
+* https://github.com/antonlindstrom/mesos_playground
 
-###Deployment 
+##Deployment 
 
-####Ansible
+###Ansible
 * https://github.com/mhamrah/ansible-mesos-playbook
 * https://github.com/fupelaqu/ansible-mesos
 * https://github.com/frankhinek/ansible-mesos-cluster
@@ -124,18 +106,24 @@ Share your Mesos :heart: through pull requests :)
 * https://github.com/AnsibleShipyard/ansible-chronos
 * https://github.com/AnsibleShipyard/ansible-marathon
 
-####Puppet
+###Chef
+* https://github.com/everpeace/cookbook-mesos
+* https://github.com/mdsol/mesos_cookbook
+
+###Puppet
 * https://github.com/deric/puppet-mesos
 
-####Babushka
+###Babushka
 * https://github.com/parolkar/mesos-babushka
 
-####Cloudformation
+###Cloudformation
 * https://github.com/thefactory/cloudformation-mesos
 
-###Packaging
+##Packaging
 * https://github.com/nmilford/rpm-mesos
 * https://github.com/berngp/mesos-rpm
+* https://github.com/deric/mesos-deb-packaging
+* https://github.com/mesosphere/mesos-deb-packaging
 
 ###Monitoring
 * https://github.com/opentable/nagios-mesos
@@ -172,6 +160,24 @@ Share your Mesos :heart: through pull requests :)
 * https://github.com/nicostratus/mesos-services
 * https://github.com/charlescearl/VirtualMesos - old
 * https://github.com/mohitsoni/mammoth
+* https://github.com/mdevilliers/vagrant-mesos-development-environment
+* https://github.com/gavinln/mesos-marathon
+* https://github.com/ptorrestr/mesos-spark
+* https://github.com/gavinln/mesos-jenkins
+* https://github.com/smarthall/packer-mesos
+* https://github.com/JasonGiedymin/chef-mesos
+* https://github.com/preillyme/mpm
+* https://github.com/cashoefman/chronos
+* https://github.com/redjack/docker-mesos
+* https://github.com/thefactory/docker-marathon
+* https://github.com/yaronr/docker-mesos
+* https://github.com/breerly/fig-mesos
+* https://github.com/veverjak/coreos-mesos-marathon
+* https://github.com/tnolet/mesos_on_coreos
+* https://github.com/jayusor/mesos
+* https://github.com/nqn/angstrom
+* supervisor - https://github.com/tnn1t1s/learn-mesos-marathon
+* NixOps - https://github.com/wmertens/nixops-mesos 
 
 ##Version compatibility 
 Which version of framework works with which version of Mesos?
