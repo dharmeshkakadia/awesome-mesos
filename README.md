@@ -82,6 +82,7 @@ Share your Mesos :heart: through pull requests :)
 * https://github.com/mesosphere/scala-sbt-mesos-framework.g8
 * https://github.com/mesosphere/akka-mesos
 * https://github.com/drexin/akka-mesos
+* Simple Mesos "Hello world" in scala - https://gist.github.com/guenter/7471695
 
 ###Vagrant based setups
 * https://github.com/everpeace/vagrant-mesos
@@ -92,6 +93,14 @@ Share your Mesos :heart: through pull requests :)
 * https://github.com/ahunnargikar/vagrant-mesos
 * https://github.com/liubin/mesos-marathon-deimos-vagrant
 * https://github.com/antonlindstrom/mesos_playground
+* https://github.com/mdevilliers/vagrant-mesos-development-environment
+* https://github.com/gavinln/mesos-marathon
+
+###Docker based setups
+* https://github.com/yaronr/docker-mesos
+* https://github.com/breerly/fig-mesos
+* https://github.com/redjack/docker-mesos
+
 
 ##Deployment 
 
@@ -132,7 +141,6 @@ Share your Mesos :heart: through pull requests :)
 ##Other projects
 
 * https://github.com/mesosphere/sample_mesos_executor
-* Simple Mesos "Hello world" in scala - https://gist.github.com/guenter/7471695
 * https://github.com/CloudCredo/mesos-boshrelease
 * https://github.com/cf-platform-eng/mesos-boshrelease
 * https://github.com/riywo/sample-fluentd-on-mesos-docker
@@ -160,18 +168,13 @@ Share your Mesos :heart: through pull requests :)
 * https://github.com/nicostratus/mesos-services
 * https://github.com/charlescearl/VirtualMesos - old
 * https://github.com/mohitsoni/mammoth
-* https://github.com/mdevilliers/vagrant-mesos-development-environment
-* https://github.com/gavinln/mesos-marathon
 * https://github.com/ptorrestr/mesos-spark
 * https://github.com/gavinln/mesos-jenkins
 * https://github.com/smarthall/packer-mesos
 * https://github.com/JasonGiedymin/chef-mesos
 * https://github.com/preillyme/mpm
 * https://github.com/cashoefman/chronos
-* https://github.com/redjack/docker-mesos
 * https://github.com/thefactory/docker-marathon
-* https://github.com/yaronr/docker-mesos
-* https://github.com/breerly/fig-mesos
 * https://github.com/veverjak/coreos-mesos-marathon
 * https://github.com/tnolet/mesos_on_coreos
 * https://github.com/jayusor/mesos
