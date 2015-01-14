@@ -52,7 +52,7 @@ Share your Mesos :heart: through pull requests :)
 * [Sun Grid Engine](https://github.com/kellrott/grid-framework)
 * [Checkswarm](https://github.com/mbabineau/checkswarm)
 * [gasc - Generic Mesos Gang Scheduler for HPC tooling](https://github.com/nqn/gasc)
-* [Mesosaurus](* https://github.com/mesosphere/mesosaurus)
+* [Mesosaurus](https://github.com/mesosphere/mesosaurus)
 
 ##Language bindings
 
