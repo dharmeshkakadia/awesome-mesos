@@ -83,6 +83,7 @@ Share your Mesos :heart: through pull requests :)
 * https://github.com/mesosphere/akka-mesos
 * https://github.com/drexin/akka-mesos
 * Simple Mesos "Hello world" in scala - https://gist.github.com/guenter/7471695
+* [Mesos State Backed Collections](https://github.com/mesosphere/mesos-state-backed-collections)
 
 ###Vagrant based setups
 * https://github.com/everpeace/vagrant-mesos
@@ -95,6 +96,7 @@ Share your Mesos :heart: through pull requests :)
 * https://github.com/antonlindstrom/mesos_playground
 * https://github.com/mdevilliers/vagrant-mesos-development-environment
 * https://github.com/gavinln/mesos-marathon
+* https://github.com/rasputnik/mesos-centos
 
 ###Docker based setups
 * https://github.com/yaronr/docker-mesos
@@ -181,6 +183,8 @@ Share your Mesos :heart: through pull requests :)
 * https://github.com/nqn/angstrom
 * supervisor - https://github.com/tnn1t1s/learn-mesos-marathon
 * NixOps - https://github.com/wmertens/nixops-mesos 
+* [Marathoner](https://github.com/bobrik/marathoner) - Service discovery in Marathon
+* [Universe](https://github.com/mesosphere/universe) - Mesos package repository
 
 ##Version compatibility 
 Which version of framework works with which version of Mesos?
