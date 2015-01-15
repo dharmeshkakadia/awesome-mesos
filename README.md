@@ -22,7 +22,7 @@ Share your Mesos :heart: through pull requests :)
 * [Dpark](https://github.com/douban/dpark)
 * [Apache Hama](http://wiki.apache.org/hama/GettingStartedMesos)
 * [Chapel Parallel Programming Language](https://github.com/nqn/mesos-chapel)
-* [Chronos](https://github.com/airbnb/chronos)
+* [Chronos](https://github.com/mesos/chronos)
 * [SSSP](https://github.com/mesosphere/sssp)
 * [Singularity](https://github.com/HubSpot/Singularity)
 * [Jenkins](https://github.com/jenkinsci/mesos-plugin)
@@ -41,7 +41,7 @@ Share your Mesos :heart: through pull requests :)
 * [Myriad - Elastic YARN clusters on Mesos](https://github.com/mesos/myriad)
 * [Gozer](https://github.com/twitter/gozer) - Prototype with low-level go API
 * [Portainer](https://github.com/duedil-ltd/portainer) - builds docker images using Mesos cluster
-* [HDFS](https://github.com/brugidou/hdfs-mesos) and [HDFS](https://github.com/brndnmtthws/hdfs)
+* [HDFS](https://github.com/mesosphere/hdfs) (and [HDFS](https://github.com/brugidou/hdfs-mesos) and [HDFS](https://github.com/brndnmtthws/hdfs))
 * [Riak](https://github.com/edpaget/riak-mesos)
 * [Autoscaling](https://github.com/sammyas/autoscaling)
 * [Matrix Multiplication](https://github.com/mpark/mesos-matrix-multiply)
@@ -53,6 +53,8 @@ Share your Mesos :heart: through pull requests :)
 * [Checkswarm](https://github.com/mbabineau/checkswarm)
 * [gasc - Generic Mesos Gang Scheduler for HPC tooling](https://github.com/nqn/gasc)
 * [Mesosaurus](https://github.com/mesosphere/mesosaurus)
+* [pinspider](https://github.com/SwathiMystery/mesos-pinspider)
+* [Samza](https://github.com/Banno/samza-mesos)
 
 ##Language bindings
 
@@ -185,6 +187,7 @@ Share your Mesos :heart: through pull requests :)
 * NixOps - https://github.com/wmertens/nixops-mesos 
 * [Marathoner](https://github.com/bobrik/marathoner) - Service discovery in Marathon
 * [Universe](https://github.com/mesosphere/universe) - Mesos package repository
+* https://github.com/sheepkiller/presto-marathon-docker
 
 ##Version compatibility 
 Which version of framework works with which version of Mesos?
