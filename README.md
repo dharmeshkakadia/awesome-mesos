@@ -55,6 +55,7 @@ Share your Mesos :heart: through pull requests :)
 * [Mesosaurus](https://github.com/mesosphere/mesosaurus)
 * [pinspider](https://github.com/SwathiMystery/mesos-pinspider)
 * [Samza](https://github.com/Banno/samza-mesos)
+* [Example Python Framework](https://github.com/tarnfeld/mesos-python-framework)
 
 ##Language bindings
 
@@ -188,6 +189,8 @@ Share your Mesos :heart: through pull requests :)
 * [Marathoner](https://github.com/bobrik/marathoner) - Service discovery in Marathon
 * [Universe](https://github.com/mesosphere/universe) - Mesos package repository
 * https://github.com/sheepkiller/presto-marathon-docker
+* https://github.com/ortoo/mesos-nerve
+* https://github.com/theclaymethod/Foundry-vagrant-mesos-kafka-cluster
 
 ##Version compatibility 
 Which version of framework works with which version of Mesos?
