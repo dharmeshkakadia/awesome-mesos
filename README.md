@@ -193,6 +193,7 @@ Share your Mesos :heart: through pull requests :)
 * https://github.com/theclaymethod/Foundry-vagrant-mesos-kafka-cluster
 * [DNS based Service Discovery for Mesos](https://github.com/mesosphere/mesos-dns)
 * [Autoscaling Mesos](https://github.com/thefactory/autoscale-python)
+* https://github.com/obaidsalikeen/storm-marathon
 
 ##Version compatibility 
 Which version of framework works with which version of Mesos?
