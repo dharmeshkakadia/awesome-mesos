@@ -133,7 +133,7 @@ Share your Mesos :heart: through pull requests :)
 ###Cloudformation
 * https://github.com/thefactory/cloudformation-mesos
 
-##Packaging
+###Packaging
 * https://github.com/nmilford/rpm-mesos
 * https://github.com/berngp/mesos-rpm
 * https://github.com/deric/mesos-deb-packaging
@@ -142,6 +142,12 @@ Share your Mesos :heart: through pull requests :)
 ###Monitoring
 * https://github.com/opentable/nagios-mesos
 * https://github.com/rayrod2030/collectd-mesos
+
+###Service discovery and Load balancing
+* [Automated HAProxy reconfiguration for Marathon](https://github.com/Wizcorp/frontrunner)
+* [DNS based Service Discovery for Mesos](https://github.com/mesosphere/mesos-dns)
+* [Service Discovery script for Mesos and Marathon](https://github.com/opencredo/mesos_service_discovery)
+* [Marathoner](https://github.com/bobrik/marathoner) - Service discovery in Marathon
 
 ##Other projects
 
@@ -161,7 +167,6 @@ Share your Mesos :heart: through pull requests :)
 * https://github.com/jbdalido/gomarathon
 * https://github.com/mesosphere/chronos-pkg
 * https://github.com/mesosphere/chronos-utils
-* https://github.com/opencredo/mesos_service_discovery
 * [Mesos in Hadoop](https://github.com/mesos/mih)
 * [CDH patched for Mesos](https://github.com/mesos/cdh-mesos) - old
 * https://github.com/siliconcow/docker_paas - old
@@ -186,12 +191,10 @@ Share your Mesos :heart: through pull requests :)
 * https://github.com/nqn/angstrom
 * supervisor - https://github.com/tnn1t1s/learn-mesos-marathon
 * NixOps - https://github.com/wmertens/nixops-mesos 
-* [Marathoner](https://github.com/bobrik/marathoner) - Service discovery in Marathon
 * [Universe](https://github.com/mesosphere/universe) - Mesos package repository
 * https://github.com/sheepkiller/presto-marathon-docker
 * https://github.com/ortoo/mesos-nerve
 * https://github.com/theclaymethod/Foundry-vagrant-mesos-kafka-cluster
-* [DNS based Service Discovery for Mesos](https://github.com/mesosphere/mesos-dns)
 * [Autoscaling Mesos](https://github.com/thefactory/autoscale-python)
 * https://github.com/obaidsalikeen/storm-marathon
 
