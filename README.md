@@ -148,6 +148,7 @@ Share your Mesos :heart: through pull requests :)
 * [DNS based Service Discovery for Mesos](https://github.com/mesosphere/mesos-dns)
 * [Service Discovery script for Mesos and Marathon](https://github.com/opencredo/mesos_service_discovery)
 * [Marathoner](https://github.com/bobrik/marathoner) - Service discovery in Marathon
+* [Bamboo](https://github.com/QubitProducts/bamboo) - Automatically configuring HAProxy for Mesos+Marathon
 
 ##Other projects
 
@@ -155,7 +156,6 @@ Share your Mesos :heart: through pull requests :)
 * https://github.com/CloudCredo/mesos-boshrelease
 * https://github.com/cf-platform-eng/mesos-boshrelease
 * https://github.com/riywo/sample-fluentd-on-mesos-docker
-* https://github.com/QubitProducts/bamboo
 * https://github.com/mesosphere/mesos-utils
 * https://github.com/mesosphere/mesos-cli
 * https://github.com/opentable/mesoshub
