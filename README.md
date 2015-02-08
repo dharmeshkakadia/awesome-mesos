@@ -197,6 +197,7 @@ Share your Mesos :heart: through pull requests :)
 * https://github.com/theclaymethod/Foundry-vagrant-mesos-kafka-cluster
 * [Autoscaling Mesos](https://github.com/thefactory/autoscale-python)
 * https://github.com/obaidsalikeen/storm-marathon
+* Aurora REST interface - https://github.com/misho-kr/mesos-aurora-restful and https://github.com/smarth-madan/incubator-aurora
 
 ##Version compatibility 
 Which version of framework works with which version of Mesos?
