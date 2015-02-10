@@ -56,6 +56,7 @@ Share your Mesos :heart: through pull requests :)
 * [pinspider](https://github.com/SwathiMystery/mesos-pinspider)
 * [Samza](https://github.com/Banno/samza-mesos)
 * [Example Python Framework](https://github.com/tarnfeld/mesos-python-framework)
+* [Amazon ECS Integration (proof-of-concept)](https://github.com/awslabs/ecs-mesos-scheduler-driver)
 
 ##Language bindings
 
