@@ -214,3 +214,4 @@ Which version of framework works with which version of Mesos?
 * [Powered By Mesos](http://mesos.apache.org/documentation/latest/powered-by-mesos/)
 * [Mesos Community](http://mesos.apache.org/community/)
 * [List of Mesos related conferences & meetups](https://github.com/parolkar/awesome-mesos#related-conferences--meetups)
+* [Mesos Blog posts](http://planet.apache.org/mesos/)
