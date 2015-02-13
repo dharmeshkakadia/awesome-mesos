@@ -150,6 +150,7 @@ Share your Mesos :heart: through pull requests :)
 * [Service Discovery script for Mesos and Marathon](https://github.com/opencredo/mesos_service_discovery)
 * [Marathoner](https://github.com/bobrik/marathoner) - Service discovery in Marathon
 * [Bamboo](https://github.com/QubitProducts/bamboo) - Automatically configuring HAProxy for Mesos+Marathon
+* [Consul](http://philzim.com/2014/11/12/service-discovery-orchestration-with-mesos-and-consul/)
 
 ##Other projects
 
