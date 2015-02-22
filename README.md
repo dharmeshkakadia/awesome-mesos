@@ -57,6 +57,7 @@ Share your Mesos :heart: through pull requests :)
 * [Samza](https://github.com/Banno/samza-mesos)
 * [Example Python Framework](https://github.com/tarnfeld/mesos-python-framework)
 * [Amazon ECS Integration (proof-of-concept)](https://github.com/awslabs/ecs-mesos-scheduler-driver)
+* [Charmander](https://github.com/att-innovate/charmander-scheduler)
 
 ##Language bindings
 
