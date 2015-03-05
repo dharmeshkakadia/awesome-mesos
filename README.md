@@ -202,6 +202,7 @@ Share your Mesos :heart: through pull requests :)
 * [Autoscaling Mesos](https://github.com/thefactory/autoscale-python)
 * https://github.com/obaidsalikeen/storm-marathon
 * Aurora REST interface - https://github.com/misho-kr/mesos-aurora-restful and https://github.com/smarth-madan/incubator-aurora
+* [Global Microservice Architecture](https://github.com/CiscoCloud/microservices-infrastructure)
 
 ##Version compatibility 
 Which version of framework works with which version of Mesos?
