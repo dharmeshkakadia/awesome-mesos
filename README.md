@@ -5,17 +5,43 @@ Everything about awesome [Apache Mesos](http://mesos.apache.org/).
 
 Share your Mesos :heart: through pull requests :)
 
+What can you expect to see here?
+
+* [Frameworks](#frameworks)
+* [Language Bindings](#language-bindings)
+* [Tools](#tools)
+* [Deployment](#deployment)
+* [Other Projects](#other-projects)
+* [Version compatibility](#version-compatibility)
+* [Where to look for more?](#where-to-look-for-more)
+
 ##Frameworks
 
+###Data Processing
+
+####Batch Processing
 * [Apache Spark](https://spark.apache.org/docs/latest/running-on-mesos.html)
 * [Apache Hadoop](https://github.com/mesos/hadoop)
+
+####Stream Processing
 * [Apache Storm](https://github.com/mesos/storm)
+* [Samza](https://github.com/Banno/samza-mesos)
+
+####Storage and Serving
 * [Apache Cassandra](https://github.com/mesosphere/cassandra-mesos)
 * [Hypertable](https://code.google.com/p/hypertable/wiki/Mesos)
 * [ElasticSearch](https://github.com/mesosphere/elasticsearch-mesos)
 * [Tachyon](https://github.com/mesosphere/tachyon-mesos)
+* [HDFS](https://github.com/mesosphere/hdfs) (and [HDFS](https://github.com/brugidou/hdfs-mesos) and [HDFS](https://github.com/brndnmtthws/hdfs))
+* [Riak](https://github.com/edpaget/riak-mesos)
+* [Apache Kafka](https://github.com/stealthly/kafka-mesos)
+
+###Service
 * [Apache Aurora](http://aurora.incubator.apache.org/)
 * [Marathon](https://github.com/mesosphere/marathon)
+
+###Experimental/Example/Unsorted
+
 * [distcc](https://github.com/mesos/mesos-distcc)
 * [Exelixi](https://github.com/ceteri/exelixi)
 * [MPI](https://github.com/mesosphere/mesos-hydra)
@@ -35,14 +61,11 @@ Share your Mesos :heart: through pull requests :)
 * [RENDLER](https://github.com/mesosphere/RENDLER)
 * [Kubernetes](https://github.com/mesosphere/kubernetes-mesos)
 * [Deimos](https://github.com/mesosphere/deimos) (deprecated when native [Docker support](http://mesos.apache.org/documentation/latest/docker-containerizer/) was added to Mesos v0.20)
-* [Apache Kafka](https://github.com/stealthly/kafka-mesos)
 * [Tryant - Distributed job scheduler in go](https://github.com/wandoulabs/tyrant)
 * [Volt](https://github.com/VoltFramework/volt)
 * [Myriad - Elastic YARN clusters on Mesos](https://github.com/mesos/myriad)
 * [Gozer](https://github.com/twitter/gozer) - Prototype with low-level go API
 * [Portainer](https://github.com/duedil-ltd/portainer) - builds docker images using Mesos cluster
-* [HDFS](https://github.com/mesosphere/hdfs) (and [HDFS](https://github.com/brugidou/hdfs-mesos) and [HDFS](https://github.com/brndnmtthws/hdfs))
-* [Riak](https://github.com/edpaget/riak-mesos)
 * [Autoscaling](https://github.com/sammyas/autoscaling)
 * [Matrix Multiplication](https://github.com/mpark/mesos-matrix-multiply)
 * [Slurm](https://github.com/nqn/slurm-mesos) - incomplete?
@@ -54,12 +77,11 @@ Share your Mesos :heart: through pull requests :)
 * [gasc - Generic Mesos Gang Scheduler for HPC tooling](https://github.com/nqn/gasc)
 * [Mesosaurus](https://github.com/mesosphere/mesosaurus)
 * [pinspider](https://github.com/SwathiMystery/mesos-pinspider)
-* [Samza](https://github.com/Banno/samza-mesos)
 * [Example Python Framework](https://github.com/tarnfeld/mesos-python-framework)
 * [Amazon ECS Integration (proof-of-concept)](https://github.com/awslabs/ecs-mesos-scheduler-driver)
 * [Charmander](https://github.com/att-innovate/charmander-scheduler)
 
-##Language bindings
+## Language Bindings
 
 * C/C++
 * [Java](http://mesos.apache.org/api/latest/java/)
