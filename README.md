@@ -80,6 +80,7 @@ What can you expect to see here?
 * [Example Python Framework](https://github.com/tarnfeld/mesos-python-framework)
 * [Amazon ECS Integration (proof-of-concept)](https://github.com/awslabs/ecs-mesos-scheduler-driver)
 * [Charmander](https://github.com/att-innovate/charmander-scheduler)
+* [Elastic Sentiment Analysis](https://github.com/mhausenblas/elsa)
 
 ## Language Bindings
 
