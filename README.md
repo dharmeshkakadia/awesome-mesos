@@ -29,6 +29,7 @@ What can you expect to see here?
 
 ####Storage and Serving
 * [Apache Cassandra](https://github.com/mesosphere/cassandra-mesos)
+* [ArangoDB](https://github.com/fceller/arangodb-mesos)
 * [Hypertable](https://code.google.com/p/hypertable/wiki/Mesos)
 * [ElasticSearch](https://github.com/mesosphere/elasticsearch-mesos)
 * [Tachyon](https://github.com/mesosphere/tachyon-mesos)
