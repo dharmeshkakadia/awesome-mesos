@@ -115,6 +115,7 @@ What can you expect to see here?
 * [Mesos State Backed Collections](https://github.com/mesosphere/mesos-state-backed-collections)
 
 ###Vagrant based setups
+* https://github.com/CiscoCloud/microservices-infrastructure
 * https://github.com/everpeace/vagrant-mesos
 * https://github.com/mesosphere/playa-mesos 
 * https://github.com/bskaggs/vagrant-deimos
@@ -136,6 +137,7 @@ What can you expect to see here?
 ##Deployment 
 
 ###Ansible
+* https://github.com/CiscoCloud/microservices-infrastructure
 * https://github.com/mhamrah/ansible-mesos-playbook
 * https://github.com/fupelaqu/ansible-mesos
 * https://github.com/frankhinek/ansible-mesos-cluster
@@ -179,7 +181,7 @@ What can you expect to see here?
 * [Ralph](https://github.com/bobrik/ralph)
 
 ##Other projects
-
+* https://github.com/CiscoCloud/microservices-infrastructure
 * https://github.com/mesosphere/sample_mesos_executor
 * https://github.com/CloudCredo/mesos-boshrelease
 * https://github.com/cf-platform-eng/mesos-boshrelease
