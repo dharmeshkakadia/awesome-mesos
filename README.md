@@ -168,7 +168,7 @@ What can you expect to see here?
 
 ###Monitoring
 * https://github.com/opentable/nagios-mesos
-* https://github.com/rayrod2030/collectd-mesos
+* https://github.com/rayrod2030/collectd-mesos and its dockerized version - https://github.com/bobrik/docker-collectd-mesos
 
 ###Service discovery and Load balancing
 * [Automated HAProxy reconfiguration for Marathon](https://github.com/Wizcorp/frontrunner)
