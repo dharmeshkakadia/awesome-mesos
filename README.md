@@ -22,6 +22,8 @@ What can you expect to see here?
 ####Batch Processing
 * [Apache Spark](https://spark.apache.org/docs/latest/running-on-mesos.html)
 * [Apache Hadoop](https://github.com/mesos/hadoop)
+* [Apache Hama](http://wiki.apache.org/hama/GettingStartedMesos)
+* [Dpark](https://github.com/douban/dpark)
 
 ####Stream Processing
 * [Apache Storm](https://github.com/mesos/storm)
@@ -43,17 +45,17 @@ What can you expect to see here?
 * [Singularity](https://github.com/HubSpot/Singularity)
 * [Chronos](https://github.com/mesos/chronos)
 
+###Continuous Integration
+* [Jenkins](https://github.com/jenkinsci/mesos-plugin)
+* [GitLab CI](https://github.com/deric/gitlab-ci-mesos)
+
 ###Experimental/Example/Unsorted
 
 * [distcc](https://github.com/mesos/mesos-distcc)
 * [Exelixi](https://github.com/ceteri/exelixi)
 * [MPI](https://github.com/mesosphere/mesos-hydra)
-* [Dpark](https://github.com/douban/dpark)
-* [Apache Hama](http://wiki.apache.org/hama/GettingStartedMesos)
 * [Chapel Parallel Programming Language](https://github.com/nqn/mesos-chapel)
 * [SSSP](https://github.com/mesosphere/sssp)
-* [Jenkins](https://github.com/jenkinsci/mesos-plugin)
-* [GitLab CI](https://github.com/deric/gitlab-ci-mesos)
 * [Torque](https://github.com/apache/mesos/tree/master/frameworks/torque)
 * [HAProxy+Webserver](https://github.com/apache/mesos/tree/master/frameworks/deploy_jar)
 * [Mesos-submit](https://github.com/apache/mesos/tree/master/frameworks/mesos-submit)
@@ -61,7 +63,6 @@ What can you expect to see here?
 * [JobServer](http://www.grandlogic.com/content/html_docs/products.shtml#jobserverprod)
 * [RENDLER](https://github.com/mesosphere/RENDLER)
 * [Kubernetes](https://github.com/mesosphere/kubernetes-mesos)
-* [Deimos](https://github.com/mesosphere/deimos) (deprecated when native [Docker support](http://mesos.apache.org/documentation/latest/docker-containerizer/) was added to Mesos v0.20)
 * [Tryant - Distributed job scheduler in go](https://github.com/wandoulabs/tyrant)
 * [Volt](https://github.com/VoltFramework/volt)
 * [Myriad - Elastic YARN clusters on Mesos](https://github.com/mesos/myriad)
@@ -69,7 +70,6 @@ What can you expect to see here?
 * [Portainer](https://github.com/duedil-ltd/portainer) - builds docker images using Mesos cluster
 * [Autoscaling](https://github.com/sammyas/autoscaling)
 * [Matrix Multiplication](https://github.com/mpark/mesos-matrix-multiply)
-* [Slurm](https://github.com/nqn/slurm-mesos) - incomplete?
 * [Jetty](https://github.com/guenter/jetty-mesos)
 * [JobTree](https://github.com/kellrott/jobTree-mesos)
 * [VilfredoMesos: a chameleon Mesos framework](https://github.com/rukletsov/vilfredomesos)
@@ -82,6 +82,10 @@ What can you expect to see here?
 * [Amazon ECS Integration (proof-of-concept)](https://github.com/awslabs/ecs-mesos-scheduler-driver)
 * [Charmander](https://github.com/att-innovate/charmander-scheduler)
 * [Elastic Sentiment Analysis](https://github.com/mhausenblas/elsa)
+
+###Dysfunctional
+* [Deimos](https://github.com/mesosphere/deimos) (deprecated when native [Docker support](http://mesos.apache.org/documentation/latest/docker-containerizer/) was added to Mesos v0.20)
+* [Slurm](https://github.com/nqn/slurm-mesos)
 
 ## Language Bindings
 
