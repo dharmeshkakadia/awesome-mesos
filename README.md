@@ -238,7 +238,7 @@ Which version of framework works with which version of Mesos?
 
 |Frmaework\Mesos | 0.21 | 0.20 | 0.19 | 0.18 | 0.17 | 0.16 |
 |----------------|:-----|:-----|:-----|:-----|:-----|:-----|
-|Spark           |      |      |      | 1.2  |      |      | 
+|Spark           | 1.3  |      |      | 1.2  |      |      | 
 
 ##Where to look for more?
 
