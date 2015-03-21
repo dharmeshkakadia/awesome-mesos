@@ -126,6 +126,7 @@ What can you expect to see here?
 * https://github.com/mdevilliers/vagrant-mesos-development-environment
 * https://github.com/gavinln/mesos-marathon
 * https://github.com/rasputnik/mesos-centos
+* https://github.com/Banno/vagrant-mesos - using Atlas
 
 ###Docker based setups
 * https://github.com/yaronr/docker-mesos
