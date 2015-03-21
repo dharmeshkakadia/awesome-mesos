@@ -37,9 +37,11 @@ What can you expect to see here?
 * [Riak](https://github.com/edpaget/riak-mesos)
 * [Apache Kafka](https://github.com/stealthly/kafka-mesos)
 
-###Service
+###Service/Meta Schedulers
 * [Apache Aurora](http://aurora.incubator.apache.org/)
 * [Marathon](https://github.com/mesosphere/marathon)
+* [Singularity](https://github.com/HubSpot/Singularity)
+* [Chronos](https://github.com/mesos/chronos)
 
 ###Experimental/Example/Unsorted
 
@@ -49,9 +51,7 @@ What can you expect to see here?
 * [Dpark](https://github.com/douban/dpark)
 * [Apache Hama](http://wiki.apache.org/hama/GettingStartedMesos)
 * [Chapel Parallel Programming Language](https://github.com/nqn/mesos-chapel)
-* [Chronos](https://github.com/mesos/chronos)
 * [SSSP](https://github.com/mesosphere/sssp)
-* [Singularity](https://github.com/HubSpot/Singularity)
 * [Jenkins](https://github.com/jenkinsci/mesos-plugin)
 * [GitLab CI](https://github.com/deric/gitlab-ci-mesos)
 * [Torque](https://github.com/apache/mesos/tree/master/frameworks/torque)
