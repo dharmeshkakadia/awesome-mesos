@@ -82,6 +82,7 @@ What can you expect to see here?
 * [Amazon ECS Integration (proof-of-concept)](https://github.com/awslabs/ecs-mesos-scheduler-driver)
 * [Charmander](https://github.com/att-innovate/charmander-scheduler)
 * [Elastic Sentiment Analysis](https://github.com/mhausenblas/elsa)
+* [Tiniest Mesos Scheduler in Python](https://gist.github.com/porterjamesj/93e0ba46f0fa6faf660d)
 
 ###Dysfunctional
 * [Deimos](https://github.com/mesosphere/deimos) (deprecated when native [Docker support](http://mesos.apache.org/documentation/latest/docker-containerizer/) was added to Mesos v0.20)
