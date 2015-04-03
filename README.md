@@ -83,6 +83,7 @@ What can you expect to see here?
 * [Charmander](https://github.com/att-innovate/charmander-scheduler)
 * [Elastic Sentiment Analysis](https://github.com/mhausenblas/elsa)
 * [Tiniest Mesos Scheduler in Python](https://gist.github.com/porterjamesj/93e0ba46f0fa6faf660d)
+* [Anagram Finder](https://github.com/mesosphere/ANAGRAMMER)
 
 ###Dysfunctional
 * [Deimos](https://github.com/mesosphere/deimos) (deprecated when native [Docker support](http://mesos.apache.org/documentation/latest/docker-containerizer/) was added to Mesos v0.20)
