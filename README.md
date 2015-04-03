@@ -166,6 +166,9 @@ What can you expect to see here?
 ###Cloudformation
 * https://github.com/thefactory/cloudformation-mesos
 
+###Terraform
+* https://github.com/tonyjchong/terraform-mesos
+
 ###Packaging
 * https://github.com/nmilford/rpm-mesos
 * https://github.com/berngp/mesos-rpm
