@@ -183,6 +183,7 @@ What can you expect to see here?
 * [Bamboo](https://github.com/QubitProducts/bamboo) - Automatically configuring HAProxy for Mesos+Marathon
 * [Consul](http://philzim.com/2014/11/12/service-discovery-orchestration-with-mesos-and-consul/)
 * [Ralph](https://github.com/bobrik/ralph)
+* [Zoidberg](https://github.com/bobrik/zoidberg)
 
 ##Other projects
 
