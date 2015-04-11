@@ -38,6 +38,7 @@ What can you expect to see here?
 * [HDFS](https://github.com/mesosphere/hdfs) (and [HDFS](https://github.com/brugidou/hdfs-mesos) and [HDFS](https://github.com/brndnmtthws/hdfs))
 * [Riak](https://github.com/edpaget/riak-mesos)
 * [Apache Kafka](https://github.com/stealthly/kafka-mesos)
+* [Mysos - MySQL on Mesos](https://wiki.apache.org/incubator/MysosProposal)
 
 ###Service/Meta Schedulers
 * [Apache Aurora](http://aurora.incubator.apache.org/)
@@ -152,6 +153,7 @@ What can you expect to see here?
 * https://github.com/AnsibleShipyard/ansible-mesos-docker
 * https://github.com/AnsibleShipyard/ansible-chronos
 * https://github.com/AnsibleShipyard/ansible-marathon
+* [Deploy apps on marathon from ansible](https://github.com/Topface/ansible-marathon_app)
 
 ###Chef
 * https://github.com/everpeace/cookbook-mesos
@@ -178,6 +180,7 @@ What can you expect to see here?
 ###Monitoring
 * https://github.com/opentable/nagios-mesos
 * https://github.com/rayrod2030/collectd-mesos and its dockerized version - https://github.com/bobrik/docker-collectd-mesos
+* [Plot Marathon Metrics](https://github.com/topology-io/marathon-metrics-watcher)
 
 ###Service discovery and Load balancing
 * [Automated HAProxy reconfiguration for Marathon](https://github.com/Wizcorp/frontrunner)
@@ -238,6 +241,7 @@ What can you expect to see here?
 * https://github.com/obaidsalikeen/storm-marathon
 * Aurora REST interface - https://github.com/misho-kr/mesos-aurora-restful and https://github.com/smarth-madan/incubator-aurora
 * [Global Microservice Architecture](https://github.com/CiscoCloud/microservices-infrastructure)
+* [Storm Marathon](https://github.com/obaidsalikeen/storm-marathon)
 
 ##Version compatibility 
 Which version of framework works with which version of Mesos?
