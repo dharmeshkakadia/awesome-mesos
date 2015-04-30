@@ -188,7 +188,7 @@ What can you expect to see here?
 * [Service Discovery script for Mesos and Marathon](https://github.com/opencredo/mesos_service_discovery)
 * [Marathoner](https://github.com/bobrik/marathoner) - Service discovery in Marathon
 * [Bamboo](https://github.com/QubitProducts/bamboo) - Automatically configuring HAProxy for Mesos+Marathon
-* [Consul](http://philzim.com/2014/11/12/service-discovery-orchestration-with-mesos-and-consul/)
+* [Mesos-Consul](https://github.com/CiscoCloud/mesos-consul) and [Service Discovery & Orchestration With Mesos and Consul](http://philzim.com/2014/11/12/service-discovery-orchestration-with-mesos-and-consul/)
 * [Ralph](https://github.com/bobrik/ralph)
 * [Zoidberg](https://github.com/bobrik/zoidberg)
 
