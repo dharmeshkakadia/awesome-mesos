@@ -179,7 +179,7 @@ What can you expect to see here?
 
 ###Monitoring
 * https://github.com/opentable/nagios-mesos
-* https://github.com/rayrod2030/collectd-mesos and its dockerized version - https://github.com/bobrik/docker-collectd-mesos
+* https://github.com/bobrik/collectd-mesos-tasks and (https://github.com/rayrod2030/collectd-mesos and its dockerized version - https://github.com/bobrik/docker-collectd-mesos)
 * [Plot Marathon Metrics](https://github.com/topology-io/marathon-metrics-watcher)
 
 ###Service discovery and Load balancing
@@ -191,6 +191,7 @@ What can you expect to see here?
 * [Mesos-Consul](https://github.com/CiscoCloud/mesos-consul) and [Service Discovery & Orchestration With Mesos and Consul](http://philzim.com/2014/11/12/service-discovery-orchestration-with-mesos-and-consul/)
 * [Ralph](https://github.com/bobrik/ralph)
 * [Zoidberg](https://github.com/bobrik/zoidberg)
+* [Aurproxy](https://github.com/tellapart/aurproxy)
 
 ##Other projects
 
