@@ -195,6 +195,7 @@ What can you expect to see here?
 
 ##Other projects
 
+* [Apollo](https://github.com/Capgemini/Apollo)
 * https://github.com/mesosphere/sample_mesos_executor
 * https://github.com/CloudCredo/mesos-boshrelease
 * https://github.com/cf-platform-eng/mesos-boshrelease
