@@ -194,7 +194,7 @@ What can you expect to see here?
 * [Aurproxy](https://github.com/tellapart/aurproxy)
 
 ##Other projects
-
+* [BigDataScript](https://github.com/pcingola/BigDataScript)
 * [Apollo](https://github.com/Capgemini/Apollo)
 * https://github.com/mesosphere/sample_mesos_executor
 * https://github.com/CloudCredo/mesos-boshrelease
