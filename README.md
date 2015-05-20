@@ -39,6 +39,7 @@ What can you expect to see here?
 * [Riak](https://github.com/edpaget/riak-mesos)
 * [Apache Kafka](https://github.com/stealthly/kafka-mesos)
 * [Mysos - MySQL on Mesos](https://wiki.apache.org/incubator/MysosProposal)
+* [MongoDB](https://github.com/massenz/mongo_fw)
 
 ###Service/Meta Schedulers
 * [Apache Aurora](http://aurora.incubator.apache.org/)
@@ -85,6 +86,7 @@ What can you expect to see here?
 * [Elastic Sentiment Analysis](https://github.com/mhausenblas/elsa)
 * [Tiniest Mesos Scheduler in Python](https://gist.github.com/porterjamesj/93e0ba46f0fa6faf660d)
 * [Anagram Finder](https://github.com/mesosphere/ANAGRAMMER)
+* [Clojure Example](https://github.com/edpaget/hello-mesos)
 
 ###Dysfunctional
 * [Deimos](https://github.com/mesosphere/deimos) (deprecated when native [Docker support](http://mesos.apache.org/documentation/latest/docker-containerizer/) was added to Mesos v0.20)
