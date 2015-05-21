@@ -109,7 +109,7 @@ What can you expect to see here?
 * Pure go - [Gomes](https://github.com/vladimirvivien/gomes)
 * [Erlang](https://github.com/mdevilliers/erlang-mesos) with [example frmaework](https://github.com/mdevilliers/merkxx)
 * [Haskell](https://github.com/iand675/hs-mesos)
-* [Clojure](https://github.com/dgrnbrg/clj-mesos)
+* [Clojure](https://github.com/dgrnbrg/clj-mesos) and [mesomatic](https://github.com/pyr/mesomatic)
 * [NodeJS](https://github.com/silas/node-mesos)
 * [JS](https://github.com/topology-io/mesos-js)
 * [Ruby](https://github.com/burke/mesos-ruby)
@@ -254,7 +254,11 @@ What can you expect to see here?
 * [Storm Marathon](https://github.com/obaidsalikeen/storm-marathon)
 * https://github.com/tailhook/mesos-tests
 * https://github.com/nlamirault/magneto
+* [REPL-MESOS](https://github.com/replme/repl-mesos)
+* [Relay.Mesos](https://github.com/sailthru/relay.mesos)
+* [Ochopod](https://github.com/autodesk-cloud/ochopod)
 * [Mesos on Mesos](https://github.com/mesosphere/mom)
+
 
 ##Version compatibility 
 Which version of framework works with which version of Mesos?
