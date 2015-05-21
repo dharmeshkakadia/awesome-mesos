@@ -40,6 +40,8 @@ What can you expect to see here?
 * [Apache Kafka](https://github.com/stealthly/kafka-mesos)
 * [Mysos - MySQL on Mesos](https://wiki.apache.org/incubator/MysosProposal)
 * [MongoDB](https://github.com/massenz/mongo_fw)
+* [Hemlock](https://github.com/spacejam/hemlock)
+* [Apache Drill](https://github.com/mhausenblas/dromedar)
 
 ###Service/Meta Schedulers
 * [Apache Aurora](http://aurora.incubator.apache.org/)
@@ -50,6 +52,7 @@ What can you expect to see here?
 ###Continuous Integration
 * [Jenkins](https://github.com/jenkinsci/mesos-plugin)
 * [GitLab CI](https://github.com/deric/gitlab-ci-mesos)
+* [Teamcity Plugin](https://github.com/ankurcha/mesos-teamcity-plugin)
 
 ###Experimental/Example/Unsorted
 
@@ -110,11 +113,13 @@ What can you expect to see here?
 * [JS](https://github.com/topology-io/mesos-js)
 * [Ruby](https://github.com/burke/mesos-ruby)
 * [Perl](https://github.com/mark-5/perl-mesos)
+* [Rust](https://github.com/ConnorDoyle/resos)
 
 ##Tools
 
 ###Tools for Mesos Developers
 * https://github.com/tillt/xcode-mesos
+* https://github.com/mesos/modules
 
 ###Tools for Mesos Framework Developers
 * https://github.com/mesosphere/scala-sbt-mesos-framework.g8
@@ -246,6 +251,9 @@ What can you expect to see here?
 * Aurora REST interface - https://github.com/misho-kr/mesos-aurora-restful and https://github.com/smarth-madan/incubator-aurora
 * [Global Microservice Architecture](https://github.com/CiscoCloud/microservices-infrastructure)
 * [Storm Marathon](https://github.com/obaidsalikeen/storm-marathon)
+* https://github.com/tailhook/mesos-tests
+* https://github.com/nlamirault/magneto
+* [Mesos on Mesos](https://github.com/mesosphere/mom)
 
 ##Version compatibility 
 Which version of framework works with which version of Mesos?
