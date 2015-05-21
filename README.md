@@ -67,6 +67,7 @@ What can you expect to see here?
 * [Deploy Jar](https://github.com/apache/mesos/tree/master/frameworks/deploy_jar)
 * [JobServer](http://www.grandlogic.com/content/html_docs/products.shtml#jobserverprod)
 * [RENDLER](https://github.com/mesosphere/RENDLER)
+* [OwlCrawler](https://github.com/fmpwizard/owlcrawler)
 * [Kubernetes](https://github.com/mesosphere/kubernetes-mesos)
 * [Tryant - Distributed job scheduler in go](https://github.com/wandoulabs/tyrant)
 * [Volt](https://github.com/VoltFramework/volt)
