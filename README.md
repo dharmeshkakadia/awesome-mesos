@@ -92,6 +92,7 @@ What can you expect to see here?
 * [Anagram Finder](https://github.com/mesosphere/ANAGRAMMER)
 * [Clojure Example](https://github.com/edpaget/hello-mesos)
 * [Example Mesos framework in Java to launch Docker containers](https://github.com/codefutures/mesos-docker-tutorial)
+* [Example framework for Apache Mesos Essentials book](https://github.com/dharmeshkakadia/MonteCarloArea)
 
 ###Dysfunctional
 * [Deimos](https://github.com/mesosphere/deimos) (deprecated when native [Docker support](http://mesos.apache.org/documentation/latest/docker-containerizer/) was added to Mesos v0.20)
@@ -284,3 +285,4 @@ Which version of framework works with which version of Mesos?
 * [Mesos Community](http://mesos.apache.org/community/)
 * [List of Mesos related conferences & meetups](https://github.com/parolkar/awesome-mesos#related-conferences--meetups)
 * [Mesos Blog posts](http://planet.apache.org/mesos/)
+* [Apache Mesos Essentails book](http://dharmeshkakadia.blogspot.com/2015/06/apache-mesos-essential-is-now-available.html)
