@@ -91,6 +91,7 @@ What can you expect to see here?
 * [Tiniest Mesos Scheduler in Python](https://gist.github.com/porterjamesj/93e0ba46f0fa6faf660d)
 * [Anagram Finder](https://github.com/mesosphere/ANAGRAMMER)
 * [Clojure Example](https://github.com/edpaget/hello-mesos)
+* [Example Mesos framework in Java to launch Docker containers](https://github.com/codefutures/mesos-docker-tutorial)
 
 ###Dysfunctional
 * [Deimos](https://github.com/mesosphere/deimos) (deprecated when native [Docker support](http://mesos.apache.org/documentation/latest/docker-containerizer/) was added to Mesos v0.20)
@@ -189,6 +190,8 @@ What can you expect to see here?
 * https://github.com/opentable/nagios-mesos
 * https://github.com/bobrik/collectd-mesos-tasks and (https://github.com/rayrod2030/collectd-mesos and its dockerized version - https://github.com/bobrik/docker-collectd-mesos)
 * [Plot Marathon Metrics](https://github.com/topology-io/marathon-metrics-watcher)
+* [Satellite](https://github.com/twosigma/satellite)
+* [Prometheus](https://github.com/prometheus/mesos_exporter)
 
 ###Service discovery and Load balancing
 * [Automated HAProxy reconfiguration for Marathon](https://github.com/Wizcorp/frontrunner)
@@ -200,6 +203,9 @@ What can you expect to see here?
 * [Ralph](https://github.com/bobrik/ralph)
 * [Zoidberg](https://github.com/bobrik/zoidberg)
 * [Aurproxy](https://github.com/tellapart/aurproxy)
+
+### Modules
+* [A customer allocator module](https://github.com/stealthly/alligator)
 
 ##Other projects
 * [BigDataScript](https://github.com/pcingola/BigDataScript)
@@ -258,6 +264,9 @@ What can you expect to see here?
 * [Relay.Mesos](https://github.com/sailthru/relay.mesos)
 * [Ochopod](https://github.com/autodesk-cloud/ochopod)
 * [Mesos on Mesos](https://github.com/mesosphere/mom)
+* [Load replaying](https://github.com/stealthly/punxsutawney)
+* [Vamp](https://github.com/magneticio/vamp)
+* [Dispatch - execute scripts on Mesos cluster](https://github.com/mesosphere/dispatch)
 
 
 ##Version compatibility 
