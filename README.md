@@ -42,6 +42,7 @@ What can you expect to see here?
 * [MongoDB](https://github.com/massenz/mongo_fw)
 * [Hemlock](https://github.com/spacejam/hemlock)
 * [Apache Drill](https://github.com/mhausenblas/dromedar)
+* [Ceph](https://github.com/Intel-bigdata/ceph-mesos)
 
 ###Service/Meta Schedulers
 * [Apache Aurora](http://aurora.incubator.apache.org/)
