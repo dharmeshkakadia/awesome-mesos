@@ -49,6 +49,9 @@ What can you expect to see here?
 * [Marathon](https://github.com/mesosphere/marathon)
 * [Singularity](https://github.com/HubSpot/Singularity)
 * [Chronos](https://github.com/mesos/chronos)
+ 
+###Consensus 
+* [ZooKeeper](https://github.com/CiscoCloud/exhibitor-mesos-framework)
 
 ###Continuous Integration
 * [Jenkins](https://github.com/jenkinsci/mesos-plugin)
