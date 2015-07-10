@@ -134,6 +134,7 @@ What can you expect to see here?
 * https://github.com/drexin/akka-mesos
 * Simple Mesos "Hello world" in scala - https://gist.github.com/guenter/7471695
 * [Mesos State Backed Collections](https://github.com/mesosphere/mesos-state-backed-collections)
+* [mini-mesos - Testing infrastructure for Mesos frameworks](https://github.com/containersolutions/mini-mesos)
 
 ###Vagrant based setups
 * https://github.com/everpeace/vagrant-mesos
@@ -183,6 +184,7 @@ What can you expect to see here?
 * https://github.com/thefactory/cloudformation-mesos
 
 ###Terraform
+* https://github.com/ContainerSolutions/terraform-mesos
 * https://github.com/tonyjchong/terraform-mesos
 
 ###Packaging
