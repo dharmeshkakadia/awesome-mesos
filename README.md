@@ -242,7 +242,7 @@ What can you expect to see here?
 * https://github.com/outbrain/onering-report-mesos
 * https://github.com/nlamirault/magneto
 * https://github.com/klueska/mesos-akaros and https://github.com/alfongj/mesos-akaros
-* https://github.com/nicostratus/mesos-services
+* https://github.com/nicostratus/mesos-services [defunct]
 * https://github.com/charlescearl/VirtualMesos - old
 * https://github.com/mohitsoni/mammoth
 * https://github.com/ptorrestr/mesos-spark
