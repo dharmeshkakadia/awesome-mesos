@@ -97,6 +97,8 @@ What can you expect to see here?
 * [Clojure Example](https://github.com/edpaget/hello-mesos)
 * [Example Mesos framework in Java to launch Docker containers](https://github.com/codefutures/mesos-docker-tutorial)
 * [Example framework for Apache Mesos Essentials book](https://github.com/dharmeshkakadia/MonteCarloArea)
+* [Bitcoin Miner](https://github.com/derekchiang/Mesos-Bitcoin-Miner)
+* [Closest-pairs in 2D with divide-and-conquer](https://github.com/chenlily/closest-pair)
 
 ###Dysfunctional
 * [Deimos](https://github.com/mesosphere/deimos) (deprecated when native [Docker support](http://mesos.apache.org/documentation/latest/docker-containerizer/) was added to Mesos v0.20)
