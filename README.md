@@ -282,7 +282,7 @@ What can you expect to see here?
 Which version of framework works with which version of Mesos?
 (Note that this information is only coming from documentation/release notes of the coressponding projects. Most projects are _likely_ to work with latest versions of Mesos just fine, unless stated otherwise)
 
-|Frmaework\Mesos | 0.21 | 0.20 | 0.19 | 0.18 | 0.17 | 0.16 |
+|Framework\Mesos | 0.21 | 0.20 | 0.19 | 0.18 | 0.17 | 0.16 |
 |----------------|:-----|:-----|:-----|:-----|:-----|:-----|
 |Spark           | 1.4, 1.3  |      |      | 1.2  |      |      | 
 
@@ -294,4 +294,4 @@ Which version of framework works with which version of Mesos?
 * [Mesos Community](http://mesos.apache.org/community/)
 * [List of Mesos related conferences & meetups](https://github.com/parolkar/awesome-mesos#related-conferences--meetups)
 * [Mesos Blog posts](http://planet.apache.org/mesos/)
-* [Apache Mesos Essentails book](http://dharmeshkakadia.blogspot.com/2015/06/apache-mesos-essential-is-now-available.html)
+* [Apache Mesos Essentials book](http://dharmeshkakadia.blogspot.com/2015/06/apache-mesos-essential-is-now-available.html)
