@@ -280,6 +280,7 @@ What can you expect to see here?
 
 ##Version compatibility 
 Which version of framework works with which version of Mesos?
+(Note that this information is only coming from documentation/release notes of the coressponding projects. Most projects are _likely_ to work with latest versions of Mesos just fine, unless stated otherwise)
 
 |Frmaework\Mesos | 0.21 | 0.20 | 0.19 | 0.18 | 0.17 | 0.16 |
 |----------------|:-----|:-----|:-----|:-----|:-----|:-----|
