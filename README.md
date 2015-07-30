@@ -215,6 +215,7 @@ What can you expect to see here?
 
 ### Modules
 * [A customer allocator module](https://github.com/stealthly/alligator)
+* [Serenity](https://github.com/mesosphere/serenity)
 
 ##Other projects
 * [BigDataScript](https://github.com/pcingola/BigDataScript)
