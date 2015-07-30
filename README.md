@@ -157,6 +157,8 @@ What can you expect to see here?
 * https://github.com/breerly/fig-mesos
 * https://github.com/redjack/docker-mesos
 
+###Visualization
+* (Visualize Mesos traces)[https://github.com/tnachen/mesos_traces_vis]
 
 ##Deployment 
 
