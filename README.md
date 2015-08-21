@@ -138,6 +138,7 @@ What can you expect to see here?
 * Simple Mesos "Hello world" in scala - https://gist.github.com/guenter/7471695
 * [Mesos State Backed Collections](https://github.com/mesosphere/mesos-state-backed-collections)
 * [mini-mesos - Testing infrastructure for Mesos frameworks](https://github.com/containersolutions/mini-mesos)
+* [Fenzo - Cross framework pluggable task scheduling library](https://github.com/Netflix/Fenzo)
 
 ###Vagrant based setups
 * https://github.com/everpeace/vagrant-mesos
