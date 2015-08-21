@@ -288,6 +288,7 @@ What can you expect to see here?
 * [Vamp](https://github.com/magneticio/vamp)
 * [Dispatch - execute scripts on Mesos cluster](https://github.com/mesosphere/dispatch)
 * [Charmander](https://github.com/att-innovate/charmander)
+* [Compose-executor](https://github.com/mohitsoni/compose-executor)
 
 
 ##Version compatibility 
