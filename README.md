@@ -116,7 +116,7 @@ What can you expect to see here?
 * Pure Python - [Pymesos](https://github.com/dangra/pymesos)
 * [Go](https://github.com/mesos/mesos-go)
 * Pure go - [Gomes](https://github.com/vladimirvivien/gomes)
-* [Erlang](https://github.com/mdevilliers/erlang-mesos) with [example frmaework](https://github.com/mdevilliers/merkxx)
+* [Erlang](https://github.com/mdevilliers/erlang-mesos) with [example framework](https://github.com/mdevilliers/merkxx)
 * [Haskell](https://github.com/iand675/hs-mesos)
 * [Clojure](https://github.com/dgrnbrg/clj-mesos) and [mesomatic](https://github.com/pyr/mesomatic)
 * [NodeJS](https://github.com/silas/node-mesos)
@@ -221,9 +221,15 @@ What can you expect to see here?
 * [Serenity](https://github.com/mesosphere/serenity)
 * [Metaswitch](https://github.com/mesosphere/metaswitch-modules)
 
+### Platforms and microservice architectures
+* [CiscoCloud Microservice Architecture](https://github.com/CiscoCloud/microservices-infrastructure)
+* [Apollo](https://github.com/Capgemini/Apollo)
+* [PanteraS](https://github.com/eBayClassifiedsGroup/PanteraS) - PanteraS - Platform as a Service in a box
+* [Vamp](http://vamp.io/) - The Very Awesome Microservices Platform
+* [Compute platform](https://github.com/sttts/compute-platform)
+
 ##Other projects
 * [BigDataScript](https://github.com/pcingola/BigDataScript)
-* [Apollo](https://github.com/Capgemini/Apollo)
 * https://github.com/mesosphere/sample_mesos_executor
 * https://github.com/CloudCredo/mesos-boshrelease
 * https://github.com/cf-platform-eng/mesos-boshrelease
@@ -270,7 +276,6 @@ What can you expect to see here?
 * [Autoscaling Mesos](https://github.com/thefactory/autoscale-python)
 * https://github.com/obaidsalikeen/storm-marathon
 * Aurora REST interface - https://github.com/misho-kr/mesos-aurora-restful and https://github.com/smarth-madan/incubator-aurora
-* [Global Microservice Architecture](https://github.com/CiscoCloud/microservices-infrastructure)
 * [Storm Marathon](https://github.com/obaidsalikeen/storm-marathon)
 * https://github.com/tailhook/mesos-tests
 * https://github.com/nlamirault/magneto
@@ -281,6 +286,7 @@ What can you expect to see here?
 * [Load replaying](https://github.com/stealthly/punxsutawney)
 * [Vamp](https://github.com/magneticio/vamp)
 * [Dispatch - execute scripts on Mesos cluster](https://github.com/mesosphere/dispatch)
+* [Charmander](https://github.com/att-innovate/charmander)
 
 
 ##Version compatibility 
