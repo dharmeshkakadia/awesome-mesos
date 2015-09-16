@@ -155,9 +155,10 @@ What can you expect to see here?
 * https://github.com/Banno/vagrant-mesos - using Atlas
 
 ###Docker based setups
-* https://github.com/yaronr/docker-mesos
 * https://github.com/breerly/fig-mesos
+* https://github.com/dontrebootme/compose-mesos
 * https://github.com/redjack/docker-mesos
+* https://github.com/yaronr/docker-mesos
 
 ###Visualization
 * [Visualize Mesos traces](https://github.com/tnachen/mesos_traces_vis)
