@@ -224,6 +224,7 @@ What can you expect to see here?
 * [A customer allocator module](https://github.com/stealthly/alligator)
 * [Serenity](https://github.com/mesosphere/serenity)
 * [Metaswitch](https://github.com/mesosphere/metaswitch-modules)
+* [Network Isolator](https://github.com/mesosphere/net-modules)
 
 ### Platforms and microservice architectures
 * [CiscoCloud Microservice Architecture](https://github.com/CiscoCloud/microservices-infrastructure)
