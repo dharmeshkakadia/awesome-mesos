@@ -51,6 +51,7 @@ What can you expect to see here?
 * [Marathon](https://github.com/mesosphere/marathon)
 * [Singularity](https://github.com/HubSpot/Singularity)
 * [Chronos](https://github.com/mesos/chronos)
+* [Cook Scheduler](https://github.com/twosigma/Cook)
  
 ###Consensus 
 * [ZooKeeper](https://github.com/CiscoCloud/exhibitor-mesos-framework)
