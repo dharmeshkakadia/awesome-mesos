@@ -162,6 +162,7 @@ What can you expect to see here?
 * https://github.com/dontrebootme/compose-mesos
 * https://github.com/redjack/docker-mesos
 * https://github.com/yaronr/docker-mesos
+* https://github.com/schibsted/mesoscope
 
 ###Visualization
 * [Visualize Mesos traces](https://github.com/tnachen/mesos_traces_vis)
@@ -294,6 +295,7 @@ What can you expect to see here?
 * [Dispatch - execute scripts on Mesos cluster](https://github.com/mesosphere/dispatch)
 * [Charmander](https://github.com/att-innovate/charmander)
 * [Compose-executor](https://github.com/mohitsoni/compose-executor)
+* [Triathlon - Marathon wrapper for distributed Mesos cluster selection](https://github.com/schibsted/triathlon)
 
 
 ##Version compatibility 
