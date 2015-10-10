@@ -45,6 +45,7 @@ What can you expect to see here?
 * [Apache Drill](https://github.com/mhausenblas/dromedar)
 * [Ceph](https://github.com/Intel-bigdata/ceph-mesos)
 * [Crate](https://github.com/crate/crate-mesos-framework)
+* [Apache Accumulo](https://github.com/aredee/accumulo-mesos)
 
 ###Service/Meta Schedulers
 * [Apache Aurora](http://aurora.incubator.apache.org/)
