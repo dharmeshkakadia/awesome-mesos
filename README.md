@@ -297,6 +297,7 @@ What can you expect to see here?
 * [Charmander](https://github.com/att-innovate/charmander)
 * [Compose-executor](https://github.com/mohitsoni/compose-executor)
 * [Triathlon - Marathon wrapper for distributed Mesos cluster selection](https://github.com/schibsted/triathlon)
+* [megos - Go(lang) client library for accessing information of a Apache Mesos cluster](https://github.com/andygrunwald/megos)
 
 
 ##Version compatibility 
