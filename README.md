@@ -131,6 +131,9 @@ What can you expect to see here?
 
 ##Tools
 
+###Alternative UI
+* https://github.com/Capgemini/mesos-ui
+
 ###Tools for Mesos Developers
 * https://github.com/tillt/xcode-mesos
 * https://github.com/mesos/modules
