@@ -56,6 +56,7 @@ What can you expect to see here?
  
 ###Consensus 
 * [ZooKeeper](https://github.com/CiscoCloud/exhibitor-mesos-framework)
+* [Etcd](https://github.com/mesosphere/etcd-mesos)
 
 ###Continuous Integration
 * [Jenkins](https://github.com/jenkinsci/mesos-plugin)
