@@ -239,6 +239,7 @@ What can you expect to see here?
 * [PanteraS](https://github.com/eBayClassifiedsGroup/PanteraS) - PanteraS - Platform as a Service in a box
 * [Vamp](http://vamp.io/) - The Very Awesome Microservices Platform
 * [Compute platform](https://github.com/sttts/compute-platform)
+* [PaaSTA](https://github.com/Yelp/paasta)
 
 ##Other projects
 * [BigDataScript](https://github.com/pcingola/BigDataScript)
