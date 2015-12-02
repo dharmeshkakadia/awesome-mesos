@@ -63,6 +63,9 @@ What can you expect to see here?
 * [GitLab CI](https://github.com/deric/gitlab-ci-mesos)
 * [Teamcity Plugin](https://github.com/ankurcha/mesos-teamcity-plugin)
 
+###One-off tasks/commands
+* [Eremetic](https://github.com/alde/eremetic)
+
 ###Experimental/Example/Unsorted
 
 * [distcc](https://github.com/mesos/mesos-distcc)
