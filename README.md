@@ -229,6 +229,7 @@ What can you expect to see here?
 * [Ralph](https://github.com/bobrik/ralph)
 * [Zoidberg](https://github.com/bobrik/zoidberg)
 * [Aurproxy](https://github.com/tellapart/aurproxy)
+* [Marathon-Consul](https://github.com/allegro/marathon-consul) - Register Marathon Tasks as Consul Services for service discovery.
 
 ### Modules
 * [A customer allocator module](https://github.com/stealthly/alligator)
