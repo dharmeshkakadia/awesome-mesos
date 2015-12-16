@@ -55,6 +55,7 @@ What can you expect to see here?
 * [Cook Scheduler](https://github.com/twosigma/Cook)
 * [CloudFoundry](https://github.com/mesos/cloudfoundry-mesos)
 * [Myriad - Elastic YARN on Mesos](https://github.com/apache/incubator-myriad)
+* [Kubernetes](https://github.com/mesosphere/kubernetes-mesos)
  
 ###Consensus 
 * [ZooKeeper](https://github.com/CiscoCloud/exhibitor-mesos-framework)
@@ -82,7 +83,6 @@ What can you expect to see here?
 * [JobServer](http://www.grandlogic.com/content/html_docs/products.shtml#jobserverprod)
 * [RENDLER](https://github.com/mesosphere/RENDLER)
 * [OwlCrawler](https://github.com/fmpwizard/owlcrawler)
-* [Kubernetes](https://github.com/mesosphere/kubernetes-mesos)
 * [Tryant - Distributed job scheduler in go](https://github.com/wandoulabs/tyrant)
 * [Volt](https://github.com/VoltFramework/volt)
 * [Gozer](https://github.com/twitter/gozer) - Prototype with low-level go API
