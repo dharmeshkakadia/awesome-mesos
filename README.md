@@ -47,12 +47,14 @@ What can you expect to see here?
 * [Crate](https://github.com/crate/crate-mesos-framework)
 * [Apache Accumulo](https://github.com/aredee/accumulo-mesos)
 
-###Service/Meta Schedulers
+###Service/Meta Schedulers/ PaaS
 * [Apache Aurora](http://aurora.incubator.apache.org/)
 * [Marathon](https://github.com/mesosphere/marathon)
 * [Singularity](https://github.com/HubSpot/Singularity)
 * [Chronos](https://github.com/mesos/chronos)
 * [Cook Scheduler](https://github.com/twosigma/Cook)
+* [CloudFoundry](https://github.com/mesos/cloudfoundry-mesos)
+* [Myriad - Elastic YARN on Mesos](https://github.com/apache/incubator-myriad)
  
 ###Consensus 
 * [ZooKeeper](https://github.com/CiscoCloud/exhibitor-mesos-framework)
@@ -83,7 +85,6 @@ What can you expect to see here?
 * [Kubernetes](https://github.com/mesosphere/kubernetes-mesos)
 * [Tryant - Distributed job scheduler in go](https://github.com/wandoulabs/tyrant)
 * [Volt](https://github.com/VoltFramework/volt)
-* [Myriad - Elastic YARN clusters on Mesos](https://github.com/mesos/myriad)
 * [Gozer](https://github.com/twitter/gozer) - Prototype with low-level go API
 * [Portainer](https://github.com/duedil-ltd/portainer) - builds docker images using Mesos cluster
 * [Autoscaling](https://github.com/sammyas/autoscaling)
