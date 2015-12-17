@@ -46,6 +46,7 @@ What can you expect to see here?
 * [Ceph](https://github.com/Intel-bigdata/ceph-mesos)
 * [Crate](https://github.com/crate/crate-mesos-framework)
 * [Apache Accumulo](https://github.com/aredee/accumulo-mesos)
+* [memSQL](https://github.com/memsql/memsql-mesos)
 
 ###Service/Meta Schedulers/ PaaS
 * [Apache Aurora](http://aurora.incubator.apache.org/)
