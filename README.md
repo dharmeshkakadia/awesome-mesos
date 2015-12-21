@@ -238,6 +238,7 @@ What can you expect to see here?
 * [Serenity](https://github.com/mesosphere/serenity)
 * [Metaswitch](https://github.com/mesosphere/metaswitch-modules)
 * [Network Isolator](https://github.com/mesosphere/net-modules)
+* [Remote Commands Execution](https://github.com/massenz/execute-module)
 
 ### Platforms and microservice architectures
 * [CiscoCloud Microservice Architecture](https://github.com/CiscoCloud/microservices-infrastructure)
