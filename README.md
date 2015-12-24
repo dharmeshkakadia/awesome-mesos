@@ -24,6 +24,7 @@ What can you expect to see here?
 * [Apache Hadoop](https://github.com/mesos/hadoop)
 * [Apache Hama](http://wiki.apache.org/hama/GettingStartedMesos)
 * [Dpark](https://github.com/douban/dpark)
+* [Flink](https://github.com/mxm/flink-mesos)
 
 ####Stream Processing
 * [Apache Storm](https://github.com/mesos/storm)
@@ -63,12 +64,18 @@ What can you expect to see here?
 * [Etcd](https://github.com/mesosphere/etcd-mesos)
 
 ###Continuous Integration
-* [Jenkins](https://github.com/jenkinsci/mesos-plugin)
+* [Jenkins](https://github.com/jenkinsci/mesos-plugin) and [Jenkins](https://github.com/mesosphere/jenkins-mesos)
 * [GitLab CI](https://github.com/deric/gitlab-ci-mesos)
 * [Teamcity Plugin](https://github.com/ankurcha/mesos-teamcity-plugin)
 
 ###One-off tasks/commands
 * [Eremetic](https://github.com/alde/eremetic)
+* [R scripts](https://github.com/MohamedBassem/r-cluster)
+
+###Metric collection, logging and visualization
+* [Kibana](https://github.com/mesos/kibana)
+* [Logstash](https://github.com/mesos/logstash)
+* [Statsd -> Kafka](https://github.com/stealthly/statsd-mesos-kafka)
 
 ###Experimental/Example/Unsorted
 
@@ -110,6 +117,10 @@ What can you expect to see here?
 * [Bitcoin Miner](https://github.com/derekchiang/Mesos-Bitcoin-Miner)
 * [Closest-pairs in 2D with divide-and-conquer](https://github.com/chenlily/closest-pair)
 * [QoSon](https://github.com/akshshar/QoSon)
+* [Logo Generator](https://github.com/remembertoplay/logo-generator)
+* https://github.com/dropbox/changes-mesos-framework
+* https://github.com/parker20121/mesos-joshua
+* https://github.com/kaysoky/InverseOfferExampleFramework
 
 ###Dysfunctional
 * [Deimos](https://github.com/mesosphere/deimos) (deprecated when native [Docker support](http://mesos.apache.org/documentation/latest/docker-containerizer/) was added to Mesos v0.20)
@@ -121,6 +132,7 @@ What can you expect to see here?
 * [Java](http://mesos.apache.org/api/latest/java/)
 * Pure java - [Jesos](https://github.com/groupon/jesos)
 * Pure JVM - https://github.com/kevints/mesos-framework-api
+* [RxJava](https://github.com/mesosphere/mesos-rxjava)
 * Python
 * Pure Python - [Pesos](https://github.com/wickman/pesos)
 * Pure Python - [Pymesos](https://github.com/dangra/pymesos)
@@ -134,15 +146,21 @@ What can you expect to see here?
 * [Ruby](https://github.com/burke/mesos-ruby)
 * [Perl](https://github.com/mark-5/perl-mesos)
 * [Rust](https://github.com/ConnorDoyle/resos)
+* [CLR](https://github.com/bcrusu/mesos-clr)
 
 ##Tools
 
-###Alternative UI
+###Alternative UI/Dashboards 
 * https://github.com/Capgemini/mesos-ui
+* https://github.com/bspaans/simple-mesos-dashboard
+* https://github.com/Clever/mesos-visualizer
+* https://github.com/triforkse/mesos-ui
 
 ###Tools for Mesos Developers
 * https://github.com/tillt/xcode-mesos
 * https://github.com/mesos/modules
+* [Docker image for Mesos modules](https://github.com/Bplotka/mesos-modules-dev)
+* https://github.com/MesosWindows/mesoswin
 
 ###Tools for Mesos Framework Developers
 * https://github.com/mesosphere/scala-sbt-mesos-framework.g8
@@ -174,10 +192,14 @@ What can you expect to see here?
 * https://github.com/yaronr/docker-mesos
 * https://github.com/schibsted/mesoscope
 
-###Visualization
-* [Visualize Mesos traces](https://github.com/tnachen/mesos_traces_vis)
+###Trace isualization
+* https://github.com/tnachen/mesos_traces_vis
+* https://github.com/mesosphere/mesos-tracing
 
 ##Deployment 
+
+###Cloud
+* [Azure](https://github.com/Azure/azure-quickstart-templates/tree/master/mesos-swarm-marathon)
 
 ###Ansible
 * https://github.com/mhamrah/ansible-mesos-playbook
@@ -190,6 +212,7 @@ What can you expect to see here?
 * https://github.com/AnsibleShipyard/ansible-chronos
 * https://github.com/AnsibleShipyard/ansible-marathon
 * [Deploy apps on marathon from ansible](https://github.com/Topface/ansible-marathon_app)
+* [roger-mesos with Bamboo](https://github.com/seomoz/roger-mesos)
 
 ###Chef
 * https://github.com/everpeace/cookbook-mesos
@@ -208,6 +231,9 @@ What can you expect to see here?
 * https://github.com/ContainerSolutions/terraform-mesos
 * https://github.com/tonyjchong/terraform-mesos
 
+###Systemd
+* https://github.com/adobe-platform/mesos-systemd
+ 
 ###Packaging
 * https://github.com/nmilford/rpm-mesos
 * https://github.com/berngp/mesos-rpm
@@ -220,6 +246,7 @@ What can you expect to see here?
 * [Plot Marathon Metrics](https://github.com/topology-io/marathon-metrics-watcher)
 * [Satellite](https://github.com/twosigma/satellite)
 * [Prometheus](https://github.com/prometheus/mesos_exporter) and [Prometheus](https://github.com/wndhydrnt/mesos-task-exporter)
+* https://github.com/kpacha/mesos-influxdb-collector
 
 ###Service discovery and Load balancing
 * [Automated HAProxy reconfiguration for Marathon](https://github.com/Wizcorp/frontrunner)
@@ -232,6 +259,10 @@ What can you expect to see here?
 * [Zoidberg](https://github.com/bobrik/zoidberg)
 * [Aurproxy](https://github.com/tellapart/aurproxy)
 * [Marathon-Consul](https://github.com/allegro/marathon-consul) - Register Marathon Tasks as Consul Services for service discovery.
+* [roger-bamboo](https://github.com/seomoz/roger-bamboo)
+
+###Networking
+* [Project Calico](https://github.com/projectcalico/calico-mesos)
 
 ### Modules
 * [A customer allocator module](https://github.com/stealthly/alligator)
@@ -239,6 +270,8 @@ What can you expect to see here?
 * [Metaswitch](https://github.com/mesosphere/metaswitch-modules)
 * [Network Isolator](https://github.com/mesosphere/net-modules)
 * [Remote Commands Execution](https://github.com/massenz/execute-module)
+* [Flocker volumes](https://github.com/ClusterHQ/mesos-module-flocker)
+* [Docker Volume Driver Isolator](https://github.com/emccode/mesos-module-dvdi)
 
 ### Platforms and microservice architectures
 * [CiscoCloud Microservice Architecture](https://github.com/CiscoCloud/microservices-infrastructure)
@@ -247,8 +280,9 @@ What can you expect to see here?
 * [Vamp](http://vamp.io/) - The Very Awesome Microservices Platform
 * [Compute platform](https://github.com/sttts/compute-platform)
 * [PaaSTA](https://github.com/Yelp/paasta)
+* [Appsoma Welder](https://github.com/appsoma/welder)
 
-##Other projects
+##Other projects and Integrations
 * [BigDataScript](https://github.com/pcingola/BigDataScript)
 * https://github.com/mesosphere/sample_mesos_executor
 * https://github.com/CloudCredo/mesos-boshrelease
@@ -310,7 +344,11 @@ What can you expect to see here?
 * [Compose-executor](https://github.com/mohitsoni/compose-executor)
 * [Triathlon - Marathon wrapper for distributed Mesos cluster selection](https://github.com/schibsted/triathlon)
 * [megos - Go(lang) client library for accessing information of a Apache Mesos cluster](https://github.com/andygrunwald/megos)
-
+* [Weave Mesos Integration](https://github.com/TrentBrown/weave-into-mesos)
+* [OpenStack Kolla](https://github.com/openstack/kolla-mesos)
+* [Chimp](https://github.com/zalando-techmonkeys/chimp)
+* [Depcon](https://github.com/gondor/depcon)
+* [Vault](https://github.com/jmspring/vault-on-mesos)
 
 ##Version compatibility 
 Which version of framework works with which version of Mesos?
