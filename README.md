@@ -38,7 +38,7 @@ What can you expect to see here?
 * [Tachyon](https://github.com/mesosphere/tachyon-mesos)
 * [HDFS](https://github.com/mesosphere/hdfs) (and [HDFS](https://github.com/brugidou/hdfs-mesos) and [HDFS](https://github.com/brndnmtthws/hdfs))
 * [Riak](https://github.com/basho-labs/riak-mesos)
-* [Apache Kafka](https://github.com/stealthly/kafka-mesos)
+* [Apache Kafka](https://github.com/mesos/kafka)
 * [Phoenix](https://github.com/stealthly/phoenix)
 * [Apache Cotton - MySQL on Mesos](https://wiki.apache.org/incubator/MysosProposal)
 * [MongoDB](https://github.com/massenz/mongo_fw)
