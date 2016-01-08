@@ -72,6 +72,9 @@ What can you expect to see here?
 * [Eremetic](https://github.com/alde/eremetic)
 * [R scripts](https://github.com/MohamedBassem/r-cluster)
 
+###Tracing
+* [Zipkin](https://github.com/elodina/zipkin-mesos-framework)
+
 ###Metric collection, logging and visualization
 * [Kibana](https://github.com/mesos/kibana)
 * [Logstash](https://github.com/mesos/logstash)
