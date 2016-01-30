@@ -353,14 +353,6 @@ What can you expect to see here?
 * [Depcon](https://github.com/gondor/depcon)
 * [Vault](https://github.com/jmspring/vault-on-mesos)
 
-##Version compatibility 
-Which version of framework works with which version of Mesos?
-(Note that this information is only coming from documentation/release notes of the coressponding projects. Most projects are _likely_ to work with latest versions of Mesos just fine, unless stated otherwise)
-
-|Framework\Mesos | 0.21 | 0.20 | 0.19 | 0.18 | 0.17 | 0.16 |
-|----------------|:-----|:-----|:-----|:-----|:-----|:-----|
-|Spark           | 1.4, 1.3  |      |      | 1.2  |      |      | 
-
 ##Where to look for more?
 
 * [MesosCon](http://mesoscon.org) Videos - [2014](https://www.youtube.com/playlist?list=PLDVc2EaAVPg9kp8cFzjR1Yxj96I4U5EGN), [2015](https://www.youtube.com/playlist?list=PLVjgeV_avap2arug3vIz8c6l72rvh9poV)
