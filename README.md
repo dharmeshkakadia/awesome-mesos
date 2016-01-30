@@ -8,11 +8,44 @@ Share your Mesos :heart: through pull requests :)
 What can you expect to see here?
 
 * [Frameworks](#frameworks)
+ * [Data Processing](#data-processing)
+ * [Storage and Serving](#storage-and-serving)
+ * [Service/Meta Schedulers/ PaaS](#servicemeta-schedulers-paas)
+ * [Consensus](#consensus)
+ * [Continuous Integration](#continuous-integration)
+ * [One-off tasks/commands](#one-off-taskscommands)
+ * [Tracing](#tracing)
+ * [Metric collection, logging and visualization](#metric-collection-logging-and-visualization)
+ * [Experimental/Example/Unsorted](#experimentalexampleunsorted)
+ * [Dysfunctional](#dysfunctional)
+  
 * [Language Bindings](#language-bindings)
 * [Tools](#tools)
+ * [Alternative UI/Dashboards](#alternative-uidashboards)
+ * [Tools for Mesos Developers](#tools-for-mesos-developers)
+ * [Tools for Mesos Framework Developers](#tools-for-mesos-framework-developers)
+ * [Vagrant based setups](#vagrant-based-setups)
+ * [Docker based setups](#docker-based-setups)
+ * [Trace Visualization](#trace-visualization)
+ 
 * [Deployment](#deployment)
-* [Other Projects](#other-projects)
-* [Version compatibility](#version-compatibility)
+ * [Cloud](#cloud)
+ * [Ansible](#ansible)
+ * [Chef](#chef)
+ * [Puppet](#puppet)
+ * [Babushka](#babushka)
+ * [Cloudformation](#cloudformation)
+ * [Terraform](#terraform)
+ * [Systemd](#systemd)
+ * [Packaging](#packaging)
+ * [Monitoring](#monitoring)
+ * [Service discovery and Load balancing](#service-discovery-and-load-balancing)
+ * [Networking](#networking)
+ * [Modules](#modules)
+ * [Platforms and microservice architectures](#platforms-and-microservice-architectures)
+ 
+* [Other Projects and Integrations](#other-projects-and-integrations)
+
 * [Where to look for more?](#where-to-look-for-more)
 
 ##Frameworks
@@ -195,7 +228,7 @@ What can you expect to see here?
 * https://github.com/yaronr/docker-mesos
 * https://github.com/schibsted/mesoscope
 
-###Trace isualization
+###Trace Visualization
 * https://github.com/tnachen/mesos_traces_vis
 * https://github.com/mesosphere/mesos-tracing
 
