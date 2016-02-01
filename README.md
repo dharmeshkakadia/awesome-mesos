@@ -81,6 +81,7 @@ What can you expect to see here?
 * [Crate](https://github.com/crate/crate-mesos-framework)
 * [Apache Accumulo](https://github.com/aredee/accumulo-mesos)
 * [memSQL](https://github.com/memsql/memsql-mesos)
+* [MrRedis - Mesos runs Redis](https://github.com/dhilipkumars/MrRedis)
 
 ###Service/Meta Schedulers/ PaaS
 * [Apache Aurora](http://aurora.incubator.apache.org/)
