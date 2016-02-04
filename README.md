@@ -82,6 +82,7 @@ What can you expect to see here?
 * [Apache Accumulo](https://github.com/aredee/accumulo-mesos)
 * [memSQL](https://github.com/memsql/memsql-mesos)
 * [MrRedis - Mesos runs Redis](https://github.com/dhilipkumars/MrRedis)
+* [Apache Ignite](https://apacheignite.readme.io/docs/mesos-deployment)
 
 ###Service/Meta Schedulers/ PaaS
 * [Apache Aurora](http://aurora.incubator.apache.org/)
