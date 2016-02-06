@@ -298,6 +298,7 @@ What can you expect to see here?
 * [Aurproxy](https://github.com/tellapart/aurproxy)
 * [Marathon-Consul](https://github.com/allegro/marathon-consul) - Register Marathon Tasks as Consul Services for service discovery.
 * [roger-bamboo](https://github.com/seomoz/roger-bamboo)
+* [traefik](https://github.com/emilevauge/traefik)
 
 ###Networking
 * [Project Calico](https://github.com/projectcalico/calico-mesos)
