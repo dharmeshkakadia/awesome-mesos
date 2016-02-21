@@ -114,6 +114,7 @@ What can you expect to see here?
 * [Kibana](https://github.com/mesos/kibana)
 * [Logstash](https://github.com/mesos/logstash)
 * [Statsd -> Kafka](https://github.com/stealthly/statsd-mesos-kafka)
+* [Construct - Deploy a single task on all agents of the cluster](https://github.com/containersolutions/construct)
 
 ###Experimental/Example/Unsorted
 
