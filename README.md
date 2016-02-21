@@ -314,7 +314,7 @@ What can you expect to see here?
 * [Docker Volume Driver Isolator](https://github.com/emccode/mesos-module-dvdi)
 
 ### Platforms and microservice architectures
-* [CiscoCloud Microservice Architecture](https://github.com/CiscoCloud/microservices-infrastructure)
+* [Mantl](https://github.com/CiscoCloud/mantl)
 * [Apollo](https://github.com/Capgemini/Apollo)
 * [PanteraS](https://github.com/eBayClassifiedsGroup/PanteraS) - PanteraS - Platform as a Service in a box
 * [Vamp](http://vamp.io/) - The Very Awesome Microservices Platform
