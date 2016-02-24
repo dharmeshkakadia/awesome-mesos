@@ -17,7 +17,6 @@ What can you expect to see here?
  * [Tracing](#tracing)
  * [Metric collection, logging and visualization](#metric-collection-logging-and-visualization)
  * [Experimental/Example/Unsorted](#experimentalexampleunsorted)
- * [Dysfunctional](#dysfunctional)
   
 * [Language Bindings](#language-bindings)
 * [Tools](#tools)
@@ -160,10 +159,8 @@ What can you expect to see here?
 * https://github.com/dropbox/changes-mesos-framework
 * https://github.com/parker20121/mesos-joshua
 * https://github.com/kaysoky/InverseOfferExampleFramework
-
-###Dysfunctional
 * [Deimos](https://github.com/mesosphere/deimos) (deprecated when native [Docker support](http://mesos.apache.org/documentation/latest/docker-containerizer/) was added to Mesos v0.20)
-* [Slurm](https://github.com/nqn/slurm-mesos)
+* [Slurm](https://github.com/nqn/slurm-mesos) (deprecated)
 
 ## Language Bindings
 
