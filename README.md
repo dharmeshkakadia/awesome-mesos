@@ -124,7 +124,6 @@ What can you expect to see here?
 * [SSSP](https://github.com/mesosphere/sssp)
 * [Torque](https://github.com/apache/mesos/tree/master/frameworks/torque)
 * [HAProxy+Webserver](https://github.com/apache/mesos/tree/master/frameworks/deploy_jar)
-* [Mesos-submit](https://github.com/apache/mesos/tree/master/frameworks/mesos-submit)
 * [Deploy Jar](https://github.com/apache/mesos/tree/master/frameworks/deploy_jar)
 * [JobServer](http://www.grandlogic.com/content/html_docs/products.shtml#jobserverprod)
 * [RENDLER](https://github.com/mesosphere/RENDLER)
@@ -161,6 +160,7 @@ What can you expect to see here?
 * https://github.com/kaysoky/InverseOfferExampleFramework
 * [Deimos](https://github.com/mesosphere/deimos) (deprecated when native [Docker support](http://mesos.apache.org/documentation/latest/docker-containerizer/) was added to Mesos v0.20)
 * [Slurm](https://github.com/nqn/slurm-mesos) (deprecated)
+* [Mesos-submit](https://github.com/apache/mesos/tree/master/frameworks/mesos-submit) (deprecated)
 
 ## Language Bindings
 
