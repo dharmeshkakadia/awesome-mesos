@@ -206,6 +206,7 @@ What can you expect to see here?
 * [Mesos State Backed Collections](https://github.com/mesosphere/mesos-state-backed-collections)
 * [mini-mesos - Testing infrastructure for Mesos frameworks](https://github.com/containersolutions/mini-mesos)
 * [Fenzo - Cross framework pluggable task scheduling library](https://github.com/Netflix/Fenzo)
+* [Spring Boot starter for Mesos](https://github.com/containersolutions/mesos-starter)
 
 ###Vagrant based setups
 * https://github.com/everpeace/vagrant-mesos
