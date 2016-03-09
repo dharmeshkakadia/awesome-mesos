@@ -66,7 +66,7 @@ What can you expect to see here?
 * [Apache Cassandra](https://github.com/mesosphere/cassandra-mesos)
 * [ArangoDB](https://github.com/fceller/arangodb-mesos)
 * [Hypertable](https://code.google.com/p/hypertable/wiki/Mesos)
-* [ElasticSearch](https://github.com/mesosphere/elasticsearch-mesos)
+* [ElasticSearch](https://github.com/mesos/elasticsearch)
 * [Tachyon](https://github.com/mesosphere/tachyon-mesos)
 * [HDFS](https://github.com/mesosphere/hdfs) (and [HDFS](https://github.com/brugidou/hdfs-mesos) and [HDFS](https://github.com/brndnmtthws/hdfs))
 * [Riak](https://github.com/basho-labs/riak-mesos)
