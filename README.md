@@ -71,6 +71,7 @@ What can you expect to see here?
 * [HDFS](https://github.com/mesosphere/hdfs) (and [HDFS](https://github.com/brugidou/hdfs-mesos) and [HDFS](https://github.com/brndnmtthws/hdfs))
 * [Riak](https://github.com/basho-labs/riak-mesos)
 * [Apache Kafka](https://github.com/mesos/kafka)
+* [Kafka client](https://github.com/elodina/go-kafka-client-mesos)
 * [Phoenix](https://github.com/stealthly/phoenix)
 * [Apache Cotton - MySQL on Mesos](https://wiki.apache.org/incubator/MysosProposal)
 * [MongoDB](https://github.com/massenz/mongo_fw)
@@ -82,6 +83,7 @@ What can you expect to see here?
 * [memSQL](https://github.com/memsql/memsql-mesos)
 * [MrRedis - Mesos runs Redis](https://github.com/dhilipkumars/MrRedis)
 * [Apache Ignite](https://apacheignite.readme.io/docs/mesos-deployment)
+* [DataStax](https://github.com/elodina/datastax-enterprise-mesos)
 
 ###Service/Meta Schedulers/ PaaS
 * [Apache Aurora](http://aurora.incubator.apache.org/)
@@ -94,7 +96,7 @@ What can you expect to see here?
 * [Kubernetes](https://github.com/mesosphere/kubernetes-mesos)
  
 ###Consensus 
-* [ZooKeeper](https://github.com/CiscoCloud/exhibitor-mesos-framework)
+* [ZooKeeper](https://github.com/CiscoCloud/exhibitor-mesos-framework) and [ZooKeeper](https://github.com/elodina/exhibitor-mesos-framework)
 * [Etcd](https://github.com/mesosphere/etcd-mesos)
 
 ###Continuous Integration
@@ -112,8 +114,10 @@ What can you expect to see here?
 ###Metric collection, logging and visualization
 * [Kibana](https://github.com/mesos/kibana)
 * [Logstash](https://github.com/mesos/logstash)
-* [Statsd -> Kafka](https://github.com/stealthly/statsd-mesos-kafka)
+* [Statsd -> Kafka](https://github.com/stealthly/statsd-mesos-kafka) and [Statsd -> Kafka](https://github.com/elodina/statsd-mesos-kafka)
 * [Construct - Deploy a single task on all agents of the cluster](https://github.com/containersolutions/construct)
+* [Go based Syslog service](https://github.com/elodina/syslog-service) and [Go based Syslog service](https://github.com/CiscoCloud/syslog-service)
+* [Mesos slave metrics -> Kafka](https://github.com/elodina/syscol)
 
 ###Experimental/Example/Unsorted
 
@@ -207,6 +211,7 @@ What can you expect to see here?
 * [mini-mesos - Testing infrastructure for Mesos frameworks](https://github.com/containersolutions/mini-mesos)
 * [Fenzo - Cross framework pluggable task scheduling library](https://github.com/Netflix/Fenzo)
 * [Spring Boot starter for Mesos](https://github.com/containersolutions/mesos-starter)
+* [Go-Mesos-Utils](https://github.com/elodina/go-mesos-utils)
 
 ###Vagrant based setups
 * https://github.com/everpeace/vagrant-mesos
@@ -387,6 +392,9 @@ What can you expect to see here?
 * [Chimp](https://github.com/zalando-techmonkeys/chimp)
 * [Depcon](https://github.com/gondor/depcon)
 * [Vault](https://github.com/jmspring/vault-on-mesos)
+* [Go Mesos Kafka Consumer](https://github.com/elodina/gonzo)
+* [Apache Mesos Platform as a Service Deploy](https://github.com/elodina/stack-deploy)
+* [JIRA on Mesos](https://github.com/elodina/mesos-jira)
 
 ##Where to look for more?
 
