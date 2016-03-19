@@ -84,6 +84,7 @@ What can you expect to see here?
 * [MrRedis - Mesos runs Redis](https://github.com/dhilipkumars/MrRedis)
 * [Apache Ignite](https://apacheignite.readme.io/docs/mesos-deployment)
 * [DataStax](https://github.com/elodina/datastax-enterprise-mesos)
+* [Kafaka -> Cassandra mirroring](https://github.com/elodina/stockpile)
 
 ###Service/Meta Schedulers/ PaaS
 * [Apache Aurora](http://aurora.incubator.apache.org/)
