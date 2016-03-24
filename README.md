@@ -215,6 +215,7 @@ What can you expect to see here?
 * [Go-Mesos-Utils](https://github.com/elodina/go-mesos-utils)
 
 ###Vagrant based setups
+* https://github.com/tobilg/coreos-mesos-cluster
 * https://github.com/everpeace/vagrant-mesos
 * https://github.com/mesosphere/playa-mesos 
 * https://github.com/bskaggs/vagrant-deimos
