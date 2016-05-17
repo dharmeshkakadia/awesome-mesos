@@ -58,9 +58,10 @@ What can you expect to see here?
 * [Dpark](https://github.com/douban/dpark)
 * [Flink](https://github.com/mxm/flink-mesos)
 
-####Stream Processing
+####Stream/Event Processing
 * [Apache Storm](https://github.com/mesos/storm)
 * [Samza](https://github.com/Banno/samza-mesos)
+* [Concord](http://concord.io/)
 
 ###Storage and Serving
 * [Apache Cassandra](https://github.com/mesosphere/cassandra-mesos)
@@ -166,6 +167,7 @@ What can you expect to see here?
 * [Deimos](https://github.com/mesosphere/deimos) (deprecated when native [Docker support](http://mesos.apache.org/documentation/latest/docker-containerizer/) was added to Mesos v0.20)
 * [Slurm](https://github.com/nqn/slurm-mesos) (deprecated)
 * [Mesos-submit](https://github.com/apache/mesos/tree/master/frameworks/mesos-submit) (deprecated)
+* [Satyr](https://github.com/lensacom/satyr)
 
 ## Language Bindings
 
@@ -398,6 +400,7 @@ What can you expect to see here?
 * [Go Mesos Kafka Consumer](https://github.com/elodina/gonzo)
 * [Apache Mesos Platform as a Service Deploy](https://github.com/elodina/stack-deploy)
 * [JIRA on Mesos](https://github.com/elodina/mesos-jira)
+* [Dask Mesos backend](https://github.com/lensacom/dask.mesos)
 
 ##Where to look for more?
 
