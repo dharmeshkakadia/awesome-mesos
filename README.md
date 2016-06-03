@@ -62,6 +62,7 @@ What can you expect to see here?
 * [Apache Storm](https://github.com/mesos/storm)
 * [Samza](https://github.com/Banno/samza-mesos)
 * [Concord](http://concord.io/)
+* [Heron](https://github.com/twitter/heron)
 
 ###Storage and Serving
 * [Apache Cassandra](https://github.com/mesosphere/cassandra-mesos)
