@@ -208,7 +208,6 @@ What can you expect to see here?
 
 ###Tools for Mesos Framework Developers
 * https://github.com/mesosphere/scala-sbt-mesos-framework.g8
-* https://github.com/mesosphere/akka-mesos
 * https://github.com/drexin/akka-mesos
 * Simple Mesos "Hello world" in scala - https://gist.github.com/guenter/7471695
 * [Mesos State Backed Collections](https://github.com/mesosphere/mesos-state-backed-collections)
