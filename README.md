@@ -23,6 +23,7 @@ What can you expect to see here?
  * [Alternative UI/Dashboards](#alternative-uidashboards)
  * [Tools for Mesos Developers](#tools-for-mesos-developers)
  * [Tools for Mesos Framework Developers](#tools-for-mesos-framework-developers)
+ * [Command line tools](#command-line-tools)
  * [Vagrant based setups](#vagrant-based-setups)
  * [Docker based setups](#docker-based-setups)
  * [Trace Visualization](#trace-visualization)
@@ -208,7 +209,6 @@ What can you expect to see here?
 
 ###Tools for Mesos Framework Developers
 * https://github.com/mesosphere/scala-sbt-mesos-framework.g8
-* https://github.com/mesosphere/akka-mesos
 * https://github.com/drexin/akka-mesos
 * Simple Mesos "Hello world" in scala - https://gist.github.com/guenter/7471695
 * [Mesos State Backed Collections](https://github.com/mesosphere/mesos-state-backed-collections)
@@ -216,6 +216,9 @@ What can you expect to see here?
 * [Fenzo - Cross framework pluggable task scheduling library](https://github.com/Netflix/Fenzo)
 * [Spring Boot starter for Mesos](https://github.com/containersolutions/mesos-starter)
 * [Go-Mesos-Utils](https://github.com/elodina/go-mesos-utils)
+
+###Command line tools
+* [mesosctl](https://github.com/mesoshq/mesosctl)
 
 ###Vagrant based setups
 * https://github.com/tobilg/coreos-mesos-cluster
