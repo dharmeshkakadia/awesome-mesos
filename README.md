@@ -406,6 +406,7 @@ What can you expect to see here?
 * [Apache Mesos Platform as a Service Deploy](https://github.com/elodina/stack-deploy)
 * [JIRA on Mesos](https://github.com/elodina/mesos-jira)
 * [Dask Mesos backend](https://github.com/lensacom/dask.mesos)
+* [Spring Cloud Data Flow](https://github.com/spring-cloud/spring-cloud-dataflow-server-mesos)
 
 ##Where to look for more?
 
