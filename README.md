@@ -289,7 +289,6 @@ What can you expect to see here?
 ###Monitoring/Alerting
 * https://github.com/opentable/nagios-mesos
 * https://github.com/bobrik/collectd-mesos-tasks and (https://github.com/rayrod2030/collectd-mesos and its dockerized version - https://github.com/bobrik/docker-collectd-mesos)
-* [Plot Marathon Metrics](https://github.com/topology-io/marathon-metrics-watcher)
 * [Satellite](https://github.com/twosigma/satellite)
 * [Prometheus](https://github.com/prometheus/mesos_exporter) and [Prometheus](https://github.com/wndhydrnt/mesos-task-exporter)
 * https://github.com/kpacha/mesos-influxdb-collector
