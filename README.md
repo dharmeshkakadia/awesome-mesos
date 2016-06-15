@@ -175,8 +175,8 @@ What can you expect to see here?
 
 * C/C++
 * [Java](http://mesos.apache.org/api/latest/java/)
-* Pure java - [Jesos](https://github.com/groupon/jesos)
-* Pure JVM - https://github.com/kevints/mesos-framework-api
+* Pure Java - [Jesos](https://github.com/groupon/jesos)
+* Pure JVM - [Framework API](https://github.com/kevints/mesos-framework-api)
 * [RxJava](https://github.com/mesosphere/mesos-rxjava)
 * Python
 * Pure Python - [Pesos](https://github.com/wickman/pesos)
@@ -186,7 +186,8 @@ What can you expect to see here?
 * [Erlang](https://github.com/mdevilliers/erlang-mesos) with [example framework](https://github.com/mdevilliers/merkxx)
 * [Haskell](https://github.com/iand675/hs-mesos)
 * [Clojure](https://github.com/dgrnbrg/clj-mesos) and [mesomatic](https://github.com/pyr/mesomatic)
-* [NodeJS](https://github.com/silas/node-mesos)
+* Node.js - [node-mesos](https://github.com/silas/node-mesos)
+* Node.js - [mesos-framework](https://github.com/tobilg/mesos-framework) 
 * [Ruby](https://github.com/burke/mesos-ruby)
 * [Perl](https://github.com/mark-5/perl-mesos)
 * [Rust](https://github.com/ConnorDoyle/resos)
