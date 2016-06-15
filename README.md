@@ -187,7 +187,6 @@ What can you expect to see here?
 * [Haskell](https://github.com/iand675/hs-mesos)
 * [Clojure](https://github.com/dgrnbrg/clj-mesos) and [mesomatic](https://github.com/pyr/mesomatic)
 * [NodeJS](https://github.com/silas/node-mesos)
-* [JS](https://github.com/topology-io/mesos-js)
 * [Ruby](https://github.com/burke/mesos-ruby)
 * [Perl](https://github.com/mark-5/perl-mesos)
 * [Rust](https://github.com/ConnorDoyle/resos)
