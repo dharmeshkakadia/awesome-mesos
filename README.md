@@ -130,9 +130,6 @@ What can you expect to see here?
 * [MPI](https://github.com/mesosphere/mesos-hydra)
 * [Chapel Parallel Programming Language](https://github.com/nqn/mesos-chapel)
 * [SSSP](https://github.com/mesosphere/sssp)
-* [Torque](https://github.com/apache/mesos/tree/master/frameworks/torque)
-* [HAProxy+Webserver](https://github.com/apache/mesos/tree/master/frameworks/deploy_jar)
-* [Deploy Jar](https://github.com/apache/mesos/tree/master/frameworks/deploy_jar)
 * [JobServer](http://www.grandlogic.com/content/html_docs/products.shtml#jobserverprod)
 * [RENDLER](https://github.com/mesosphere/RENDLER)
 * [OwlCrawler](https://github.com/fmpwizard/owlcrawler)
@@ -168,7 +165,6 @@ What can you expect to see here?
 * https://github.com/kaysoky/InverseOfferExampleFramework
 * [Deimos](https://github.com/mesosphere/deimos) (deprecated when native [Docker support](http://mesos.apache.org/documentation/latest/docker-containerizer/) was added to Mesos v0.20)
 * [Slurm](https://github.com/nqn/slurm-mesos) (deprecated)
-* [Mesos-submit](https://github.com/apache/mesos/tree/master/frameworks/mesos-submit) (deprecated)
 * [Satyr](https://github.com/lensacom/satyr)
 
 ## Language Bindings
@@ -190,7 +186,7 @@ What can you expect to see here?
 * Node.js - [Scheduler/Executor API wrapper](https://github.com/tobilg/mesos-framework) 
 * [Ruby](https://github.com/burke/mesos-ruby)
 * [Perl](https://github.com/mark-5/perl-mesos)
-* [Rust](https://github.com/ConnorDoyle/resos)
+* [Rust](https://github.com/iron-oxide/mesos-rust)
 * [CLR](https://github.com/bcrusu/mesos-clr)
 
 ##Tools
@@ -249,14 +245,14 @@ What can you expect to see here?
 ##Deployment 
 
 ###Cloud
-* [Azure](https://github.com/Azure/azure-quickstart-templates/tree/master/mesos-swarm-marathon)
+* [Azure Meoss](https://github.com/Azure/azure-quickstart-templates/blob/master/101-acs-mesos/docs/MesosWalkthrough.md)
+* [Azure DC/OS](https://github.com/Azure/azure-quickstart-templates/blob/master/101-acs-dcos/docs/DCOSWalkthrough.md)
 
 ###Ansible
 * https://github.com/mhamrah/ansible-mesos-playbook
 * https://github.com/fupelaqu/ansible-mesos
 * https://github.com/frankhinek/ansible-mesos-cluster
 * https://github.com/curtisgithub/ansible-mmd
-* https://github.com/AnsibleShipyard/ansible-mesos
 * https://github.com/AnsibleShipyard/ansible-mesos
 * https://github.com/AnsibleShipyard/ansible-mesos-docker
 * https://github.com/AnsibleShipyard/ansible-chronos
@@ -293,7 +289,6 @@ What can you expect to see here?
 ###Monitoring/Alerting
 * https://github.com/opentable/nagios-mesos
 * https://github.com/bobrik/collectd-mesos-tasks and (https://github.com/rayrod2030/collectd-mesos and its dockerized version - https://github.com/bobrik/docker-collectd-mesos)
-* [Plot Marathon Metrics](https://github.com/topology-io/marathon-metrics-watcher)
 * [Satellite](https://github.com/twosigma/satellite)
 * [Prometheus](https://github.com/prometheus/mesos_exporter) and [Prometheus](https://github.com/wndhydrnt/mesos-task-exporter)
 * https://github.com/kpacha/mesos-influxdb-collector
@@ -355,12 +350,9 @@ What can you expect to see here?
 * [Mesos in Hadoop](https://github.com/mesos/mih)
 * [CDH patched for Mesos](https://github.com/mesos/cdh-mesos) - old
 * https://github.com/siliconcow/docker_paas - old
-* https://github.com/trampoline/clustermap-mesos
 * https://github.com/jbdalido/hecate
-* https://github.com/outbrain/onering-report-mesos
 * https://github.com/nlamirault/magneto
-* https://github.com/klueska/mesos-akaros and https://github.com/alfongj/mesos-akaros
-* https://github.com/nicostratus/mesos-services [defunct]
+* https://github.com/alfongj/mesos-akaros
 * https://github.com/charlescearl/VirtualMesos - old
 * https://github.com/mohitsoni/mammoth
 * https://github.com/ptorrestr/mesos-spark
@@ -381,11 +373,9 @@ What can you expect to see here?
 * https://github.com/ortoo/mesos-nerve
 * https://github.com/theclaymethod/Foundry-vagrant-mesos-kafka-cluster
 * [Autoscaling Mesos](https://github.com/thefactory/autoscale-python)
-* https://github.com/obaidsalikeen/storm-marathon
 * Aurora REST interface - https://github.com/misho-kr/mesos-aurora-restful and https://github.com/smarth-madan/incubator-aurora
 * [Storm Marathon](https://github.com/obaidsalikeen/storm-marathon)
 * https://github.com/tailhook/mesos-tests
-* https://github.com/nlamirault/magneto
 * [REPL-MESOS](https://github.com/replme/repl-mesos)
 * [Relay.Mesos](https://github.com/sailthru/relay.mesos)
 * [Ochopod](https://github.com/autodesk-cloud/ochopod)
@@ -415,5 +405,4 @@ What can you expect to see here?
 * [Powered By Mesos](http://mesos.apache.org/documentation/latest/powered-by-mesos/)
 * [Mesos Community](http://mesos.apache.org/community/)
 * [List of Mesos related conferences & meetups](https://github.com/parolkar/awesome-mesos#related-conferences--meetups)
-* [Mesos Blog posts](http://planet.apache.org/mesos/)
 * [Apache Mesos Essentials book](http://dharmeshkakadia.blogspot.com/2015/06/apache-mesos-essential-is-now-available.html)
