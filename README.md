@@ -195,6 +195,7 @@ What can you expect to see here?
 * [Perl](https://github.com/mark-5/perl-mesos)
 * [Rust](https://github.com/iron-oxide/mesos-rust)
 * [CLR](https://github.com/bcrusu/mesos-clr)
+* [Scala](https://github.com/nokia/mesos-scala-api)
 
 ##Tools
 
