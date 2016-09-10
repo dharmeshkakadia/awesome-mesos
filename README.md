@@ -102,6 +102,7 @@ What can you expect to see here?
 * [CloudFoundry](https://github.com/mesos/cloudfoundry-mesos)
 * [Myriad - Elastic YARN on Mesos](https://github.com/apache/incubator-myriad)
 * [Kubernetes](https://github.com/mesosphere/kubernetes-mesos)
+* [Metronome](https://github.com/dcos/metronome)
  
 ###Consensus 
 * [ZooKeeper](https://github.com/CiscoCloud/exhibitor-mesos-framework) and [ZooKeeper](https://github.com/elodina/exhibitor-mesos-framework)
