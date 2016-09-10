@@ -172,6 +172,7 @@ What can you expect to see here?
 * [Slurm](https://github.com/nqn/slurm-mesos) (deprecated)
 * [Satyr](https://github.com/lensacom/satyr)
 * [Retz](https://github.com/retz/retz)
+* [Marvin Scheduler](https://github.com/dedalusj/marvin_mesos)
 
 ## Language Bindings
 
@@ -404,6 +405,7 @@ What can you expect to see here?
 * [JIRA on Mesos](https://github.com/elodina/mesos-jira)
 * [Dask Mesos backend](https://github.com/lensacom/dask.mesos)
 * [Spring Cloud Data Flow](https://github.com/spring-cloud/spring-cloud-dataflow-server-mesos)
+* [Nix](https://github.com/kamilchm/nix-mesos)
 
 ##Where to look for more?
 
