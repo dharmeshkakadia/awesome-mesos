@@ -170,6 +170,7 @@ What can you expect to see here?
 * [Deimos](https://github.com/mesosphere/deimos) (deprecated when native [Docker support](http://mesos.apache.org/documentation/latest/docker-containerizer/) was added to Mesos v0.20)
 * [Slurm](https://github.com/nqn/slurm-mesos) (deprecated)
 * [Satyr](https://github.com/lensacom/satyr)
+* [Retz](https://github.com/retz/retz)
 
 ## Language Bindings
 
