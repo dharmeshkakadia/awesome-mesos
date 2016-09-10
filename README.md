@@ -173,6 +173,7 @@ What can you expect to see here?
 * [Satyr](https://github.com/lensacom/satyr)
 * [Retz](https://github.com/retz/retz)
 * [Marvin Scheduler](https://github.com/dedalusj/marvin_mesos)
+* [Wraxl](https://github.com/kscherer/wraxl-scheduler)
 
 ## Language Bindings
 
@@ -407,6 +408,7 @@ What can you expect to see here?
 * [Dask Mesos backend](https://github.com/lensacom/dask.mesos)
 * [Spring Cloud Data Flow](https://github.com/spring-cloud/spring-cloud-dataflow-server-mesos)
 * [Nix](https://github.com/kamilchm/nix-mesos)
+* [RogerOS](https://github.com/seomoz/roger-mesos-tools)
 
 ##Where to look for more?
 
