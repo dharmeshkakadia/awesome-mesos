@@ -10,6 +10,7 @@ What can you expect to see here?
 * [Frameworks](#frameworks)
  * [Data Processing](#data-processing)
  * [Storage and Serving](#storage-and-serving)
+ * [Machine Learning](#machine-learning)
  * [Service/Meta Schedulers/ PaaS](#servicemeta-schedulers-paas)
  * [Consensus](#consensus)
  * [Continuous Integration](#continuous-integration)
@@ -88,6 +89,9 @@ What can you expect to see here?
 * [Apache Ignite](https://apacheignite.readme.io/docs/mesos-deployment)
 * [DataStax](https://github.com/elodina/datastax-enterprise-mesos)
 * [Kafaka -> Cassandra mirroring](https://github.com/elodina/stockpile)
+
+###Machine Learning
+* [TensorFlow](https://github.com/douban/tfmesos)
 
 ###Service/Meta Schedulers/ PaaS
 * [Apache Aurora](http://aurora.incubator.apache.org/)
