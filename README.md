@@ -323,6 +323,7 @@ What can you expect to see here?
 * [Remote Commands Execution](https://github.com/massenz/execute-module)
 * [Flocker volumes](https://github.com/ClusterHQ/mesos-module-flocker)
 * [Docker Volume Driver Isolator](https://github.com/emccode/mesos-module-dvdi)
+* [Allocator module with Offer Filtering](https://github.com/gettyimages/mesos_offer_filtering_allocator_module)
 
 ### Platforms and microservice architectures
 * [DC/OS](https://dcos.io/)
