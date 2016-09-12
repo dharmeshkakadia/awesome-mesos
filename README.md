@@ -211,6 +211,7 @@ What can you expect to see here?
 * https://github.com/mesos/modules
 * [Docker image for Mesos modules](https://github.com/Bplotka/mesos-modules-dev)
 * https://github.com/MesosWindows/mesoswin
+* [JavaScript framework boilerplate](https://github.com/tobilg/mesos-framework-boilerplate)
 
 ###Tools for Mesos Framework Developers
 * https://github.com/mesosphere/scala-sbt-mesos-framework.g8
