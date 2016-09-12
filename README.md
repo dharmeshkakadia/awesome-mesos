@@ -39,7 +39,7 @@ What can you expect to see here?
  * [Terraform](#terraform)
  * [Systemd](#systemd)
  * [Packaging](#packaging)
- * [Monitoring](#monitoring)
+ * [Monitoring and alerting](#monitoring-and-alerting)
  * [Service discovery and Load balancing](#service-discovery-and-load-balancing)
  * [Networking](#networking)
  * [Modules](#modules)
@@ -221,6 +221,7 @@ What can you expect to see here?
 * [Fenzo - Cross framework pluggable task scheduling library](https://github.com/Netflix/Fenzo)
 * [Spring Boot starter for Mesos](https://github.com/containersolutions/mesos-starter)
 * [Go-Mesos-Utils](https://github.com/elodina/go-mesos-utils)
+* [JavaScript framework boilerplate](https://github.com/tobilg/mesos-framework-boilerplate)
 
 ###Command line tools
 * [mesosctl](https://github.com/mesoshq/mesosctl)
@@ -295,13 +296,14 @@ What can you expect to see here?
 * https://github.com/deric/mesos-deb-packaging
 * https://github.com/mesosphere/mesos-deb-packaging
 
-###Monitoring/Alerting
+###Monitoring and alerting
 * https://github.com/opentable/nagios-mesos
 * https://github.com/bobrik/collectd-mesos-tasks and (https://github.com/rayrod2030/collectd-mesos and its dockerized version - https://github.com/bobrik/docker-collectd-mesos)
 * [Satellite](https://github.com/twosigma/satellite)
 * [Prometheus](https://github.com/prometheus/mesos_exporter) and [Prometheus](https://github.com/wndhydrnt/mesos-task-exporter)
 * https://github.com/kpacha/mesos-influxdb-collector
 * [Complainer](https://github.com/cloudflare/complainer)
+* [marathon-slack](https://github.com/tobilg/marathon-slack)
 
 ###Service discovery and Load balancing
 * [Automated HAProxy reconfiguration for Marathon](https://github.com/Wizcorp/frontrunner)
