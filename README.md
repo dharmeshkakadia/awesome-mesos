@@ -39,7 +39,7 @@ What can you expect to see here?
  * [Terraform](#terraform)
  * [Systemd](#systemd)
  * [Packaging](#packaging)
- * [Monitoring](#monitoring)
+ * [Monitoring](#monitoring-and-altering)
  * [Service discovery and Load balancing](#service-discovery-and-load-balancing)
  * [Networking](#networking)
  * [Modules](#modules)
@@ -295,7 +295,7 @@ What can you expect to see here?
 * https://github.com/deric/mesos-deb-packaging
 * https://github.com/mesosphere/mesos-deb-packaging
 
-###Monitoring/Alerting
+###Monitoring and alerting
 * https://github.com/opentable/nagios-mesos
 * https://github.com/bobrik/collectd-mesos-tasks and (https://github.com/rayrod2030/collectd-mesos and its dockerized version - https://github.com/bobrik/docker-collectd-mesos)
 * [Satellite](https://github.com/twosigma/satellite)
