@@ -39,7 +39,7 @@ What can you expect to see here?
  * [Terraform](#terraform)
  * [Systemd](#systemd)
  * [Packaging](#packaging)
- * [Monitoring](#monitoring-and-altering)
+ * [Monitoring and altering](#monitoring-and-alerting)
  * [Service discovery and Load balancing](#service-discovery-and-load-balancing)
  * [Networking](#networking)
  * [Modules](#modules)
