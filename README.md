@@ -211,7 +211,6 @@ What can you expect to see here?
 * https://github.com/mesos/modules
 * [Docker image for Mesos modules](https://github.com/Bplotka/mesos-modules-dev)
 * https://github.com/MesosWindows/mesoswin
-* [JavaScript framework boilerplate](https://github.com/tobilg/mesos-framework-boilerplate)
 
 ###Tools for Mesos Framework Developers
 * https://github.com/mesosphere/scala-sbt-mesos-framework.g8
@@ -222,6 +221,7 @@ What can you expect to see here?
 * [Fenzo - Cross framework pluggable task scheduling library](https://github.com/Netflix/Fenzo)
 * [Spring Boot starter for Mesos](https://github.com/containersolutions/mesos-starter)
 * [Go-Mesos-Utils](https://github.com/elodina/go-mesos-utils)
+* [JavaScript framework boilerplate](https://github.com/tobilg/mesos-framework-boilerplate)
 
 ###Command line tools
 * [mesosctl](https://github.com/mesoshq/mesosctl)
