@@ -65,6 +65,7 @@ What can you expect to see here?
 * [Samza](https://github.com/Banno/samza-mesos)
 * [Concord](http://concord.io/)
 * [Heron](https://github.com/twitter/heron)
+* [Fabric](https://github.com/olacabs/fabric)
 
 ###Storage and Serving
 * [Apache Cassandra](https://github.com/mesosphere/cassandra-mesos)
@@ -103,6 +104,7 @@ What can you expect to see here?
 * [Myriad - Elastic YARN on Mesos](https://github.com/apache/incubator-myriad)
 * [Kubernetes](https://github.com/mesosphere/kubernetes-mesos)
 * [Metronome](https://github.com/dcos/metronome)
+* [Swan](https://github.com/Dataman-Cloud/swan)
  
 ###Consensus 
 * [ZooKeeper](https://github.com/CiscoCloud/exhibitor-mesos-framework) and [ZooKeeper](https://github.com/elodina/exhibitor-mesos-framework)
@@ -127,6 +129,10 @@ What can you expect to see here?
 * [Construct - Deploy a single task on all agents of the cluster](https://github.com/containersolutions/construct)
 * [Go based Syslog service](https://github.com/elodina/syslog-service) and [Go based Syslog service](https://github.com/CiscoCloud/syslog-service)
 * [Mesos slave metrics -> Kafka](https://github.com/elodina/syscol)
+
+###Benchmarking
+* [YCSB](https://github.com/yanglei99/YCSB_Mesos)
+* [Hydra](https://github.com/lake-lerna/hydra)
 
 ###Experimental/Example/Unsorted
 
@@ -174,6 +180,8 @@ What can you expect to see here?
 * [Retz](https://github.com/retz/retz)
 * [Marvin Scheduler](https://github.com/dedalusj/marvin_mesos)
 * [Wraxl](https://github.com/kscherer/wraxl-scheduler)
+* [ScaleIO](https://github.com/codedellemc/scaleio-framework)
+* [openvdc](https://github.com/axsh/openvdc)
 
 ## Language Bindings
 
@@ -222,6 +230,7 @@ What can you expect to see here?
 * [Spring Boot starter for Mesos](https://github.com/containersolutions/mesos-starter)
 * [Go-Mesos-Utils](https://github.com/elodina/go-mesos-utils)
 * [JavaScript framework boilerplate](https://github.com/tobilg/mesos-framework-boilerplate)
+* https://github.com/huawei-cloudfederation/mesos-go-stateful
 
 ###Command line tools
 * [mesosctl](https://github.com/mesoshq/mesosctl)
@@ -318,6 +327,7 @@ What can you expect to see here?
 * [Marathon-Consul](https://github.com/allegro/marathon-consul) - Register Marathon Tasks as Consul Services for service discovery.
 * [roger-bamboo](https://github.com/seomoz/roger-bamboo)
 * [traefik](https://github.com/emilevauge/traefik)
+* [Surok](https://github.com/Difrex/surok)
 
 ###Networking
 * [Project Calico](https://github.com/projectcalico/calico-mesos)
@@ -411,6 +421,7 @@ What can you expect to see here?
 * [Spring Cloud Data Flow](https://github.com/spring-cloud/spring-cloud-dataflow-server-mesos)
 * [Nix](https://github.com/kamilchm/nix-mesos)
 * [RogerOS](https://github.com/seomoz/roger-mesos-tools)
+* [TradeCloud](https://github.com/tradecloud/tradecloud-microservices)
 
 ##Where to look for more?
 
