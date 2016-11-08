@@ -17,6 +17,7 @@ What can you expect to see here?
  * [One-off tasks/commands](#one-off-taskscommands)
  * [Tracing](#tracing)
  * [Metric collection, logging and visualization](#metric-collection-logging-and-visualization)
+ * [Benchmarking](#benchmarking)
  * [Experimental/Example/Unsorted](#experimentalexampleunsorted)
   
 * [Language Bindings](#language-bindings)
@@ -30,7 +31,6 @@ What can you expect to see here?
  * [Trace Visualization](#trace-visualization)
  
 * [Deployment](#deployment)
- * [Cloud](#cloud)
  * [Ansible](#ansible)
  * [Chef](#chef)
  * [Puppet](#puppet)
@@ -263,10 +263,6 @@ What can you expect to see here?
 
 ##Deployment 
 
-###Cloud
-* [Azure Meoss](https://github.com/Azure/azure-quickstart-templates/blob/master/101-acs-mesos/docs/MesosWalkthrough.md)
-* [Azure DC/OS](https://github.com/Azure/azure-quickstart-templates/blob/master/101-acs-dcos/docs/DCOSWalkthrough.md)
-
 ###Ansible
 * https://github.com/mhamrah/ansible-mesos-playbook
 * https://github.com/fupelaqu/ansible-mesos
@@ -363,7 +359,6 @@ What can you expect to see here?
 * https://github.com/opentable/mesoshub
 * https://github.com/thefactory/marathon-python
 * https://github.com/thefactory/marathon-logger
-* https://github.com/mesosphere/marathon_client
 * https://github.com/mesosphere/service-bridge
 * https://github.com/mesosphere/marathon-pkg
 * https://github.com/jbdalido/gomarathon
