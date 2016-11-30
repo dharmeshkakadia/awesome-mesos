@@ -198,8 +198,6 @@ What can you expect to see here?
 * [Erlang](https://github.com/mdevilliers/erlang-mesos) with [example framework](https://github.com/mdevilliers/merkxx)
 * [Haskell](https://github.com/iand675/hs-mesos)
 * [Clojure](https://github.com/dgrnbrg/clj-mesos) and [mesomatic](https://github.com/pyr/mesomatic)
-* Node.js - [Marathon/Chronos API wrapper](https://github.com/silas/node-mesos)
-* Node.js - [Scheduler/Executor API wrapper](https://github.com/tobilg/mesos-framework) 
 * [Ruby](https://github.com/burke/mesos-ruby)
 * [Perl](https://github.com/mark-5/perl-mesos)
 * [Rust](https://github.com/iron-oxide/mesos-rust)
