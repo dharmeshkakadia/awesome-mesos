@@ -58,7 +58,7 @@ What can you expect to see here?
 * [Apache Hadoop](https://github.com/mesos/hadoop)
 * [Apache Hama](http://wiki.apache.org/hama/GettingStartedMesos)
 * [Dpark](https://github.com/douban/dpark)
-* [Flink](https://github.com/mxm/flink-mesos)
+* [Flink](https://github.com/apache/flink/tree/master/flink-mesos)
 
 ####Stream/Event Processing
 * [Apache Storm](https://github.com/mesos/storm)
