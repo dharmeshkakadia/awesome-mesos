@@ -205,6 +205,7 @@ What can you expect to see here?
 * [Rust](https://github.com/iron-oxide/mesos-rust)
 * [CLR](https://github.com/bcrusu/mesos-clr)
 * [Scala](https://github.com/nokia/mesos-scala-api)
+* [JavaScript](https://github.com/tobilg/mesos-framework)
 
 ##Tools
 
