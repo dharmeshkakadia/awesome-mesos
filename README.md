@@ -416,7 +416,6 @@ What can you expect to see here?
 * [Spring Cloud Data Flow](https://github.com/spring-cloud/spring-cloud-dataflow-server-mesos)
 * [Nix](https://github.com/kamilchm/nix-mesos)
 * [RogerOS](https://github.com/seomoz/roger-mesos-tools)
-* [TradeCloud](https://github.com/tradecloud/tradecloud-microservices)
 
 ##Where to look for more?
 
