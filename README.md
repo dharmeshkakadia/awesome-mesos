@@ -392,6 +392,7 @@ What can you expect to see here?
 * https://github.com/ortoo/mesos-nerve
 * https://github.com/theclaymethod/Foundry-vagrant-mesos-kafka-cluster
 * [Autoscaling Mesos](https://github.com/thefactory/autoscale-python)
+* https://github.com/datastrophic/mesos-scaler-ec2
 * Aurora REST interface - https://github.com/misho-kr/mesos-aurora-restful and https://github.com/smarth-madan/incubator-aurora
 * [Storm Marathon](https://github.com/obaidsalikeen/storm-marathon)
 * https://github.com/tailhook/mesos-tests
