@@ -255,6 +255,7 @@ What can you expect to see here?
 * https://github.com/redjack/docker-mesos
 * https://github.com/yaronr/docker-mesos
 * https://github.com/schibsted/mesoscope
+* https://github.com/datastrophic/mesos-workshop
 
 ###Trace Visualization
 * https://github.com/tnachen/mesos_traces_vis
