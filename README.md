@@ -426,5 +426,6 @@ What can you expect to see here?
 * [Mesos User Groups](http://mesos.apache.org/community/user-groups/)
 * [Powered By Mesos](http://mesos.apache.org/documentation/latest/powered-by-mesos/)
 * [Mesos Community](http://mesos.apache.org/community/)
+* [Apache Mesos Youtube Channel](https://www.youtube.com/channel/UC0wxLxgX8ilUn0m31lCpzAw)
 * [List of Mesos related conferences & meetups](https://github.com/parolkar/awesome-mesos#related-conferences--meetups)
 * [Apache Mesos Essentials book](http://dharmeshkakadia.blogspot.com/2015/06/apache-mesos-essential-is-now-available.html)
