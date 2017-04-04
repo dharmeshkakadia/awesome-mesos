@@ -49,25 +49,25 @@ What can you expect to see here?
 
 * [Where to look for more?](#where-to-look-for-more)
 
-##Frameworks
+## Frameworks
 
-###Data Processing
+### Data Processing
 
-####Batch Processing
+#### Batch Processing
 * [Apache Spark](https://spark.apache.org/docs/latest/running-on-mesos.html)
 * [Apache Hadoop](https://github.com/mesos/hadoop)
 * [Apache Hama](http://wiki.apache.org/hama/GettingStartedMesos)
 * [Dpark](https://github.com/douban/dpark)
 * [Flink](https://github.com/apache/flink/tree/master/flink-mesos)
 
-####Stream/Event Processing
+#### Stream/Event Processing
 * [Apache Storm](https://github.com/mesos/storm)
 * [Samza](https://github.com/Banno/samza-mesos)
 * [Concord](http://concord.io/)
 * [Heron](https://github.com/twitter/heron)
 * [Fabric](https://github.com/olacabs/fabric)
 
-###Storage and Serving
+### Storage and Serving
 * [Apache Cassandra](https://github.com/mesosphere/cassandra-mesos)
 * [ArangoDB](https://github.com/fceller/arangodb-mesos)
 * [Hypertable](https://code.google.com/p/hypertable/wiki/Mesos)
@@ -91,10 +91,10 @@ What can you expect to see here?
 * [DataStax](https://github.com/elodina/datastax-enterprise-mesos)
 * [Kafaka -> Cassandra mirroring](https://github.com/elodina/stockpile)
 
-###Machine Learning
+### Machine Learning
 * [TensorFlow](https://github.com/douban/tfmesos)
 
-###Service/Meta Schedulers/ PaaS
+### Service/Meta Schedulers/ PaaS
 * [Apache Aurora](http://aurora.incubator.apache.org/)
 * [Marathon](https://github.com/mesosphere/marathon)
 * [Singularity](https://github.com/HubSpot/Singularity)
@@ -106,23 +106,23 @@ What can you expect to see here?
 * [Metronome](https://github.com/dcos/metronome)
 * [Swan](https://github.com/Dataman-Cloud/swan)
  
-###Consensus 
+### Consensus 
 * [ZooKeeper](https://github.com/CiscoCloud/exhibitor-mesos-framework) and [ZooKeeper](https://github.com/elodina/exhibitor-mesos-framework)
 * [Etcd](https://github.com/mesosphere/etcd-mesos)
 
-###Continuous Integration
+### Continuous Integration
 * [Jenkins](https://github.com/jenkinsci/mesos-plugin) and [Jenkins](https://github.com/mesosphere/jenkins-mesos)
 * [GitLab CI](https://github.com/deric/gitlab-ci-mesos)
 * [Teamcity Plugin](https://github.com/ankurcha/mesos-teamcity-plugin)
 
-###One-off tasks/commands
+### One-off tasks/commands
 * [Eremetic](https://github.com/alde/eremetic)
 * [R scripts](https://github.com/MohamedBassem/r-cluster)
 
-###Tracing
+### Tracing
 * [Zipkin](https://github.com/elodina/zipkin-mesos-framework)
 
-###Metric collection, logging and visualization
+### Metric collection, logging and visualization
 * [Kibana](https://github.com/mesos/kibana)
 * [Logstash](https://github.com/mesos/logstash)
 * [Statsd -> Kafka](https://github.com/stealthly/statsd-mesos-kafka) and [Statsd -> Kafka](https://github.com/elodina/statsd-mesos-kafka)
@@ -130,11 +130,11 @@ What can you expect to see here?
 * [Go based Syslog service](https://github.com/elodina/syslog-service) and [Go based Syslog service](https://github.com/CiscoCloud/syslog-service)
 * [Mesos slave metrics -> Kafka](https://github.com/elodina/syscol)
 
-###Benchmarking
+### Benchmarking
 * [YCSB](https://github.com/yanglei99/YCSB_Mesos)
 * [Hydra](https://github.com/lake-lerna/hydra)
 
-###Experimental/Example/Unsorted
+### Experimental/Example/Unsorted
 
 * [distcc](https://github.com/mesos/mesos-distcc)
 * [Exelixi](https://github.com/ceteri/exelixi)
@@ -205,21 +205,21 @@ What can you expect to see here?
 * [Scala](https://github.com/nokia/mesos-scala-api)
 * [JavaScript](https://github.com/tobilg/mesos-framework)
 
-##Tools
+## Tools
 
-###Alternative UI/Dashboards 
+### Alternative UI/Dashboards 
 * https://github.com/Capgemini/mesos-ui
 * https://github.com/bspaans/simple-mesos-dashboard
 * https://github.com/Clever/mesos-visualizer
 * https://github.com/triforkse/mesos-ui
 
-###Tools for Mesos Developers
+### Tools for Mesos Developers
 * https://github.com/tillt/xcode-mesos
 * https://github.com/mesos/modules
 * [Docker image for Mesos modules](https://github.com/Bplotka/mesos-modules-dev)
 * https://github.com/MesosWindows/mesoswin
 
-###Tools for Mesos Framework Developers
+### Tools for Mesos Framework Developers
 * https://github.com/mesosphere/scala-sbt-mesos-framework.g8
 * https://github.com/drexin/akka-mesos
 * Simple Mesos "Hello world" in scala - https://gist.github.com/guenter/7471695
@@ -231,10 +231,10 @@ What can you expect to see here?
 * [JavaScript framework boilerplate](https://github.com/tobilg/mesos-framework-boilerplate)
 * https://github.com/huawei-cloudfederation/mesos-go-stateful
 
-###Command line tools
+### Command line tools
 * [mesosctl](https://github.com/mesoshq/mesosctl)
 
-###Vagrant based setups
+### Vagrant based setups
 * https://github.com/tobilg/coreos-mesos-cluster
 * https://github.com/everpeace/vagrant-mesos
 * https://github.com/mesosphere/playa-mesos 
@@ -249,7 +249,7 @@ What can you expect to see here?
 * https://github.com/rasputnik/mesos-centos
 * https://github.com/Banno/vagrant-mesos - using Atlas
 
-###Docker based setups
+### Docker based setups
 * https://github.com/breerly/fig-mesos
 * https://github.com/dontrebootme/compose-mesos
 * https://github.com/redjack/docker-mesos
@@ -258,13 +258,13 @@ What can you expect to see here?
 * https://github.com/datastrophic/mesos-workshop
 * https://github.com/datastrophic/mesos-docker-containers
 
-###Trace Visualization
+### Trace Visualization
 * https://github.com/tnachen/mesos_traces_vis
 * https://github.com/mesosphere/mesos-tracing
 
-##Deployment 
+## Deployment 
 
-###Ansible
+### Ansible
 * https://github.com/mhamrah/ansible-mesos-playbook
 * https://github.com/fupelaqu/ansible-mesos
 * https://github.com/frankhinek/ansible-mesos-cluster
@@ -276,33 +276,33 @@ What can you expect to see here?
 * [Deploy apps on marathon from ansible](https://github.com/Topface/ansible-marathon_app)
 * [roger-mesos with Bamboo](https://github.com/seomoz/roger-mesos)
 
-###Chef
+### Chef
 * https://github.com/everpeace/cookbook-mesos
 * https://github.com/mdsol/mesos_cookbook
 
-###Puppet
+### Puppet
 * https://github.com/deric/puppet-mesos
 
-###Babushka
+### Babushka
 * https://github.com/parolkar/mesos-babushka
 
-###Cloudformation
+### Cloudformation
 * https://github.com/thefactory/cloudformation-mesos
 
-###Terraform
+### Terraform
 * https://github.com/ContainerSolutions/terraform-mesos
 * https://github.com/tonyjchong/terraform-mesos
 
-###Systemd
+### Systemd
 * https://github.com/adobe-platform/mesos-systemd
  
-###Packaging
+### Packaging
 * https://github.com/nmilford/rpm-mesos
 * https://github.com/berngp/mesos-rpm
 * https://github.com/deric/mesos-deb-packaging
 * https://github.com/mesosphere/mesos-deb-packaging
 
-###Monitoring and alerting
+### Monitoring and alerting
 * https://github.com/opentable/nagios-mesos
 * https://github.com/bobrik/collectd-mesos-tasks and (https://github.com/rayrod2030/collectd-mesos and its dockerized version - https://github.com/bobrik/docker-collectd-mesos)
 * [Satellite](https://github.com/twosigma/satellite)
@@ -311,7 +311,7 @@ What can you expect to see here?
 * [Complainer](https://github.com/cloudflare/complainer)
 * [marathon-slack](https://github.com/tobilg/marathon-slack)
 
-###Service discovery and Load balancing
+### Service discovery and Load balancing
 * [Automated HAProxy reconfiguration for Marathon](https://github.com/Wizcorp/frontrunner)
 * [DNS based Service Discovery for Mesos](https://github.com/mesosphere/mesos-dns)
 * [Service Discovery script for Mesos and Marathon](https://github.com/opencredo/mesos_service_discovery)
@@ -326,7 +326,7 @@ What can you expect to see here?
 * [traefik](https://github.com/emilevauge/traefik)
 * [Surok](https://github.com/Difrex/surok)
 
-###Networking
+### Networking
 * [Project Calico](https://github.com/projectcalico/calico-mesos)
 
 ### Modules
@@ -350,7 +350,7 @@ What can you expect to see here?
 * [PaaSTA](https://github.com/Yelp/paasta)
 * [Appsoma Welder](https://github.com/appsoma/welder)
 
-##Other projects and Integrations
+## Other projects and Integrations
 * [BigDataScript](https://github.com/pcingola/BigDataScript)
 * https://github.com/mesosphere/sample_mesos_executor
 * https://github.com/CloudCredo/mesos-boshrelease
@@ -420,7 +420,7 @@ What can you expect to see here?
 * [Nix](https://github.com/kamilchm/nix-mesos)
 * [RogerOS](https://github.com/seomoz/roger-mesos-tools)
 
-##Where to look for more?
+## Where to look for more?
 
 * [MesosCon](http://mesoscon.org) Videos - [2014](https://www.youtube.com/playlist?list=PLDVc2EaAVPg9kp8cFzjR1Yxj96I4U5EGN), [2015](https://www.youtube.com/playlist?list=PLVjgeV_avap2arug3vIz8c6l72rvh9poV), [Europe 2015](https://www.youtube.com/watch?v=K-x7yOy8Ymk&list=PLGeM09tlguZS6MhlSZDbf-gANWdKgje0I), [Seattle 2015](https://www.youtube.com/watch?v=aV6pdWveN7s&list=PLVjgeV_avap2arug3vIz8c6l72rvh9poV), [North America 2016](https://www.youtube.com/playlist?list=PLGeM09tlguZQVL7ZsfNMffX9h1rGNVqnC)
 * [Mesos User Groups](http://mesos.apache.org/community/user-groups/)
