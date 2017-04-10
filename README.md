@@ -105,6 +105,7 @@ What can you expect to see here?
 * [Kubernetes](https://github.com/mesosphere/kubernetes-mesos)
 * [Metronome](https://github.com/dcos/metronome)
 * [Swan](https://github.com/Dataman-Cloud/swan)
+* [ElasticJob](https://github.com/dangdangdotcom/elastic-job)
  
 ### Consensus 
 * [ZooKeeper](https://github.com/CiscoCloud/exhibitor-mesos-framework) and [ZooKeeper](https://github.com/elodina/exhibitor-mesos-framework)
@@ -193,8 +194,10 @@ What can you expect to see here?
 * Python
 * Pure Python - [Pesos](https://github.com/wickman/pesos)
 * Pure Python - [Pymesos](https://github.com/dangra/pymesos)
+* [Python HTTP](https://github.com/osallou/python-mesos-http)
 * [Go](https://github.com/mesos/mesos-go)
 * Pure go - [Gomes](https://github.com/vladimirvivien/gomes)
+* HTTP go - [mesos-go-http](https://github.com/ondrej-smola/mesos-go-http)
 * [Erlang](https://github.com/mdevilliers/erlang-mesos) with [example framework](https://github.com/mdevilliers/merkxx)
 * [Haskell](https://github.com/iand675/hs-mesos)
 * [Clojure](https://github.com/dgrnbrg/clj-mesos) and [mesomatic](https://github.com/pyr/mesomatic)
@@ -217,7 +220,7 @@ What can you expect to see here?
 * https://github.com/tillt/xcode-mesos
 * https://github.com/mesos/modules
 * [Docker image for Mesos modules](https://github.com/Bplotka/mesos-modules-dev)
-* https://github.com/MesosWindows/mesoswin
+* [Windows support for Mesos](https://github.com/Microsoft/mesos-log)
 
 ### Tools for Mesos Framework Developers
 * https://github.com/mesosphere/scala-sbt-mesos-framework.g8
@@ -419,6 +422,7 @@ What can you expect to see here?
 * [Spring Cloud Data Flow](https://github.com/spring-cloud/spring-cloud-dataflow-server-mesos)
 * [Nix](https://github.com/kamilchm/nix-mesos)
 * [RogerOS](https://github.com/seomoz/roger-mesos-tools)
+* [deathnode - Gracefully kill Mesos nodes for autoscaling](https://github.com/alanbover/deathnode)
 
 ## Where to look for more?
 
