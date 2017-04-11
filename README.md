@@ -183,6 +183,7 @@ What can you expect to see here?
 * [Wraxl](https://github.com/kscherer/wraxl-scheduler)
 * [ScaleIO](https://github.com/codedellemc/scaleio-framework)
 * [openvdc](https://github.com/axsh/openvdc)
+* [hippo - Mesos framework for eating tasks off queues](https://github.com/Hobsons/hippo)
 
 ## Language Bindings
 
@@ -236,6 +237,7 @@ What can you expect to see here?
 
 ### Command line tools
 * [mesosctl](https://github.com/mesoshq/mesosctl)
+* [mesos-tail](https://github.com/felixb/mesos-tail)
 
 ### Vagrant based setups
 * https://github.com/tobilg/coreos-mesos-cluster
@@ -328,6 +330,7 @@ What can you expect to see here?
 * [roger-bamboo](https://github.com/seomoz/roger-bamboo)
 * [traefik](https://github.com/emilevauge/traefik)
 * [Surok](https://github.com/Difrex/surok)
+* [Sprinter]https://github.com/lasp-lang/sprinter
 
 ### Networking
 * [Project Calico](https://github.com/projectcalico/calico-mesos)
@@ -423,6 +426,7 @@ What can you expect to see here?
 * [Nix](https://github.com/kamilchm/nix-mesos)
 * [RogerOS](https://github.com/seomoz/roger-mesos-tools)
 * [deathnode - Gracefully kill Mesos nodes for autoscaling](https://github.com/alanbover/deathnode)
+* [PAPI performance counters for Mesos](https://github.com/ct-clmsn/mesos-papi)
 
 ## Where to look for more?
 
