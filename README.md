@@ -384,7 +384,6 @@ What can you expect to see here?
 * https://github.com/gavinln/mesos-jenkins
 * https://github.com/smarthall/packer-mesos
 * https://github.com/JasonGiedymin/chef-mesos
-* https://github.com/preillyme/mpm
 * https://github.com/cashoefman/chronos
 * https://github.com/thefactory/docker-marathon
 * https://github.com/veverjak/coreos-mesos-marathon
@@ -415,7 +414,6 @@ What can you expect to see here?
 * [megos - Go(lang) client library for accessing information of a Apache Mesos cluster](https://github.com/andygrunwald/megos)
 * [Weave Mesos Integration](https://github.com/TrentBrown/weave-into-mesos)
 * [OpenStack Kolla](https://github.com/openstack/kolla-mesos)
-* [Chimp](https://github.com/zalando-techmonkeys/chimp)
 * [Depcon](https://github.com/gondor/depcon)
 * [Vault](https://github.com/jmspring/vault-on-mesos)
 * [Go Mesos Kafka Consumer](https://github.com/elodina/gonzo)
