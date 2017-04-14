@@ -122,6 +122,7 @@ What can you expect to see here?
 
 ### Tracing
 * [Zipkin](https://github.com/elodina/zipkin-mesos-framework)
+* [Open Source Sysdig](http://www.sysdig.org)
 
 ### Metric collection, logging and visualization
 * [Kibana](https://github.com/mesos/kibana)
@@ -130,6 +131,8 @@ What can you expect to see here?
 * [Construct - Deploy a single task on all agents of the cluster](https://github.com/containersolutions/construct)
 * [Go based Syslog service](https://github.com/elodina/syslog-service) and [Go based Syslog service](https://github.com/CiscoCloud/syslog-service)
 * [Mesos slave metrics -> Kafka](https://github.com/elodina/syscol)
+* [Sysdig - Monitoring for Mesos metrics and events](http://sysdig.com/mesos-dcos-monitoring/)
+
 
 ### Benchmarking
 * [YCSB](https://github.com/yanglei99/YCSB_Mesos)
@@ -315,6 +318,7 @@ What can you expect to see here?
 * https://github.com/kpacha/mesos-influxdb-collector
 * [Complainer](https://github.com/cloudflare/complainer)
 * [marathon-slack](https://github.com/tobilg/marathon-slack)
+* [Sysdig - Monitoring for Mesos metrics and events](http://sysdig.com/mesos-dcos-monitoring/)
 
 ### Service discovery and Load balancing
 * [Automated HAProxy reconfiguration for Marathon](https://github.com/Wizcorp/frontrunner)
@@ -435,3 +439,5 @@ What can you expect to see here?
 * [Apache Mesos Youtube Channel](https://www.youtube.com/channel/UC0wxLxgX8ilUn0m31lCpzAw)
 * [List of Mesos related conferences & meetups](https://github.com/parolkar/awesome-mesos#related-conferences--meetups)
 * [Apache Mesos Essentials book](http://dharmeshkakadia.blogspot.com/2015/06/apache-mesos-essential-is-now-available.html)
+* [Sysdig - Monitoring Mesos examples](https://sysdig.com/blog/monitoring-mesos/)
+* [Creating Utilization Alerts and Dashboards for Mesos](https://sysdig.com/blog/creating-utilization-alerts-mesos-dcos/)
