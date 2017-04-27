@@ -330,7 +330,7 @@ What can you expect to see here?
 * [roger-bamboo](https://github.com/seomoz/roger-bamboo)
 * [traefik](https://github.com/emilevauge/traefik)
 * [Surok](https://github.com/Difrex/surok)
-* [Sprinter]https://github.com/lasp-lang/sprinter
+* [Sprinter](https://github.com/lasp-lang/sprinter)
 
 ### Networking
 * [Project Calico](https://github.com/projectcalico/calico-mesos)
