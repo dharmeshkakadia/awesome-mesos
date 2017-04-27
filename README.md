@@ -131,7 +131,7 @@ What can you expect to see here?
 * [Construct - Deploy a single task on all agents of the cluster](https://github.com/containersolutions/construct)
 * [Go based Syslog service](https://github.com/elodina/syslog-service) and [Go based Syslog service](https://github.com/CiscoCloud/syslog-service)
 * [Mesos slave metrics -> Kafka](https://github.com/elodina/syscol)
-* [Sysdig - Monitoring for Mesos metrics and events](http://sysdig.com/mesos-dcos-monitoring/)
+
 
 
 ### Benchmarking
@@ -319,6 +319,8 @@ What can you expect to see here?
 * [Complainer](https://github.com/cloudflare/complainer)
 * [marathon-slack](https://github.com/tobilg/marathon-slack)
 * [Sysdig - Monitoring for Mesos metrics and events](http://sysdig.com/mesos-dcos-monitoring/)
+* [Monitoring Mesos examples](https://sysdig.com/blog/monitoring-mesos/)
+* [Creating Utilization Alerts and Dashboards for Mesos](https://sysdig.com/blog/creating-utilization-alerts-mesos-dcos/)
 
 ### Service discovery and Load balancing
 * [Automated HAProxy reconfiguration for Marathon](https://github.com/Wizcorp/frontrunner)
@@ -439,5 +441,4 @@ What can you expect to see here?
 * [Apache Mesos Youtube Channel](https://www.youtube.com/channel/UC0wxLxgX8ilUn0m31lCpzAw)
 * [List of Mesos related conferences & meetups](https://github.com/parolkar/awesome-mesos#related-conferences--meetups)
 * [Apache Mesos Essentials book](http://dharmeshkakadia.blogspot.com/2015/06/apache-mesos-essential-is-now-available.html)
-* [Sysdig - Monitoring Mesos examples](https://sysdig.com/blog/monitoring-mesos/)
-* [Creating Utilization Alerts and Dashboards for Mesos](https://sysdig.com/blog/creating-utilization-alerts-mesos-dcos/)
+
