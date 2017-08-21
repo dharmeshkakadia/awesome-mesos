@@ -173,9 +173,9 @@ What can you expect to see here?
 * [Closest-pairs in 2D with divide-and-conquer](https://github.com/chenlily/closest-pair)
 * [QoSon](https://github.com/akshshar/QoSon)
 * [Logo Generator](https://github.com/remembertoplay/logo-generator)
-* https://github.com/dropbox/changes-mesos-framework
-* https://github.com/parker20121/mesos-joshua
-* https://github.com/kaysoky/InverseOfferExampleFramework
+* [Changes Mesos Framework](https://github.com/dropbox/changes-mesos-framework)
+* [Mesos Joshua](https://github.com/parker20121/mesos-joshua)
+* [Inverse Offer Example Framework](https://github.com/kaysoky/InverseOfferExampleFramework)
 * [Deimos](https://github.com/mesosphere/deimos) (deprecated when native [Docker support](http://mesos.apache.org/documentation/latest/docker-containerizer/) was added to Mesos v0.20)
 * [Slurm](https://github.com/nqn/slurm-mesos) (deprecated)
 * [Satyr](https://github.com/lensacom/satyr)
@@ -188,21 +188,23 @@ What can you expect to see here?
 
 ## Language Bindings
 
-* C/C++
-* [Java](http://mesos.apache.org/api/latest/java/)
-* Pure Java - [Jesos](https://github.com/groupon/jesos)
-* Pure JVM - [Framework API](https://github.com/kevints/mesos-framework-api)
-* [RxJava](https://github.com/mesosphere/mesos-rxjava)
+* Java
+  * [Java](http://mesos.apache.org/api/latest/java/)
+  * [Jesos](https://github.com/groupon/jesos) - Pure Java
+  * [Framework API](https://github.com/kevints/mesos-framework-api) - Pure JVM
+  * [RxJava](https://github.com/mesosphere/mesos-rxjava)
 * Python
-* Pure Python - [Pesos](https://github.com/wickman/pesos)
-* Pure Python - [Pymesos](https://github.com/dangra/pymesos)
-* [Python HTTP](https://github.com/osallou/python-mesos-http)
+  * [Pesos](https://github.com/wickman/pesos) - Pure Python
+  * [Pymesos](https://github.com/dangra/pymesos) 
+  * [Python HTTP](https://github.com/osallou/python-mesos-http)
 * [Go](https://github.com/mesos/mesos-go)
-* Pure go - [Gomes](https://github.com/vladimirvivien/gomes)
-* HTTP go - [mesos-go-http](https://github.com/ondrej-smola/mesos-go-http)
+  * [Gomes](https://github.com/vladimirvivien/gomes) - Pure Go
+  * [mesos-go-http](https://github.com/ondrej-smola/mesos-go-http) - HTTP Go
 * [Erlang](https://github.com/mdevilliers/erlang-mesos) with [example framework](https://github.com/mdevilliers/merkxx)
 * [Haskell](https://github.com/iand675/hs-mesos)
-* [Clojure](https://github.com/dgrnbrg/clj-mesos) and [mesomatic](https://github.com/pyr/mesomatic)
+* Clojure
+  * [Clojure](https://github.com/dgrnbrg/clj-mesos)
+  * [mesomatic](https://github.com/pyr/mesomatic)
 * [Ruby](https://github.com/burke/mesos-ruby)
 * [Perl](https://github.com/mark-5/perl-mesos)
 * [Rust](https://github.com/iron-oxide/mesos-rust)
@@ -213,47 +215,47 @@ What can you expect to see here?
 ## Tools
 
 ### Alternative UI/Dashboards 
-* https://github.com/Capgemini/mesos-ui
-* https://github.com/bspaans/simple-mesos-dashboard
-* https://github.com/Clever/mesos-visualizer
-* https://github.com/triforkse/mesos-ui
+* [Mesos UI](https://github.com/Capgemini/mesos-ui)
+* [Simple Mesos Dasboard](https://github.com/bspaans/simple-mesos-dashboard)
+* [Mesos Visualizer](https://github.com/Clever/mesos-visualizer)
+* [Mesos UI](https://github.com/triforkse/mesos-ui)
 
 ### Tools for Mesos Developers
-* https://github.com/tillt/xcode-mesos
-* https://github.com/mesos/modules
+* [Xcode Workspace for Apache Mesos](https://github.com/tillt/xcode-mesos)
+* [Example repository for creating Mesos modules](https://github.com/mesos/modules)
 * [Docker image for Mesos modules](https://github.com/Bplotka/mesos-modules-dev)
 * [Windows support for Mesos](https://github.com/Microsoft/mesos-log)
 
 ### Tools for Mesos Framework Developers
-* https://github.com/mesosphere/scala-sbt-mesos-framework.g8
-* https://github.com/drexin/akka-mesos
-* Simple Mesos "Hello world" in scala - https://gist.github.com/guenter/7471695
+* [Write a Scala Mesos Framework in 7 Steps](https://github.com/mesosphere/scala-sbt-mesos-framework.g8)
+* [Akka Mesos](https://github.com/drexin/akka-mesos)
+* [Simple Mesos "Hello world" in scala](https://gist.github.com/guenter/7471695)
 * [Mesos State Backed Collections](https://github.com/mesosphere/mesos-state-backed-collections)
 * [mini-mesos - Testing infrastructure for Mesos frameworks](https://github.com/containersolutions/mini-mesos)
 * [Fenzo - Cross framework pluggable task scheduling library](https://github.com/Netflix/Fenzo)
 * [Spring Boot starter for Mesos](https://github.com/containersolutions/mesos-starter)
 * [Go-Mesos-Utils](https://github.com/elodina/go-mesos-utils)
 * [JavaScript framework boilerplate](https://github.com/tobilg/mesos-framework-boilerplate)
-* https://github.com/huawei-cloudfederation/mesos-go-stateful
+* [Mesos Go Stateful](https://github.com/huawei-cloudfederation/mesos-go-stateful)
 
 ### Command line tools
 * [mesosctl](https://github.com/mesoshq/mesosctl)
 * [mesos-tail](https://github.com/felixb/mesos-tail)
 
 ### Vagrant based setups
-* https://github.com/tobilg/coreos-mesos-cluster
-* https://github.com/everpeace/vagrant-mesos
-* https://github.com/mesosphere/playa-mesos 
-* https://github.com/bskaggs/vagrant-deimos
-* https://github.com/aharwood/vagrant-mesos-spark
-* https://github.com/Woorank/vagrant-mesos-cluster
-* https://github.com/ahunnargikar/vagrant-mesos
-* https://github.com/liubin/mesos-marathon-deimos-vagrant
-* https://github.com/antonlindstrom/mesos_playground
-* https://github.com/mdevilliers/vagrant-mesos-development-environment
-* https://github.com/gavinln/mesos-marathon
-* https://github.com/rasputnik/mesos-centos
-* https://github.com/Banno/vagrant-mesos - using Atlas
+* [CoreOS Mesos Cluster](https://github.com/tobilg/coreos-mesos-cluster)
+* [Vagrant Mesos](https://github.com/everpeace/vagrant-mesos)
+* [Playa Mesos](https://github.com/mesosphere/playa-mesos )
+* [Vagrant Deimos](https://github.com/bskaggs/vagrant-deimos)
+* [Vagrant Mesos Spark](https://github.com/aharwood/vagrant-mesos-spark)
+* [Vagrant Mesos Cluster](https://github.com/Woorank/vagrant-mesos-cluster)
+* [Vagrant Mesos](https://github.com/ahunnargikar/vagrant-mesos)
+* [Mesos Marathon Deimos Vagrant](https://github.com/liubin/mesos-marathon-deimos-vagrant)
+* [Mesos Playground](https://github.com/antonlindstrom/mesos_playground)
+* [Vagrant Mesos Development Environment](https://github.com/mdevilliers/vagrant-mesos-development-environment)
+* [Mesos Marathon](https://github.com/gavinln/mesos-marathon)
+* [Mesos CentOS](https://github.com/rasputnik/mesos-centos)
+* [Using Atlas](https://github.com/Banno/vagrant-mesos)
 
 ### Docker based setups
 * https://github.com/breerly/fig-mesos
@@ -271,20 +273,20 @@ What can you expect to see here?
 ## Deployment 
 
 ### Ansible
-* https://github.com/mhamrah/ansible-mesos-playbook
-* https://github.com/fupelaqu/ansible-mesos
-* https://github.com/frankhinek/ansible-mesos-cluster
-* https://github.com/curtisgithub/ansible-mmd
-* https://github.com/AnsibleShipyard/ansible-mesos
-* https://github.com/AnsibleShipyard/ansible-mesos-docker
-* https://github.com/AnsibleShipyard/ansible-chronos
-* https://github.com/AnsibleShipyard/ansible-marathon
+* [Ansible Mesos playbook](https://github.com/mhamrah/ansible-mesos-playbook)
+* [Ansible Mesos](https://github.com/fupelaqu/ansible-mesos)
+* [Ansible Mesos cluster](https://github.com/frankhinek/ansible-mesos-cluster)
+* [Ansible MMD](https://github.com/curtisgithub/ansible-mmd)
+* [Ansible Mesos](https://github.com/AnsibleShipyard/ansible-mesos)
+* [Anisble Mesos Docker](https://github.com/AnsibleShipyard/ansible-mesos-docker)
+* [Ansible Chronos](https://github.com/AnsibleShipyard/ansible-chronos)
+* [Anisble Marathon](https://github.com/AnsibleShipyard/ansible-marathon)
 * [Deploy apps on marathon from ansible](https://github.com/Topface/ansible-marathon_app)
 * [roger-mesos with Bamboo](https://github.com/seomoz/roger-mesos)
 
 ### Chef
-* https://github.com/everpeace/cookbook-mesos
-* https://github.com/mdsol/mesos_cookbook
+* [Cookbook Mesos](https://github.com/everpeace/cookbook-mesos)
+* [Mesos Cookbook](https://github.com/mdsol/mesos_cookbook)
 
 ### Puppet
 * https://github.com/deric/puppet-mesos
