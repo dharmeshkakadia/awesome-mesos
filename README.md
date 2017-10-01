@@ -438,6 +438,7 @@ What can you expect to see here?
   * [Europe 2015](https://www.youtube.com/watch?v=K-x7yOy8Ymk&list=PLGeM09tlguZS6MhlSZDbf-gANWdKgje0I) 
   * [Seattle 2015](https://www.youtube.com/watch?v=aV6pdWveN7s&list=PLVjgeV_avap2arug3vIz8c6l72rvh9poV)
   * [North America 2016](https://www.youtube.com/playlist?list=PLGeM09tlguZQVL7ZsfNMffX9h1rGNVqnC)
+  * [North America 2017](https://www.youtube.com/playlist?list=PLbzoR-pLrL6qAEnkhkh5tGI6oX_xXD3X4)
 * [Mesos User Groups](http://mesos.apache.org/community/user-groups/)
 * [Powered By Mesos](http://mesos.apache.org/documentation/latest/powered-by-mesos/)
 * [Mesos Community](http://mesos.apache.org/community/)
