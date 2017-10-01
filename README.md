@@ -259,7 +259,6 @@ What can you expect to see here?
 ### Docker based setups
 * [Fig Mesos](https://github.com/breerly/fig-mesos)
 * [Compose Mesos](https://github.com/dontrebootme/compose-mesos)
-* [Docker Mesos](https://github.com/redjack/docker-mesos)
 * [Docker Mesos](https://github.com/yaronr/docker-mesos)
 * [Mesoscope](https://github.com/schibsted/mesoscope)
 * [Mesos workshop](https://github.com/datastrophic/mesos-workshop)
