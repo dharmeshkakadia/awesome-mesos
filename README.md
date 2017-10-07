@@ -45,6 +45,7 @@ What can you expect to see here?
    * [Networking](#networking)
    * [Modules](#modules)
    * [Platforms and microservice architectures](#platforms-and-microservice-architectures)
+   * [Deploy on Eucalyptus Private Cloud](https://github.com/strat0sphere/spark-euca)
  
 * [Other Projects and Integrations](#other-projects-and-integrations)
 
