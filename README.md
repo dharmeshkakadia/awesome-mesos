@@ -45,7 +45,7 @@ What can you expect to see here?
    * [Networking](#networking)
    * [Modules](#modules)
    * [Platforms and microservice architectures](#platforms-and-microservice-architectures)
-   * [Deploy on Eucalyptus Private Cloud](https://github.com/strat0sphere/spark-euca)
+   * [Shell-scripts](#shell-scripts)
  
 * [Other Projects and Integrations](#other-projects-and-integrations)
 
@@ -360,6 +360,9 @@ What can you expect to see here?
 * [Compute platform](https://github.com/sttts/compute-platform)
 * [PaaSTA](https://github.com/Yelp/paasta)
 * [Appsoma Welder](https://github.com/appsoma/welder)
+
+### Shell-scripts
+* [Eucalyptus Private Cloud](https://github.com/strat0sphere/spark-euca)
 
 ## Other projects and Integrations
 * [BigDataScript](https://github.com/pcingola/BigDataScript)
