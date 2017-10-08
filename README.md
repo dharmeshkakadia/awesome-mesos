@@ -362,7 +362,7 @@ What can you expect to see here?
 * [Appsoma Welder](https://github.com/appsoma/welder)
 
 ### Shell-scripts
-* [Eucalyptus Private Cloud](https://github.com/strat0sphere/spark-euca)
+* [Mesos on Eucalyptus Private Cloud](https://github.com/strat0sphere/spark-euca)
 
 ## Other projects and Integrations
 * [BigDataScript](https://github.com/pcingola/BigDataScript)
