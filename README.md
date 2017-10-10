@@ -39,13 +39,17 @@ What can you expect to see here?
    * [Cloudformation](#cloudformation)
    * [Terraform](#terraform)
    * [Systemd](#systemd)
+   * [Shell-scripts](#shell-scripts) 
    * [Packaging](#packaging)
-   * [Monitoring and alerting](#monitoring-and-alerting)
-   * [Service discovery and Load balancing](#service-discovery-and-load-balancing)
    * [Networking](#networking)
-   * [Modules](#modules)
-   * [Platforms and microservice architectures](#platforms-and-microservice-architectures)
-   * [Shell-scripts](#shell-scripts)
+   
+* [Monitoring and alerting](#monitoring-and-alerting)
+   
+* [Service discovery and Load balancing](#service-discovery-and-load-balancing)
+ 
+* [Modules](#modules)
+ 
+* [Platforms and microservice architectures](#platforms-and-microservice-architectures) 
  
 * [Other Projects and Integrations](#other-projects-and-integrations)
 
@@ -302,6 +306,9 @@ What can you expect to see here?
 
 ### Systemd
 * [Mesos SystemD](https://github.com/adobe-platform/mesos-systemd)
+
+### Shell-scripts
+* [Mesos on Eucalyptus Private Cloud](https://github.com/strat0sphere/spark-euca)
  
 ### Packaging
 * [RPM Mesos](https://github.com/nmilford/rpm-mesos)
@@ -309,7 +316,10 @@ What can you expect to see here?
 * [Mesos DEB packaging](https://github.com/deric/mesos-deb-packaging)
 * [Mesos DEB packaging](https://github.com/mesosphere/mesos-deb-packaging)
 
-### Monitoring and alerting
+### Networking
+* [Project Calico](https://github.com/projectcalico/calico-mesos)
+
+## Monitoring and alerting
 * [Nagios Mesos](https://github.com/opentable/nagios-mesos)
 * [CollecD Mesos task](https://github.com/bobrik/collectd-mesos-tasks) 
 * [CollectD Mesos](https://github.com/rayrod2030/collectd-mesos)
@@ -321,7 +331,7 @@ What can you expect to see here?
 * [Complainer](https://github.com/cloudflare/complainer)
 * [marathon-slack](https://github.com/tobilg/marathon-slack)
 
-### Service discovery and Load balancing
+## Service discovery and Load balancing
 * [Automated HAProxy reconfiguration for Marathon](https://github.com/Wizcorp/frontrunner)
 * [DNS based Service Discovery for Mesos](https://github.com/mesosphere/mesos-dns)
 * [Service Discovery script for Mesos and Marathon](https://github.com/opencredo/mesos_service_discovery)
@@ -337,10 +347,8 @@ What can you expect to see here?
 * [Surok](https://github.com/Difrex/surok)
 * [Sprinter](https://github.com/lasp-lang/sprinter)
 
-### Networking
-* [Project Calico](https://github.com/projectcalico/calico-mesos)
 
-### Modules
+## Modules
 * [A customer allocator module](https://github.com/stealthly/alligator)
 * [Serenity](https://github.com/mesosphere/serenity)
 * [Metaswitch](https://github.com/mesosphere/metaswitch-modules)
@@ -351,7 +359,7 @@ What can you expect to see here?
 * [Allocator module with Offer Filtering](https://github.com/gettyimages/mesos_offer_filtering_allocator_module)
 * [Threshold-based Mesos Oversubscription](https://github.com/blue-yonder/mesos-threshold-oversubscription)
 
-### Platforms and microservice architectures
+## Platforms and microservice architectures
 * [DC/OS](https://dcos.io/)
 * [Mantl](https://github.com/CiscoCloud/mantl)
 * [Apollo](https://github.com/Capgemini/Apollo)
@@ -360,9 +368,6 @@ What can you expect to see here?
 * [Compute platform](https://github.com/sttts/compute-platform)
 * [PaaSTA](https://github.com/Yelp/paasta)
 * [Appsoma Welder](https://github.com/appsoma/welder)
-
-### Shell-scripts
-* [Mesos on Eucalyptus Private Cloud](https://github.com/strat0sphere/spark-euca)
 
 ## Other projects and Integrations
 * [BigDataScript](https://github.com/pcingola/BigDataScript)
