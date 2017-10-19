@@ -453,3 +453,4 @@ What can you expect to see here?
 * [Apache Mesos Youtube Channel](https://www.youtube.com/channel/UC0wxLxgX8ilUn0m31lCpzAw)
 * [List of Mesos related conferences & meetups](https://github.com/parolkar/awesome-mesos#related-conferences--meetups)
 * [Apache Mesos Essentials book](http://dharmeshkakadia.blogspot.com/2015/06/apache-mesos-essential-is-now-available.html)
+* [Apache Mesos Cookbook](https://www.packtpub.com/big-data-and-business-intelligence/apache-mesos-cookbook)
