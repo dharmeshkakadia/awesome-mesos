@@ -442,6 +442,7 @@ What can you expect to see here?
 * [deathnode - Gracefully kill Mesos nodes for autoscaling](https://github.com/alanbover/deathnode)
 * [PAPI performance counters for Mesos](https://github.com/ct-clmsn/mesos-papi)
 * [REX-Ray storage orchestration engine](https://github.com/thecodeteam/rexray)
+* [Toil - workflow engine](https://github.com/BD2KGenomics/toil)
 
 ## Where to look for more?
 
