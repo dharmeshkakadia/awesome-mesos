@@ -112,6 +112,7 @@ What can you expect to see here?
 * [Metronome](https://github.com/dcos/metronome)
 * [Swan](https://github.com/Dataman-Cloud/swan)
 * [ElasticJob](https://github.com/dangdangdotcom/elastic-job)
+* [Waiter - Runs, manages, and autoscales web services](https://github.com/twosigma/waiter)
  
 ### Consensus 
 * [ZooKeeper](https://github.com/CiscoCloud/exhibitor-mesos-framework) and [ZooKeeper](https://github.com/elodina/exhibitor-mesos-framework)
