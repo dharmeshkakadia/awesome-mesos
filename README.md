@@ -191,6 +191,7 @@ What can you expect to see here?
 * [ScaleIO](https://github.com/codedellemc/scaleio-framework)
 * [openvdc](https://github.com/axsh/openvdc)
 * [hippo - Mesos framework for eating tasks off queues](https://github.com/Hobsons/hippo)
+* [rexe - Remote Execution tool for Mesos](https://github.com/skytix-dev/rexe)
 
 ## Language Bindings
 
