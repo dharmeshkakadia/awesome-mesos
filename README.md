@@ -192,6 +192,7 @@ What can you expect to see here?
 * [openvdc](https://github.com/axsh/openvdc)
 * [hippo - Mesos framework for eating tasks off queues](https://github.com/Hobsons/hippo)
 * [rexe - Remote Execution tool for Mesos](https://github.com/skytix-dev/rexe)
+* [SearchYA - simple distributed textual search engine](https://github.com/Dudi119/SearchYA)
 
 ## Language Bindings
 
