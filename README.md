@@ -246,6 +246,7 @@ What can you expect to see here?
 * [JavaScript framework boilerplate](https://github.com/tobilg/mesos-framework-boilerplate)
 * [Mesos Go Stateful](https://github.com/huawei-cloudfederation/mesos-go-stateful)
 * [Mesos Framework SDK](https://github.com/verizonlabs/mesos-framework-sdk)
+* [Customizable Mesos Executor](https://github.com/allegro/mesos-executor)
 
 ### Command line tools
 * [mesosctl](https://github.com/mesoshq/mesosctl)
