@@ -75,7 +75,6 @@ What can you expect to see here?
 
 ### Storage and Serving
 * [Apache Cassandra](https://github.com/mesosphere/cassandra-mesos)
-* [ArangoDB](https://github.com/fceller/arangodb-mesos)
 * [Hypertable](https://code.google.com/p/hypertable/wiki/Mesos)
 * [ElasticSearch](https://github.com/mesos/elasticsearch)
 * [Tachyon](https://github.com/mesosphere/tachyon-mesos)
@@ -153,7 +152,6 @@ What can you expect to see here?
 * [JobServer](http://www.grandlogic.com/content/html_docs/products.shtml#jobserverprod)
 * [RENDLER](https://github.com/mesosphere/RENDLER)
 * [OwlCrawler](https://github.com/fmpwizard/owlcrawler)
-* [Tryant - Distributed job scheduler in go](https://github.com/wandoulabs/tyrant)
 * [Volt](https://github.com/VoltFramework/volt)
 * [Gozer](https://github.com/twitter/gozer) - Prototype with low-level go API
 * [Portainer](https://github.com/duedil-ltd/portainer) - builds docker images using Mesos cluster
