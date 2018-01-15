@@ -124,7 +124,7 @@ What can you expect to see here?
 * [Teamcity Plugin](https://github.com/ankurcha/mesos-teamcity-plugin)
 
 ### One-off tasks/commands
-* [Eremetic](https://github.com/alde/eremetic)
+* [Eremetic](https://github.com/eremetic-framework/eremetic)
 * [R scripts](https://github.com/MohamedBassem/r-cluster)
 
 ### Tracing
