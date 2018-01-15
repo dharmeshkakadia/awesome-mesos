@@ -126,6 +126,7 @@ What can you expect to see here?
 ### One-off tasks/commands
 * [Eremetic](https://github.com/alde/eremetic)
 * [R scripts](https://github.com/MohamedBassem/r-cluster)
+* [Sprint](https://github.com/adform/sprint)
 
 ### Tracing
 * [Zipkin](https://github.com/elodina/zipkin-mesos-framework)
