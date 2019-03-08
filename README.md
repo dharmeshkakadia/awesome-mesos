@@ -372,6 +372,7 @@ What can you expect to see here?
 * [Compute platform](https://github.com/sttts/compute-platform)
 * [PaaSTA](https://github.com/Yelp/paasta)
 * [Appsoma Welder](https://github.com/appsoma/welder)
+* [Peloton from Uber](https://github.com/uber/peloton)
 
 ## Other projects and Integrations
 * [BigDataScript](https://github.com/pcingola/BigDataScript)
