@@ -69,7 +69,6 @@ What can you expect to see here?
 #### Stream/Event Processing
 * [Apache Storm](https://github.com/mesos/storm)
 * [Samza](https://github.com/Banno/samza-mesos)
-* [Concord](http://concord.io/)
 * [Heron](https://github.com/twitter/heron)
 * [Fabric](https://github.com/olacabs/fabric)
 
@@ -90,11 +89,12 @@ What can you expect to see here?
 * [Ceph](https://github.com/Intel-bigdata/ceph-mesos)
 * [Crate](https://github.com/crate/crate-mesos-framework)
 * [Apache Accumulo](https://github.com/aredee/accumulo-mesos)
-* [memSQL](https://github.com/memsql/memsql-mesos)
 * [MrRedis - Mesos runs Redis](https://github.com/dhilipkumars/MrRedis)
 * [Apache Ignite](https://apacheignite.readme.io/docs/mesos-deployment)
 * [DataStax](https://github.com/elodina/datastax-enterprise-mesos)
 * [Kafaka -> Cassandra mirroring](https://github.com/elodina/stockpile)
+
+* ~~memSQL~~
 
 ### Machine Learning
 * [TensorFlow](https://github.com/douban/tfmesos)
@@ -157,7 +157,6 @@ What can you expect to see here?
 * [Gozer](https://github.com/twitter/gozer) - Prototype with low-level go API
 * [Portainer](https://github.com/duedil-ltd/portainer) - builds docker images using Mesos cluster
 * [Autoscaling](https://github.com/sammyas/autoscaling)
-* [Matrix Multiplication](https://github.com/mpark/mesos-matrix-multiply)
 * [Jetty](https://github.com/guenter/jetty-mesos)
 * [JobTree](https://github.com/kellrott/jobTree-mesos)
 * [VilfredoMesos: a chameleon Mesos framework](https://github.com/rukletsov/vilfredomesos)
@@ -185,7 +184,6 @@ What can you expect to see here?
 * [Slurm](https://github.com/nqn/slurm-mesos) (deprecated)
 * [Satyr](https://github.com/lensacom/satyr)
 * [Retz](https://github.com/retz/retz)
-* [Marvin Scheduler](https://github.com/dedalusj/marvin_mesos)
 * [Wraxl](https://github.com/kscherer/wraxl-scheduler)
 * [ScaleIO](https://github.com/codedellemc/scaleio-framework)
 * [openvdc](https://github.com/axsh/openvdc)
@@ -306,7 +304,6 @@ What can you expect to see here?
 
 ### Terraform
 * [Terraform Mesos](https://github.com/ContainerSolutions/terraform-mesos)
-* [Terraform Mesos](https://github.com/tonyjchong/terraform-mesos)
 
 ### Systemd
 * [Mesos SystemD](https://github.com/adobe-platform/mesos-systemd)
@@ -326,7 +323,6 @@ What can you expect to see here?
 ## Monitoring and alerting
 * [Nagios Mesos](https://github.com/opentable/nagios-mesos)
 * [CollecD Mesos task](https://github.com/bobrik/collectd-mesos-tasks) 
-* [CollectD Mesos](https://github.com/rayrod2030/collectd-mesos)
 * [Docker CollecD Mesos](https://github.com/bobrik/docker-collectd-mesos))
 * [Satellite](https://github.com/twosigma/satellite)
 * [Prometheus](https://github.com/prometheus/mesos_exporter)
@@ -382,7 +378,6 @@ What can you expect to see here?
 * [Sample FluentD on Mesos Docker](https://github.com/riywo/sample-fluentd-on-mesos-docker)
 * [Mesos Utils](https://github.com/mesosphere/mesos-utils)
 * [Mesos CLI](https://github.com/mesosphere/mesos-cli)
-* [Mesoshub](https://github.com/opentable/mesoshub)
 * [Marathon Python](https://github.com/thefactory/marathon-python)
 * [Marathon Logger](https://github.com/thefactory/marathon-logger)
 * [Service Bridge](https://github.com/mesosphere/service-bridge)
@@ -424,7 +419,6 @@ What can you expect to see here?
 * [Mesos on Mesos](https://github.com/mesosphere/mom)
 * [Load replaying](https://github.com/stealthly/punxsutawney)
 * [Vamp](https://github.com/magneticio/vamp)
-* [Dispatch - execute scripts on Mesos cluster](https://github.com/mesosphere/dispatch)
 * [Charmander](https://github.com/att-innovate/charmander)
 * [Compose-executor](https://github.com/mohitsoni/compose-executor)
 * [Triathlon - Marathon wrapper for distributed Mesos cluster selection](https://github.com/schibsted/triathlon)
@@ -444,6 +438,10 @@ What can you expect to see here?
 * [PAPI performance counters for Mesos](https://github.com/ct-clmsn/mesos-papi)
 * [REX-Ray storage orchestration engine](https://github.com/thecodeteam/rexray)
 * [Toil - workflow engine](https://github.com/BD2KGenomics/toil)
+
+* ~~Dispatch - execute scripts on Mesos cluster~~
+* ~~OpenTable Mesoshub~~
+* ~~Marvin Scheduler~~
 
 ## Where to look for more?
 
