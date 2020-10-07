@@ -159,7 +159,6 @@ What can you expect to see here?
 * [Autoscaling](https://github.com/sammyas/autoscaling)
 * [Jetty](https://github.com/guenter/jetty-mesos)
 * [JobTree](https://github.com/kellrott/jobTree-mesos)
-* [VilfredoMesos: a chameleon Mesos framework](https://github.com/rukletsov/vilfredomesos)
 * [Sun Grid Engine](https://github.com/kellrott/grid-framework)
 * [Checkswarm](https://github.com/mbabineau/checkswarm)
 * [gasc - Generic Mesos Gang Scheduler for HPC tooling](https://github.com/nqn/gasc)
