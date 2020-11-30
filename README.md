@@ -202,7 +202,6 @@ What can you expect to see here?
   * [Pymesos](https://github.com/dangra/pymesos) 
   * [Python HTTP](https://github.com/osallou/python-mesos-http)
 * [Go](https://github.com/mesos/mesos-go)
-  * [Gomes](https://github.com/vladimirvivien/gomes) - Pure Go
   * [mesos-go-http](https://github.com/ondrej-smola/mesos-go-http) - HTTP Go
 * [Erlang](https://github.com/mdevilliers/erlang-mesos) with [example framework](https://github.com/mdevilliers/merkxx)
 * [Haskell](https://github.com/iand675/hs-mesos)
