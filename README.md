@@ -253,7 +253,6 @@ What can you expect to see here?
 * [Playa Mesos](https://github.com/mesosphere/playa-mesos )
 * [Vagrant Deimos](https://github.com/bskaggs/vagrant-deimos)
 * [Vagrant Mesos Spark](https://github.com/aharwood/vagrant-mesos-spark)
-* [Vagrant Mesos Cluster](https://github.com/Woorank/vagrant-mesos-cluster)
 * [Vagrant Mesos](https://github.com/ahunnargikar/vagrant-mesos)
 * [Mesos Marathon Deimos Vagrant](https://github.com/liubin/mesos-marathon-deimos-vagrant)
 * [Mesos Playground](https://github.com/antonlindstrom/mesos_playground)
